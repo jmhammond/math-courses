@@ -1,0 +1,9 @@
+// font embed from google fonts
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed|Roboto:400,400i,700|Titillium+Web');
+
+body {
+    font-family: 'Titillium Web', sans-serif;
+}
+h1, h2, h3, .logo {
+    font-family: 'Roboto', sans-serif;
+}

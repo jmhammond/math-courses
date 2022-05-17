@@ -1,4 +1,11 @@
-baseURL: http://example.org/
+baseURL: http://hammond.math.wichita.edu/
 languageCode: en-us
-title: TEsting out this thing
+title: "Hammond's Class Notes"
 theme: "PaperMod"
+params:
+    defaultTheme: "auto" # auto dark/light
+    disableSpecial1stPost: true  # disabled is ugly
+    label:
+        text: "Class Notes"
+        icon: "/wsu-logo.png"
+        # iconHeight: 36

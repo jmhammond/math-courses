@@ -1,0 +1,57 @@
+$color-undefined: #aaaaaa;
+$white: #fff;
+$black: #000;
+
+$color-brand: #ffc217;
+$color-brand-alt: #136c94;
+
+// Brand Color Palette: primaries
+$color-primary: $color-brand;
+$color-secondary: #f3ad1c;
+$color-tertiary: #903b41;
+$color-quaternary: #bb4935;
+$color-quinary: #c95e44;
+$color-senary: #72a6bf;
+$color-septenary: #879848;
+$color-octonary: #000;
+$color-nonary: #000;
+$color-denary: #000;
+
+// Brand Color Palette: accents
+$color-accent-primary: #000;
+$color-accent-secondary: #000;
+$color-accent-tertiary: #000;
+$color-accent-quaternary: #000;
+$color-accent-quinary: #000;
+$color-accent-senary: #000;
+$color-accent-septenary: #000;
+$color-accent-octonary: #000;
+$color-accent-nonary: #000;
+$color-accent-denary: #000;
+
+
+// Grays / Shades / Support Colors
+$color-shade-base: #b0aeaa;
+$color-shade-lightest: #f2f2f2;
+$color-shade-lighter: lighten($color-shade-base, 20%);
+$color-shade-light: lighten($color-shade-base, 10%);
+$color-shade: #989898;
+$color-shade-dark: #979797;
+$color-shade-darker: #3b3b3b;
+$color-shade-darkest: #1f1f1f;
+
+
+// Global Color Settings
+$color-text: $color-shade-darker;
+$color-bg: $color-shade-lightest;
+$color-border: $color-shade;
+$color-link: $color-tertiary;
+// $color-link-hover: $color-quaternary;
+// change these outline colors later:
+$outline-color: rgba($color-primary, 0.2);
+$outline-color-on-dark: rgba($color-primary, 0.2);
+
+
+$color-success: $color-nonary;
+$color-warning: $color-senary;
+$color-alert: $color-quinary;
