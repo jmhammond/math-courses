@@ -3,6 +3,7 @@ languageCode: en-us
 title: "Hammond's Class Notes"
 theme: "PaperMod"
 params:
+    hideFooter: true  # hide the default footer so I can customize it in extend_footer.html
     defaultTheme: "auto" # auto dark/light
     disableSpecial1stPost: true  # disabled is ugly
     hidemeta: true #don't show me authoring every page

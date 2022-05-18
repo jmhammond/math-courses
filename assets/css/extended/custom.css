@@ -34,7 +34,6 @@
     --primary: rgb(30, 30, 30);
 }
 
-
 /* For the spoiler tags  */
 
 .spoiler {
@@ -76,9 +75,7 @@
     outline: 0;
 }
 
-
-
-////// copy-pasted from WSU //////
+/* copy pasted from WSU*/
 
 /*
 $color-brand: #ffc217;
