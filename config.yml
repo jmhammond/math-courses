@@ -13,3 +13,21 @@ params:
         text: "Class Notes"
         icon: "/wsu-logo.png"
         iconHeight: 48
+
+    profileMode:
+        enabled: true
+        #title: "<Title>" # optional default will be site title
+        subtitle: "Select your course below:"
+        # imageUrl: "<image link>" # optional
+        # imageTitle: "<title of image as alt>" # optional
+        # imageWidth: 120 # custom size
+        # imageHeight: 120 # custom size
+        buttons:
+            - name: "Math 123: Trig"
+              url: "/trig"
+            - name: "Math 242: Calc 1"
+              url: "/calc"
+            - name: "Math 321: Discrete 1"
+              url: "http://www.wichita.edu/discretebook"
+            - name: "Math 531: History"
+              url: "/history"
