@@ -1,11 +1,13 @@
-# Math 123: College Trigonometry
+# Hammond's Math Classes
 
-This is a Hugo static site for my trig class pre-class content.
+This is a Hugo static site for my class pre-class content. Starting with trig class.
 
 This will also serve as a base for any other hugo projects I explore for my classes. I'm currently using: 
 - MathJax 3
 - Support {{% spoiler %}} tags for hiding answers to questions
 - Embedding youtube videos via the {{% youtube %}} shortcode
+- Includes WSU default fonts, colors, and logos. 
+- 🐿
 
 
 I'm using the [PaperMod theme](https://github.com/adityatelange/hugo-PaperMod). For first time cloning, run this:
