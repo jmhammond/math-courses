@@ -1,6 +1,6 @@
 baseURL: http://hammond.math.wichita.edu/
 languageCode: en-us
-title: "Hammond's Class Notes"
+title: "Hammond's Course Notes"
 theme: "PaperMod"
 params:
     hideFooter: true  # hide the default footer so I can customize it in extend_footer.html
@@ -10,7 +10,7 @@ params:
     assets:
         theme_color: "#ffc217"  # safari's toolbar color
     label:
-        text: "Class Notes"
+        text: "Course Notes"
         icon: "/wsu-logo.png"
         iconHeight: 48
 
