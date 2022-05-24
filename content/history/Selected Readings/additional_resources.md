@@ -61,7 +61,7 @@ Here are some of the many papers discussing the Plimpton 322 tablet:
     - [Here's a link to the library's catalog entry](https://go.exlibris.link/dPYC0GF1) so you can get the full-text. 
 - And [here's the Euclid's II.11 activity to work though](https://www.geogebra.org/m/ux4w6jkx).
 
-## Resources for Cubics
+## Resources for Cubics (Cardano, Tartaglia, and more)
 
 - Here's a link to [Cardano's _Ars Magna_](https://archive.org/details/arsmagnaorruleso0000card) translated into English (requires free Archive.org account).
 
@@ -82,3 +82,102 @@ Here are some of the many papers discussing the Plimpton 322 tablet:
 - This book is excellent and should be read cover-to-cover for any topic. In particular there is a great chapter on Cardano and Tartaglia along with Cardano's geometric proof of the cubic formula (remember that everything is backed up with geometry! A "cube" means a literal cube.
     - Dunham, W. (1991). _Journey through genius: The great theorems of mathematics_ (p. 300). Penguin Books. [http://books.google.com/books?id=_IbWAAAAMAAJ&pgis=1](http://books.google.com/books?id=_IbWAAAAMAAJ&pgis=1)
     - (you can find it at the library or just search with "pdf" added and you'll find many copies of questionable sourcing online).
+
+## Fundamental Theorem of Algebra topics
+
+- Good historical overview of algebra from the beginning through Noether in the 20th century
+
+    - van der Waerden, B. L. (1985). _A history of algebra: From al-Khwarizmi to noether_. Springer-Verlag.  ([available at our library](https://libcat.wichita.edu/vwebv/holdingsInfo?bibId=518269)) 
+
+- Bombelli's crazy algebra: 
+
+    - Arcavi, A., & Bruckheimer, M. (1991). Reading Bombelli’s x-Purgated Algebra. _The College Mathematics Journal_, _22_(3), 212–219.
+    [Link to the PDF](/history/Arcavi1991.pdf)
+
+- Talking about Euler and others trying to solve the question: 
+
+    - Dunham, W. (1991). Euler and the fundamental theorem of algebra. _The College Mathematics Journal_, _22_(4), 282–293.  
+    [Link to the PDF](/history/Dunham1991.pdf)
+
+## Fermat's Last Theorem Resources
+- [The BBC Horizon Documentary on Fermat's Last Theorem](https://www.dailymotion.com/video/x3wrbsb) (the link is dailymotion; it hasn't been taken down yet...)
+  ![Photo of Andrew Wiles](/history/WilesPhoto.png) [^1] [^1]: Photo from [this article](https://www.ams.org/publications/journals/notices/201703/rnoti-p209.pdf)
+ 
+- Simon Singh has an excellent book on the story called Fermat's Enigma. It's available at the library.  (Singh is a very easy-to-read popular science author).
+
+- [This article](https://www.ams.org/publications/journals/notices/201703/rnoti-p209.pdf) claims to be "accessible to non-experts" overview of Wiles' proof.
+
+- WIles' correction for his proof of Fermat's Last Theorem 
+    Wiles, A. (1995). Modular elliptic curves and fermat's last theorem. Annals of Mathematics, 141(3), 443-551. https://doi.org/10.2307/2118559
+
+## Sines and Logarithms
+- Kepler's relationship between science and religion:
+  Kozhamthadam, J. (2002). The Religious Foundations of Kepler’s Science. _Revista Portuguesa de Filosofia_, _58_(4), 887–901.
+
+- Bhaskara's transation of Aryabhata
+  Keller, A. (2006). _Expounding the Mathematical Seed. Vol. 1: The Translation: A Translation of Bhāskara I on the Mathematical Chapter of the Āryabhatīya_. Birkhäuser Basel. [https://doi.org/10.1007/3-7643-7592-2](https://doi.org/10.1007/3-7643-7592-2)
+
+- John Napier: 
+    - Napier's end of the world prediction: [A Plaine Discovery of the Whole Revelation of Saint John](https://archive.org/details/NapierJohn.APlaineDiscoveryOfTheWholeRevelationOfSaintJohnSet/page/n9/mode/2up)
+    - Napier's lattice multiplication via number rods: [Rabdologia: The Art of Numbering by Rods ](https://www.google.com/books/edition/Rabdologia_or_the_art_of_numbring_by_rod/P25jAAAAcAAJ?hl=en&gbpv=0)
+      - this edition is in English by Seth Patridge in 1648. Napier's latin version was taken down 😟
+    - Logarithms! Here is [Napier's *Mirifici logarithmorum canonis descriptio*](https://archive.org/details/mirificilogarit00napi).
+ 
+## Calculus 
+- Main source for the series - thorough history of all the players (and more than can be covered in a week of classes):
+   Boyer, C. B. (1988). _The history of the calculus and its conceptual development: The concepts of the calculus_ (Repr). Dover Publ.
+- The article I recommended answering questions about rigor and symbols: 
+   Grabiner, J. V. (1983). Who Gave You the Epsilon? Cauchy and the Origins of Rigorous Calculus. _The American Mathematical Monthly_, _90_(3), 185–194.
+- History of math book that provided me with computational details of Newton's fluxional calculus
+   Katz, V. J. (2009). _A history of mathematics: An introduction_ (p. 976). ADDISON WESLEY Publishing Company Incorporated. 
+- ... and another Katz paper I haven't yet read (it's on my list) that goes into the history of the calculus of trig functions. Spoiler: It's Euler again!
+  Katz, V. J. (1987). The calculus of the trigonometric functions. _Historia Mathematica_, _14_(4), 311–324. [https://doi.org/10.1016/0315-0860(87)90064-4](https://doi.org/10.1016/0315-0860(87)90064-4)
+
+## Probability and Statistics
+
+- Pascal and Fermat's correspondance on probability (and sums, and Fermat primes, and health...), [collected translated into English available here](https://www.york.ac.uk/depts/maths/histstat/pascal.pdf). 
+  - Devlin, K. (2010). The Pascal-Fermat correspondence: How mathematics is really done. _The Mathematics Teacher_, _103_(8), 578. 
+
+- Really enjoyable book explaining the development of statistics:
+
+    Salsburg, D. (2002). _The lady tasting tea: How statistics revolutionized science in the twentieth century_ (1. Holt Pp. Ed). Holt.
+
+##  Computing Devices
+
+- Old Computers
+    - Napier's Bones simulator
+    - Video demonstrating Pascal's Pascaline (recommend at least 1.5x speed).
+    - Illustrations and reconstruction of Leibniz' Stepped Reckoner.
+    - The Arithmometer mechanical calculator
+    - Babbage's difference engine with relaxing music
+      https://www.youtube.com/watch?v=be1EM3gQkAY
+    - This video demos the math behind the machine
+      https://www.youtube.com/watch?v=PFMBU17eo_4
+
+    - Really great photo collection from the Computer museum
+      - setting it up
+https://www.computerhistory.org/revolution/birth-of-the-computer/4/78/316
+      - operating it
+https://www.computerhistory.org/revolution/birth-of-the-computer/4/78/321
+      - implemented in a circuit chip in 1995:
+https://www.computerhistory.org/revolution/birth-of-the-computer/4/78/327
+
+- Article on the History of Computing in ComputerWorld 1981
+https://archive.org/details/TheHistoryOfComputing/mode/2up
+
+- Excellent book on the subject and a major source for my talk:
+
+  Ifrah, G. (2001). The Universal History of Computing: From the Abacus to the Quantum Computer. Wiley.
+
+- Historical logical
+    - George Boole's Laws of Thought
+    https://www.gutenberg.org/files/15114/15114-pdf.pdf
+    - And Augustus de Morgan's Formal Logic:
+    https://archive.org/details/formallogicorthe00demouoft
+
+## Cantor's Infinity
+
+- For more information about Cantor's arguments on the sizes of infinity, check out chapters 11 and 12 of William Dunham's Journey Through Genius (link to a pdf *subtle cough*).
+  
+  Dunham, W. (1991). Journey through genius: The great theorems of mathematics (p. 300). Penguin Books.
+
