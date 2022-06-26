@@ -1,0 +1,247 @@
+#+title: Hammond's Blog And Class Posts
+#+hugo_base_dir: ../
+#+MACRO: more @@hugo:<!--more-->@@
+#+MACRO: youtube @@hugo:{{< youtube id="$1" >}}@@
+#+hugo_paired_shortcodes: spoiler
+
+* Calculus 1 - Math 242
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: calc
+:END:
+
+** Chapter 1
+:PROPERTIES:
+:EXPORT_HUGO_SECTION_FRAG: chapter1
+:END:
+***  First test sample post :hugo:
+:PROPERTIES:
+:EXPORT_FILE_NAME: First_test_file
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :mathjax true
+:END:
+
+This is what you can do with calc
+{{{more}}}
+This is section 3.3  (and 3.4 below)
+
+**** Increasing / Decreasing Test
+
+- If $f'(x) > 0$ on an interval, then $f$ is increasing on that interval.
+- If $f'(x) < 0$ on an interval, then $f$ is decreasing on that interval.
+- If $f'(x) = 0$ on an interval, then $f$ is constant on that interval.
+
+
+**** Youtube test:
+There should be a video here
+{{{youtube(J2h_bCkhmwM)}}}
+
+
+**** Spoiler test:
+
+#+begin_spoiler
+You need to click to see this, my friend.
+#+end_spoiler
+
+* History - Math 300
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: math300
+:END:
+** Daily Readings and Assignments
+:PROPERTIES:
+:EXPORT_FILE_NAME: DailyReadings
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :mathjax true
+:END:
+*** Tomorrow's Reading and Assignments
+Before class tomorrow, please complete the following:
+**** Day 2
+- Read:
+  - Sketch 1
+  - Nutshell, pages 5-25
+- Do:
+  - Sketch 1 questions 1-3 fs
+
+
+**** Day 3: :noexport:
+- Read:
+  - Sketch 2
+  - Sketch 4
+- Do:
+  - Sketch 2 questions 1, 4, 5
+  - Sketch 4 questions 4, 6, 7
+  - The [[https://docs.google.com/document/d/1wVzn8FClW47TPj7Bei7jRBZWQqfugbGq9D8MxBD4wjc/edit?usp=sharing][Citation Activity linked]] here.
+    You don't need to turn anything in - answers will be posted tomorrow - but like all assignments, please do your best. The purpose of this activity is to ensure you are familiar with autogenerating APA formatting and seeing how easy it is to search the library catalog.
+- Do you have modeling clay/playdoh? Can you dig a hole in your yard and get some wet dirt?
+- Grab your 'clay,' a popsicle stick (or regular stick) and watch along to learn to write Cuineiform:
+  https://www.youtube.com/watch?v=zOwP0KUlnZg
+**** Day 4: :noexport:
+- Read:
+  - Sketch 12
+- Do:
+  - Sketch 12: problems 3, 4, 7
+  - Note for problem 3, here's [[https://mathcs.clarku.edu/~djoyce/java/elements/bookVI/propVI31.html][Euclid's Elements Online]]
+**** Day 5: :noexport:
+- Try to find about 70 pennies (we want consistent-sized small circular discs) (it's okay if you can't, but if you have them, bring them!)
+- Read:
+  - Sketch 7
+  - Sketch 8
+  - Sketch 9
+- Do:
+  - Sketch 7: Problems 1 and 2
+  - Sketch 8: Problems 2, 6
+  - Sketch 9: Problems 1, 2, 3
+
+
+
+*** Previous Readings (in reverse order by date)
+... nothing yet...
+
+**** Day 2 :noexport:
+- Read:
+  - Sketch 1
+  - Nutshell, pages 5-25
+- Do:
+  - Sketch 1 questions 1-3 fs
+... nothing yet...
+
+* Trig - Math 123
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: trig
+:END:
+
+** Chapter 1
+:PROPERTIES:
+:EXPORT_HUGO_SECTION_FRAG: chapter1
+:END:
+***  Another test sample post :hugo:
+:PROPERTIES:
+:EXPORT_FILE_NAME: Trig_test
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :mathjax true
+:END:
+
+This is what you can do with trig
+{{{more}}}
+With words an whatnot.
+
+* Blog Posts
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: blog
+:END:
+** Getting started with Hugo for course content. :hugo:
+:PROPERTIES:
+:EXPORT_FILE_NAME: getting_started_with_hugo
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :mathjax true :ShowCodeCopyButtons true
+:END:
+I wanted a "simple" way to write my class materials in Markdown. Hugo magically makes it a website.
+{{{more}}}
+I've been using Discourse for class content for about three years now - written in Markdown, I can easy mix text, math, and youtube videos and Discourse magically created the pre-class and post-class content pages. But of course that required students have a separate place to check for course materials, and I'm worried it wasn't viewed as often as I'd like.
+
+Hugo takes Markdown and (almost) magically creates a static website. Nice!
+
+In this post I'm going to document setting up the hugo blog for my course materials -- mostly for myself in case I need to recreate it in the future -- if you are reading this and are not me, let me know if it helps!
+
+*** Basic setup of the hugo blog
+... For this, look elsewhere and come back. (sorry)
+
+Here's a [[https://github.com/jmhammond/math-courses][link to mine on GitHub]] with information about cloning and setting up.
+
+*** Setting up Mathjax 3
+There's really three things that need to happen to use Mathjax on a page:
+1. You need to create a mathjax =partial=. This will live in ~site-name/layouts/partials/mathjax_support.html~:
+      #+begin_src html
+<script>
+  MathJax = {
+  tex: {
+  packages: ['base', 'ams'],        // extensions to use
+  inlineMath: [ ['$','$'], ['\\(','\\)'] ],
+  displayMath: [             // start/end delimiter pairs for display math
+  ['$$', '$$'],
+  ['\\[', '\\]']
+  ],
+  processEscapes: true,      // use \$ to produce a literal dollar sign
+  processEnvironments: true, // process \begin{xxx}...\end{xxx} outside math mode
+  formatError:               // function called when TeX syntax errors occur
+  (jax, err) => jax.formatError(err)
+  }
+  };
+</script>
+<script type="text/javascript" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+   #+end_src
+
+2. and then in the ~site-name/layouts/extend_head.html~ file, add the following:
+   #+begin_src
+{{ if .Params.mathjax }}{{ partial "mathjax_support.html" . }}{{ end }}
+    #+end_src
+    The conditional means that mathjax won't load on every page (since it does add overhead). It will only be on pages that request it.
+
+3. To add mathjax to the page, you need to add the page parameter to the (toml) frontmatter: ~mathjax= true~.
+
+
+*** Fonts and Colors
+In order to match some of the [[https://www.wichita.edu/services/strategic_communications/brand_standards/colors_and_fonts.php][look and feel of the official WSU website]], I specified css files for hugo which automatically get picked up and used. For this, I created a ~fonts.css~ and ~custom.css~ file in the folder ~site-name/assets/css/extended~.
+
+*** Spoiler shortcode
+If you want to be able to hide an answer/solution so students need to click to reveal it,
+
+#+begin_spoiler
+... like this ...
+#+end_spoiler
+
+I've created a simple spoiler tag as a [[https://gohugo.io/content-management/shortcodes/][Hugo shortcode.]]  The above example was created by:
+
+#+begin_src html
+{{ < spoiler > }}
+... like this ...
+{{ </ spoiler > }}
+#+end_src
+
+Add this file to ~site-name/layouts/shortcodes/spoiler.html~
+#+begin_src html
+<div class="spoiler"><details {{ if (eq (.Get "openByDefault") true) }} open=true {{ end }}>
+  <summary markdown="span">Click to reveal the answer.</summary>
+  {{ .Inner | markdownify }}
+</details></div>
+#+end_src
+
+and add this CSS to the ~site-name/assets/css/extended/custom.css~ file:
+#+begin_src css
+/* For the spoiler tags  */
+
+.spoiler {
+    margin: 0 5px 40px 5px;
+    border: 1px solid var(--border);
+    background: var(--entry);
+    border-radius: var(--radius);
+    padding: 0.4em;
+}
+
+.dark .spoiler {
+    background: var(--entry);
+}
+
+.spoiler details summary {
+    cursor: zoom-in;
+    margin-inline-start: 20px;
+}
+
+.spoiler details[open] summary {
+    cursor: zoom-out;
+}
+
+.spoiler .details {
+    display: inline;
+    font-weight: 500;
+}
+
+.spoiler .inner {
+    margin: 0 20px;
+    padding: 10px 20px;
+}
+
+.spoiler li ul {
+    margin-inline-start: var(--gap);
+}
+
+.spoiler summary:focus {
+    outline: 0;
+}
+#+end_src

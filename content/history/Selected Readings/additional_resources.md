@@ -48,6 +48,7 @@ Here are some of the many papers discussing the Plimpton 322 tablet:
     -  Keller, A. (2006). _Expounding the Mathematical Seed. Vol. 1: The RTranslation: A Translation of Bhāskara I on the Mathematical Chapter of the Āryabhatīya_. Birkhäuser Basel. [https://doi.org/10.1007/3-7643-7592-2](https://doi.org/10.1007/3-7643-7592-2)
 - Examples from Ahmes papyrus as presented in 
     - Joseph, G. G. (2010). _The Crest of the Peacock: Non-European Roots of Mathematics_ (3rd ed., p. 592). Princeton University Press; 3rd edition edition.  
+    - [Scrollable version of the papyrus from the British Museum's website](https://www.britishmuseum.org/collection/object/Y_EA10058)
 - Mesopotamian examples
    - Katz, V. J. (2003). _The history of mathematics: Brief version_ (Vol. 2003, p. 560). Pearson/Addison-Wesley. [http://books.google.com/books?id=pI8_AQAAIAAJ&pgis=1](http://books.google.com/books?id=pI8_AQAAIAAJ&pgis=1)
    - and the [tablet/prism in the Louvre here.](http://ressources.louvrelens.fr/EXPLOITATION/oeuvre-ao-8862.aspx)

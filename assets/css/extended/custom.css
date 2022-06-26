@@ -75,6 +75,44 @@
     outline: 0;
 }
 
+/* From Mozilla MDN via https://ox-hugo.scripter.co/doc/org-special-blocks/ */
+aside {
+    width: 40%;
+    padding-left: .5rem;
+    margin-left: .5rem;
+    float: right;
+    box-shadow: inset 5px 0 5px -5px #29627e;
+    font-style: italic;
+    color: #29627e;
+}
+
+aside > p {
+    margin: .5rem;
+}
+
+
+/* from Docsy theme via https://ox-hugo.scripter.co/doc/shortcodes */
+.alert {
+  position: relative;
+  padding: 0rem 1rem;
+  margin-bottom: 1rem;
+  border: 1px solid transparent;
+}
+
+.alert-warning {
+  border-style: solid;
+  border-color: #ed6a5a;
+  border-width: 0 0 0 4px;
+}
+
+.alert-heading {
+  font-family: sans-serif;
+  font-size: 1.5rem;
+  color: #ed6a5a;
+  weight: bold;
+}
+
+
 /* copy pasted from WSU*/
 
 /*
