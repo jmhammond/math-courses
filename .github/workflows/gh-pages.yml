@@ -3,8 +3,11 @@ name: deploy to jmhammond.github.io
 on:
   push:
     branches:
-      - master  # Set a branch to deploy
+      - main  # Set a branch to deploy
   workflow_dispatch:
+
+permissions:
+    content: write
 
 jobs:
   deploy:
