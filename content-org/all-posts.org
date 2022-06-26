@@ -43,9 +43,19 @@ You need to click to see this, my friend.
 
 * History - Math 300
 :PROPERTIES:
-:EXPORT_TITLE: Math 300: Evolution of Mathematics
 :EXPORT_HUGO_SECTION: math300
 :END:
+
+** Index page
+:PROPERTIES:
+:EXPORT_TITLE: Math 300: Evolution of Mathematics
+:EXPORT_FILE_NAME: _index.html
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :mathjax true
+:END:
+
+In which we learn that people are terribly interesting and math isn't terrible.
+
+{{{more}}}
 
 ** Daily Readings and Assignments
 :PROPERTIES:
@@ -59,8 +69,7 @@ Before class tomorrow, please complete the following:
   - Sketch 1
   - Nutshell, pages 5-25
 - Do:
-  - Sketch 1 questions 1-3 fs
-
+  - Sketch 1 questions 1-3
 
 **** Day 3: :noexport:
 - Read:

@@ -16,7 +16,7 @@ Before class tomorrow, please complete the following:
     -   Sketch 1
     -   Nutshell, pages 5-25
 -   Do:
-    -   Sketch 1 questions 1-3 fs
+    -   Sketch 1 questions 1-3
 
 
 ## Previous Readings (in reverse order by date) {#previous-readings--in-reverse-order-by-date}
