@@ -39,6 +39,6 @@ jobs:
         with:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           external_repository: jmhammond/jmhammond.github.io
-          publish_branch: master
+          publish_branch: main
           publish_dir: ./public
           full_commit_message: ${{ github.event.head_commit.message }}
