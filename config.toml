@@ -1,4 +1,4 @@
-baseURL = "http://hammond.math.wichita.edu/"
+baseURL = "http://jmhammond.github.io"
 languageCode = "en-us"
 title = "Hammond's Course Notes"
 theme = "PaperMod"
@@ -25,6 +25,10 @@ hidemeta = true
   [params.profileMode]
   enabled = true
   subtitle = "Select your course below:"
+
+    [[params.profileMode.buttons]]
+    name = "Math 300: Evolution of Math"
+    url = "/math300"
 
     [[params.profileMode.buttons]]
     name = "Math 123: Trig"
