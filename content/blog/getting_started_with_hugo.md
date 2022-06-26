@@ -18,13 +18,16 @@ In this post I'm going to document setting up the hugo blog for my course materi
 
 ## Basic setup of the hugo blog {#basic-setup-of-the-hugo-blog}
 
+... For this, look elsewhere and come back. (sorry)
+
+Here's a [link to mine on GitHub](https://github.com/jmhammond/math-courses) with information about cloning and setting up.
+
 
 ## Setting up Mathjax 3 {#setting-up-mathjax-3}
 
 There's really three things that need to happen to use Mathjax on a page:
 
 1.  You need to create a mathjax `partial`. This will live in `site-name/layouts/partials/mathjax_support.html`:
-
     ```html
        <script>
          MathJax = {
@@ -47,29 +50,17 @@ There's really three things that need to happen to use Mathjax on a page:
     ```
 
 2.  and then in the `site-name/layouts/extend_head.html` file, add the following:
-
     ```nil
        {{ if .Params.mathjax }}{{ partial "mathjax_support.html" . }}{{ end }}
     ```
-
     The conditional means that mathjax won't load on every page (since it does add overhead). It will only be on pages that request it.
 
-3.  To add mathjax to the page, you need to add the page parameter to the frontmatter:
+3.  To add mathjax to the page, you need to add the page parameter to the (toml) frontmatter: `mathjax= true`.
 
-    <aside>
 
-    `mathjax: true` is the relevant entry here.
+## Fonts and Colors {#fonts-and-colors}
 
-    </aside>
-
-    ```yaml
-       ---
-       author:
-       title:
-       description:
-       mathjax: true
-       ---
-    ```
+In order to match some of the [look and feel of the official WSU website](https://www.wichita.edu/services/strategic_communications/brand_standards/colors_and_fonts.php), I specified css files for hugo which automatically get picked up and used. For this, I created a `fonts.css` and `custom.css` file in the folder `site-name/assets/css/extended`.
 
 
 ## Spoiler shortcode {#spoiler-shortcode}

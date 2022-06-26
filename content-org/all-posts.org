@@ -43,8 +43,10 @@ You need to click to see this, my friend.
 
 * History - Math 300
 :PROPERTIES:
+:EXPORT_TITLE: Math 300: Evolution of Mathematics
 :EXPORT_HUGO_SECTION: math300
 :END:
+
 ** Daily Readings and Assignments
 :PROPERTIES:
 :EXPORT_FILE_NAME: DailyReadings
