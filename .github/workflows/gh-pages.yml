@@ -11,6 +11,8 @@ jobs:
     runs-on: ubuntu-20.04
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
+    permissions:
+        contents: write
     steps:
       - uses: actions/checkout@v3
         with:
@@ -20,8 +22,8 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.91.2'
-          # extended: true
+          hugo-version: 'latest'
+          extended: true
 
       - name: Build
         run: hugo --minify
