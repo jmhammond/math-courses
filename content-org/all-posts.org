@@ -134,6 +134,14 @@ Before class tomorrow, please complete the following:
 :EXPORT_HUGO_SECTION: trig
 :END:
 
+** Index page for trig
+:PROPERTIES:
+:EXPORT_TITLE: Math 123: Trigonometry
+:EXPORT_FILE_NAME: _index.html
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :ShowBreadCrumbs true
+:END:
+In which we learn about triangles and circles and apply them in various contexts.
+
 ** Chapter 1
 :PROPERTIES:
 :EXPORT_HUGO_SECTION_FRAG: chapter1
@@ -154,6 +162,18 @@ With words an whatnot.
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: blog
 :END:
+** Index page for blog posts
+:PROPERTIES:
+:EXPORT_TITLE: Blog posts
+:EXPORT_FILE_NAME: _index.html
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :ShowBreadCrumbs true
+:END:
+I ramble about grading, teaching, and/or tech.
+
+{{{more}}}
+
+... I'll update it eventually.
+
 ** Getting started with Hugo for course content. :hugo:
 :PROPERTIES:
 :EXPORT_FILE_NAME: getting_started_with_hugo

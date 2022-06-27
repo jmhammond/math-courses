@@ -1,9 +1,8 @@
----
-author: John Hammond
-title: "Trig Class"
-date: Fall 2022
-description: "Welcome to the Math 123: College Trigonometry pre-class notes"
-ShowBreadCrumbs: false
----
++++
+title = "Math 123: Trigonometry"
+author = ["John Hammond"]
+draft = false
+ShowBreadCrumbs = true
++++
 
 In which we learn about triangles and circles and apply them in various contexts.
