@@ -86,7 +86,7 @@ Before class tomorrow, please complete the following:
 - Do:
   - Sketch 12: problems 3, 4, 7
   - Note for problem 3, here's [[https://mathcs.clarku.edu/~djoyce/java/elements/bookVI/propVI31.html][Euclid's Elements Online]]
-**** Day 3:
+**** Day 3: :noexport:
 - Read:
   - Sketch 2
   - Sketch 4
