@@ -11,6 +11,15 @@ ShowBreadCrumbs = true
 Before class tomorrow, please complete the following:
 
 
+### Day 4: {#day-4}
+
+-   Read:
+    -   Sketch 12
+-   Do:
+    -   Sketch 12: problems 3, 4, 7
+    -   Note for problem 3, here's [Euclid's Elements Online](https://mathcs.clarku.edu/~djoyce/java/elements/bookVI/propVI31.html)
+
+
 ### Day 3: {#day-3}
 
 -   Read:
