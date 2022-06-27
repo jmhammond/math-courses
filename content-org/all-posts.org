@@ -80,14 +80,7 @@ In which we learn that people are terribly interesting and math isn't terrible.
 :END:
 *** Tomorrow's Reading and Assignments
 Before class tomorrow, please complete the following:
-**** Day 2
-- Read:
-  - Sketch 1
-  - Nutshell, pages 5-25
-- Do:
-  - Sketch 1 questions 1-3
-
-**** Day 3: :noexport:
+**** Day 3:
 - Read:
   - Sketch 2
   - Sketch 4
@@ -99,6 +92,13 @@ Before class tomorrow, please complete the following:
 - Do you have modeling clay/playdoh? Can you dig a hole in your yard and get some wet dirt?
 - Grab your 'clay,' a popsicle stick (or regular stick) and watch along to learn to write Cuineiform:
   https://www.youtube.com/watch?v=zOwP0KUlnZg
+**** Day 2
+- Read:
+  - Sketch 1
+  - Nutshell, pages 5-25
+- Do:
+  - Sketch 1 questions 1-3
+
 **** Day 4: :noexport:
 - Read:
   - Sketch 12
