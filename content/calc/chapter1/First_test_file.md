@@ -4,6 +4,7 @@ author = ["John Hammond"]
 tags = ["hugo"]
 draft = false
 mathjax = true
+ShowBreadCrumbs = true
 +++
 
 This is what you can do with calc

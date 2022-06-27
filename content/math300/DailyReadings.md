@@ -3,6 +3,7 @@ title = "Daily Readings and Assignments"
 author = ["John Hammond"]
 draft = false
 mathjax = true
+ShowBreadCrumbs = true
 +++
 
 ## Tomorrow's Reading and Assignments {#tomorrow-s-reading-and-assignments}

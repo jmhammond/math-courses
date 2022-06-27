@@ -5,6 +5,7 @@ tags = ["hugo"]
 draft = false
 mathjax = true
 ShowCodeCopyButtons = true
+ShowBreadCrumbs = true
 +++
 
 I wanted a "simple" way to write my class materials in Markdown. Hugo magically makes it a website.
