@@ -80,13 +80,13 @@ In which we learn that people are terribly interesting and math isn't terrible.
 :END:
 *** Tomorrow's Reading and Assignments
 Before class tomorrow, please complete the following:
-**** Day 4:
+**** Day 4: :noexport:
 - Read:
   - Sketch 12
 - Do:
   - Sketch 12: problems 3, 4, 7
   - Note for problem 3, here's [[https://mathcs.clarku.edu/~djoyce/java/elements/bookVI/propVI31.html][Euclid's Elements Online]]
-**** Day 3:
+**** Day 3: :noexport:
 - Read:
   - Sketch 2
   - Sketch 4
