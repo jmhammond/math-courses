@@ -1,8 +1,14 @@
 #+title: Hammond's Blog And Class Posts
 #+hugo_base_dir: ../
 #+MACRO: more @@hugo:<!--more-->@@
+#   to use this one, write {{{more}}}
 #+MACRO: youtube @@hugo:{{< youtube id="$1" >}}@@
+#  to use this, write {{{youtube(ID)}}}
 #+hugo_paired_shortcodes: spoiler
+#  to use this, write:
+#     #+begin_spoiler
+#      You need to click to see this, my friend.
+#     #+end_spoiler
 
 * Calculus 1 - Math 242
 :PROPERTIES:
@@ -97,7 +103,7 @@ Before class tomorrow (for each day of class!), please complete the following:
   - Sketch 4 questions 4, 6, 7
 - Do you have modeling clay/playdoh? Can you dig a hole in your yard and get some wet dirt?
 - Grab your 'clay,' a popsicle stick (or regular stick) and watch along to learn to write Cuineiform:
-  https://www.youtube.com/watch?v=zOwP0KUlnZg
+{{{youtube(zOwP0KUlnZg)}}}
 **** Day 4 (Friday, July 8):
 - Read:
   - Sketch 8

@@ -31,7 +31,8 @@ Before class tomorrow (for each day of class!), please complete the following:
     -   Sketch 4 questions 4, 6, 7
 -   Do you have modeling clay/playdoh? Can you dig a hole in your yard and get some wet dirt?
 -   Grab your 'clay,' a popsicle stick (or regular stick) and watch along to learn to write Cuineiform:
-    <https://www.youtube.com/watch?v=zOwP0KUlnZg>
+
+{{< youtube id="zOwP0KUlnZg" >}}
 
 
 ### Day 4 (Friday, July 8): {#day-4--friday-july-8}
