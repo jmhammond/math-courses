@@ -4,7 +4,7 @@ tmp/
 *.lock
 ### Emacs ###
 # generates by emacs
-/static/*
+/static/ltximg
 
 ### Hugo ###
 # Generated files by hugo
