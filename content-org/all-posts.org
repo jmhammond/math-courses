@@ -68,7 +68,6 @@ You need to click to see this, my friend.
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: math300
 :END:
-
 ** Index page
 :PROPERTIES:
 :EXPORT_TITLE: Math 300: Evolution of Mathematics
@@ -78,6 +77,21 @@ You need to click to see this, my friend.
 In which we learn that people are terribly interesting and math isn't terrible.
 
 {{{more}}}
+
+** Additional Resources
+:PROPERTIES:
+:EXPORT_FILE_NAME: AdditionalResources
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :mathjax true :ShowBreadCrumbs true
+:END:
+*** Incan empire and the Egyptian Rhind Papyrus
+- and here's the [[http://www5.kb.dk/permalink/2006/poma/356/en/image/?open=idm45693536739296][1615 notes of Felipe Guaman on the Incan empire]]
+- [[https://www.britishmuseum.org/collection/object/Y_EA10058][Here's a link to the Rhind Papyrus full image on the British Museum website.]]
+*** Representing arithmetic and fractions
+This is a link to [[https://archive.org/details/b29980343_0002/page/14/mode/2up][Florian Cajori's History of Mathematical Notations, volume 2]]. Specifically, it points to the history of the dollar sign, $, because that might be an interesting entry point into the book.
+
+Simon Stevin's  /De Thiende/ ('The Tenth') in 1585
+    - [[https://books.google.com/books?id=aVdIAQAAMAAJ&pg=PA9&ci=99%252C363%252C407%252C298&source=bookclip#v=onepage&q&f=false][You can find it here]] (a 1606 English edition)
+
 
 ** Daily Readings and Assignments
 :PROPERTIES:
