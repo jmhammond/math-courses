@@ -246,7 +246,7 @@ I've made several different increase counts. Let's do the simplest version:
 *** Previous Readings and assignments
 ... nothing yet...
 
-**** Week 1 :noexport:
+**** Week 1
 ***** Day 2  (Wednesday, July 6)
 - Read:
   - Sketch 1
