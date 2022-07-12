@@ -44,24 +44,55 @@ Here are some of the many papers discussing the Plimpton 322 tablet:
 
 ## π resources {#π-resources}
 
--   [Double exhaustion Geogebra example](<https://www.geogebra.org/m/mxkvaf2w>)
+-   [Double exhaustion Geogebra
+    example](https://www.geogebra.org/m/mxkvaf2w)
 
--   [Hippocrates Lune geogebra example](<https://www.geogebra.org/m/pFrBKxbu>)
+-   [Hippocrates Lune geogebra example](https://www.geogebra.org/m/pFrBKxbu)
 
--   [Step-by-step directions for "squaring" the rectangle, a triangle, and the lune,](<https://docs.google.com/document/d/1DS22Sq61KAGp8Mz-zDs7b47wJPOKwmamxMecYRFtZbg/edit#heading=h.c4qr87x5w9ij>)  that I wrote a million years ago (2015).
+-   [Step-by-step directions for "squaring" the rectangle, a triangle, and the lune,](https://docs.google.com/document/d/1DS22Sq61KAGp8Mz-zDs7b47wJPOKwmamxMecYRFtZbg/edit#heading=h.c4qr87x5w9ij)
+    that I wrote a million years ago (2015).
 
--   [The first instance of π](<https://archive.org/details/SynopsisPalmariorumMatheseosOrANewIntroductionToTheMathematics/page/n261/mode/2up>) in   Jones, W. (1706). <span class="underline">Synopsis Palmariorum Matheseos: Or, a New Introduction to the Mathematics</span>. J. Matthews at the Angel in St Paul’s Church-Yard.
+-   [The first instance of π](https://archive.org/details/SynopsisPalmariorumMatheseosOrANewIntroductionToTheMathematics/page/n261/mode/2up) in   Jones, W. (1706). _Synopsis Palmariorum
+    Matheseos: Or, a New Introduction to the Mathematics_. J. Matthews at
+    the Angel in St Paul's Church-Yard.
 
 
 ## Resources for "linear thinking" topics {#resources-for-linear-thinking-topics}
 
 -   False position
-    -   Bunt, L. N. H., Jones, P. S., &amp; Bedient, J. D. (1988). <span class="underline">The Historical    Roots of Elementary Mathematics</span>. Dover.
+    -   Bunt, L. N. H., Jones, P. S., &amp; Bedient, J. D. (1988). _The
+        Historical Roots of Elementary Mathematics_. Dover.
 -   Āryabhaṭa:  (I LOVE Āryabhaṭa)
-    -   Keller, A. (2006). <span class="underline">Expounding the Mathematical Seed. Vol. 1: The RTranslation: A Translation of Bhāskara I on the Mathematical Chapter of the Āryabhatīya</span>. Birkhäuser Basel. [<https://doi.org/10.1007/3-7643-7592-2>](<https://doi.org/10.1007/3-7643-7592-2>)
+    -   Keller, A. (2006). _Expounding the Mathematical Seed. Vol. 1: The
+        RTranslation: A Translation of Bhāskara I on the Mathematical
+        Chapter of the Āryabhatīya_. Birkhäuser Basel.
+        <https://doi.org/10.1007/3-7643-7592-2>
 -   Examples from Ahmes papyrus as presented in
-    -   Joseph, G. G. (2010). <span class="underline">The Crest of the Peacock: Non-European Roots of Mathematics</span> (3rd ed., p. 592). Princeton University Press; 3rd edition edition.
-    -   [Scrollable version of the papyrus from the British Museum's website](<https://www.britishmuseum.org/collection/object/Y_EA10058>)
+    -   Joseph, G. G. (2010). _The Crest of the Peacock: Non-European Roots
+        of Mathematics_ (3rd ed., p. 592). Princeton University Press; 3rd
+        edition edition.
+    -   [Scrollable version of the papyrus from the British Museum's website](https://www.britishmuseum.org/collection/object/Y_EA10058)
 -   Mesopotamian examples
-    -   Katz, V. J. (2003). <span class="underline">The history of mathematics: Brief version</span> (Vol. 2003, p. 560). Pearson/Addison-Wesley. [<http://books.google.com/books?id=pI8_AQAAIAAJ&pgis=1>](<http://books.google.com/books?id=pI8_AQAAIAAJ&pgis=1>)
-    -   and the [tablet/prism in the Louvre here.](<http://ressources.louvrelens.fr/EXPLOITATION/oeuvre-ao-8862.aspx>)
+    -   Katz, V. J. (2003). _The history of mathematics: Brief version_
+        (Vol. 2003, p. 560). Pearson/Addison-Wesley.
+        <http://books.google.com/books?id=pI8_AQAAIAAJ&pgis=1>
+    -   and the
+        [tablet/prism in the Louvre here.](http://ressources.louvrelens.fr/EXPLOITATION/oeuvre-ao-8862.aspx)
+
+
+## Resources for Quadratics {#resources-for-quadratics}
+
+-   Link to the
+    [English
+    translation (1831) of al-Kwharizmi's Algebra](https://archive.org/details/algebraofmohamme00khuwuoft/page/n7/mode/2up?view=theater). (on Archive.org).
+    Note: it's called "The Algebra of Mohammed Ben Musa"  because that was
+    a common Latinization of Muhammed ibn Musa  (Muhammed, son of Musa)
+
+-   The English translation of the \\(x^2 + 21 = 10x\\) question is from:
+    -   Lévy, T. (2002). A Newly-Discovered Partial Hebrew Version of
+        al-Khwārizmī's "Algebra." _Aleph_, _2_, 225--234.
+    -   [Here's a link to the library's
+        catalog entry](https://go.exlibris.link/dPYC0GF1) so you can get the full-text.
+
+-   And [here's the Euclid's II.11
+    activity to work though](https://www.geogebra.org/m/ux4w6jkx).
