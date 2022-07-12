@@ -189,6 +189,9 @@ Before class tomorrow (for each day of class!), please complete the following:
   - Sketch 9: Problems 1, 2, 3
   - The first presentations are "due" tomorrow! Students are presenting Tuesday and Wednesday!
 **** Day 6 (Tuesday, July 12):
+(presentations this day - changed reading dates)
+
+**** Day 7 (Wed, July 13)
 - Read:
   - Sketch 28
   - Sketch 10
@@ -197,7 +200,8 @@ Before class tomorrow (for each day of class!), please complete the following:
   - Sketch 10: Problems:  2 (try), 3, 5
 - Read:
 
-**** Day 7 (Wed, July 13)
+
+**** Day 8 (Thur, July 14)
 - Read:
   - Sketch 5
   - Sketch 11
@@ -205,41 +209,38 @@ Before class tomorrow (for each day of class!), please complete the following:
   - Sketch 5: Problems: 1, 3, 5
   - Sketch 11: Problems: 1, 3
 
-**** Day 8 (Thur, July 14)
+**** Day 9 (Fri, July 15)
 - Read:
   - Sketch 17
   - Sketch 29
 - Do:
   - Sketch 17: Problems 6, 7
   - Sketch 29: (none assigned)
+  - First mathematician biography is Due Today, Friday ([[mailto:john.hammond@wichita.edu][Email to me]] by 9pm)
+  - Be working on the Historical timeline overview for this mathematician
 
-**** Day 9 (Fri, July 15)
+**** Day 10 (Mon, July 18)
 - Read:
   - Sketch 14
   - Sketch 13
 - Do:
   - Sketch 14: 1, 4
   - Sketch 13: 2, 4
-  - First mathematician biography is Due Today, Friday ([[mailto:john.hammond@wichita.edu][Email to me]] by 9pm)
-  - Be working on the Historical timeline overview for this mathematician
-
-**** Day 10 (Mon, July 18)
-- Read:
-  - Sketch 3
-- Do:
-  - Sketch 3: Problems 3, 4, 5
 - History overview due today, Monday (Email by 9pm)
 - The second presentations are "due" tomorrow! Students are presenting Tuesday and Wednesday!
 
 **** Day 11 (Tue, July 19) :noexport:
-- Read: Nutshell 22 - 66
+- Read:
+  - Sketch 3
+  - Nutshell 22 - 66
 - Do:
-  - This section doesn't have homework questions, so this gives us a great opportunity!
+  - Sketch 3: Problems 3, 4, 5
+  - "Nutshell"
     - Since we've now seen a "Large Nutshell" overview of math, let's take a moment to find the topic project that we (you) will be presenting. This is the [[https://docs.google.com/document/d/1NT5PZqf7E75kvPy1GXeAJBysQZ-Tx6jBioYrmwxxZXE/edit#bookmark=id.gbn7ed2zceub][MTA Project of the syllabus]].
       - What topic in math is really interesting to you?
       - What would you like to read more about?
       - Find the relevant sketch in MTA and look at the Projects section at the end.
-      - Pick a project you'd like to cover and [[https://docs.google.com/spreadsheets/d/1_vNEo_lcZtNpSvIEpqwQoGFFHdc_HC8CzLUvCFDZM5M/edit?usp=sharing][claim it on this spreadsheet.]]
+      - Pick two projects you'd like to cover and [[https://docs.google.com/spreadsheets/d/1_vNEo_lcZtNpSvIEpqwQoGFFHdc_HC8CzLUvCFDZM5M/edit?usp=sharing][claim them on this spreadsheet.]]
       - [[mailto:hammond@math.wichita.edu][Send me an email]] after you're done.
 
 **** Day 12 (Wed, July 20) :noexport:
