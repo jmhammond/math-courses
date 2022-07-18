@@ -96,3 +96,47 @@ Here are some of the many papers discussing the Plimpton 322 tablet:
 
 -   And [here's the Euclid's II.11
     activity to work though](https://www.geogebra.org/m/ux4w6jkx).
+
+
+## Resources for Cubics (Cardano, Tartaglia, and more) {#resources-for-cubics-cardano-tartaglia-and-more}
+
+-   Here's a link to [Cardano's _Ars Magna_](https://archive.org/details/arsmagnaorruleso0000card) translated into English (requires free Archive.org account).
+-   [_The Book of My Life_](https://archive.org/details/GirolamoCardanoTheBookOfMyLifeDeVitaPropriaLiber/page/n13/mode/2up) [by Cardano.](https://archive.org/details/GirolamoCardanoTheBookOfMyLifeDeVitaPropriaLiber/page/n13/mode/2up)  I'm linking to the table of contents. I forgot to mention that he is also an astrologer. The second paragraph of chapter two, "My Nativity" discusses his own horoscope (later in life he gets in trouble for casting the horoscope of Jesus).
+    -   Personal comment: it's been awhile since I've just sat with Cardano. Reading this now I'm reminded that he's a really repellant and truly toxic person. Fun story and big deal in history, but I am glad to not interact with him. - ... but, between complaints, discussing twenty-three years of lawsuits, and all, he gives a very broad list of things that make him happy and can bring happiness to everyone:
+
+        > Let us live, therefore, cheerfully... if there is any good thing by which you would adorn this stage of life, we have not of such been cheated - rest, serenity, modesty, self-restraint, orderliness, change, fun, entertainment, society, temperance, sleep, food, drink, riding, sailing, walking, keeping abreast of events, meditation, contemplation, education, piety, marriage, feasting, the satisfaction of recalling an orderly disposition of the past, cleanliness, water, fire, listening to music, looking at all about one, talks, stories history, liberty, continence, little birds, puppies, cats, consolation of death, and the common flux of time, fate, and fortune, over the afflicted and favored alike. There is good in the hope for things beyond all hope; good in the exercise of some art in which one is skilled; good in meditating upon the manifold transmutation of all nature and upon the magnitude of the Earth. (pages 122-3)
+
+-   The poem, translated into English, preserving the rhyme structure.
+    -   Gutman, K. O. (2005). Quando Che'l Cubo. _Mathematical Intelligencer_, /27/(1), 32--36.
+        [Link to pdf](/history/Gutman2005.pdf)
+
+-   The "play" form of the letters of Cardano and Tartaglia
+    -   Nordgaard, M. A. (1938). Sidelights on the Cardan-Tartaglia Controversy. _National Mathematics Magazine_, /12/(7), 327--346.  [Link to pdf](/history/Nordgaard1938.pdf)
+
+-   This book is excellent and should be read cover-to-cover for any topic. In particular there is a great chapter on Cardano and Tartaglia along with Cardano's geometric proof of the cubic formula (remember that everything is backed up with geometry! A "cube" means a literal cube.
+    -   Dunham, W. (1991). _Journey through genius: The great theorems of mathematics_ (p. 300). Penguin Books. <http://books.google.com/books?id=_IbWAAAAMAAJ&pgis=1>
+    -   (you can find it at the library or just search with "pdf" added and you'll find many copies of questionable sourcing online).
+
+
+## Fundamental Theorem of Algebra topics {#fundamental-theorem-of-algebra-topics}
+
+-   Good historical overview of algebra from the beginning through Noether in the 20th century
+    -   van der Waerden, B. L. (1985). _A history of algebra: From al-Khwarizmi to noether_. Springer-Verlag.  ([available at our library](https://libcat.wichita.edu/vwebv/holdingsInfo?bibId=518269))
+
+-   Bombelli's crazy algebra:
+    -   Arcavi, A., &amp; Bruckheimer, M. (1991). Reading Bombelli's x-Purgated
+        Algebra. _The College Mathematics Journal_, /22/(3), 212--219. [Link to the PDF](/history/Arcavi1991.pdf)
+
+-   Talking about Euler and others trying to solve the question:
+    -   Dunham, W. (1991). Euler and the fundamental theorem of algebra. _The College Mathematics Journal_, /22/(4), 282--293.\\\\ [Link to the PDF](/history/Dunham1991.pdf)
+
+
+## Fermat's Last Theorem Resources {#fermats-last-theorem-resources}
+
+-   [The BBC Horizon Documentary on Fermat's Last Theorem](https://www.dailymotion.com/video/x3wrbsb) (the link is dailymotion; it hasn't been taken down yet...) ![](/history/WilesPhoto.png)&nbsp;[^1]&nbsp;[^1]: Photo from [this article](https://www.ams.org/publications/journals/notices/201703/rnoti-p209.pdf)
+
+-   Simon Singh has an excellent book on the story called Fermat's Enigma. It's available at the library. (Singh is a very easy-to-read popular science author).
+
+-   [This article](https://www.ams.org/publications/journals/notices/201703/rnoti-p209.pdf) claims to be "accessible to non-experts" overview of Wiles' proof.
+
+-   WIles' correction for his proof of Fermat's Last Theorem Wiles, A. (1995). Modular elliptic curves and fermat's last theorem. Annals of Mathematics, 141(3), 443-551. <https://doi.org/10.2307/2118559>
