@@ -179,45 +179,6 @@ Here are some of the many papers discussing the Plimpton 322 tablet:
 :END:
 *** This Week's Reading's and Assignments
 Before class tomorrow (for each day of class!), please complete the following:
-**** Day 5 (Monday, July 11):
-- Try to find about 70 pennies (we want consistent-sized small circular discs) (it's okay if you can't, but if you have them, bring them!)
-- Read:
-  - Sketch 7
-  - Sketch 9
-- Do:
-  - Sketch 7: Problems 1 and 2
-  - Sketch 9: Problems 1, 2, 3
-  - The first presentations are "due" tomorrow! Students are presenting Tuesday and Wednesday!
-**** Day 6 (Tuesday, July 12):
-(presentations this day - changed reading dates)
-
-**** Day 7 (Wed, July 13)
-- Read:
-  - Sketch 28
-  - Sketch 10
-- Do:
-  - Sketch 28: Problems: (none assigned but take a look)
-  - Sketch 10: Problems:  2 (try), 3, 5
-- Read:
-
-
-**** Day 8 (Thur, July 14)
-- Read:
-  - Sketch 5
-  - Sketch 11
-- Do:
-  - Sketch 5: Problems: 1, 3, 5
-  - Sketch 11: Problems: 1, 3
-
-**** Day 9 (Fri, July 15)
-- Read:
-  - Sketch 17
-  - Sketch 29
-- Do:
-  - Sketch 17: Problems 6, 7
-  - Sketch 29: (none assigned)
-  - First mathematician biography is Due Today, Friday ([[mailto:john.hammond@wichita.edu][Email to me]] by 9pm)
-  - Be working on the Historical timeline overview for this mathematician
 
 **** Day 10 (Mon, July 18)
 - Read:
@@ -229,7 +190,7 @@ Before class tomorrow (for each day of class!), please complete the following:
 - History overview due today, Monday (Email by 9pm)
 - The second presentations are "due" tomorrow! Students are presenting Tuesday and Wednesday!
 
-**** Day 11 (Tue, July 19) :noexport:
+**** Day 11 (Tue, July 19)
 - Read:
   - Sketch 3
   - Nutshell 22 - 66
@@ -243,7 +204,7 @@ Before class tomorrow (for each day of class!), please complete the following:
       - Pick two projects you'd like to cover and [[https://docs.google.com/spreadsheets/d/1_vNEo_lcZtNpSvIEpqwQoGFFHdc_HC8CzLUvCFDZM5M/edit?usp=sharing][claim them on this spreadsheet.]]
       - [[mailto:hammond@math.wichita.edu][Send me an email]] after you're done.
 
-**** Day 12 (Wed, July 20) :noexport:
+**** Day 12 (Wed, July 20)
 - Read:
   - Sketch 15
   - Sketch 16
@@ -251,7 +212,7 @@ Before class tomorrow (for each day of class!), please complete the following:
   - Sketch 15: question 1, 3, 4
   - Sketch 16: question 3 (use a ruler and plot points)
 
-**** Day 13 (Thur, July 21) :noexport:
+**** Day 13 (Thur, July 21)
 - Read:
   - Sketch 18
   - Sketch 27
@@ -259,7 +220,7 @@ Before class tomorrow (for each day of class!), please complete the following:
   - Sketch 18: 2, 4
   - Sketch 27: 1abc, 4
 
-**** Day 14 (Fri, July 22) :noexport:
+**** Day 14 (Fri, July 22)
 - Read:
   - Sketch 26
   - Sketch 30
@@ -271,7 +232,7 @@ Before class tomorrow (for each day of class!), please complete the following:
 - Second mathematician biography is Due Today, Friday ([[mailto:john.hammond@wichita.edu][Email to me]] by 9pm)
 - Be working on the Historical timeline overview for this mathematician
 
-**** Day 16 (Mon, July 25) :noexport:
+**** Day 16 (Mon, July 25)
 - Read:
   - Sketch 21
   - Sketch 22
@@ -356,6 +317,45 @@ I've made several different increase counts. Let's do the simplest version:
   - [[https://drive.google.com/open?id=1HQkCOwVp_W4tD87V-p5_OJWpqOcumyFKdGH2di-lqgk][Choice of Mathematicians for Biographies is Due (update the spreadsheet ]]and email by 9pm)
 **** Week 2 :noexport:
 
+***** Day 5 (Monday, July 11):
+- Try to find about 70 pennies (we want consistent-sized small circular discs) (it's okay if you can't, but if you have them, bring them!)
+- Read:
+  - Sketch 7
+  - Sketch 9
+- Do:
+  - Sketch 7: Problems 1 and 2
+  - Sketch 9: Problems 1, 2, 3
+  - The first presentations are "due" tomorrow! Students are presenting Tuesday and Wednesday!
+***** Day 6 (Tuesday, July 12):
+(presentations this day - changed reading dates)
+
+***** Day 7 (Wed, July 13)
+- Read:
+  - Sketch 28
+  - Sketch 10
+- Do:
+  - Sketch 28: Problems: (none assigned but take a look)
+  - Sketch 10: Problems:  2 (try), 3, 5
+- Read:
+
+
+***** Day 8 (Thur, July 14)
+- Read:
+  - Sketch 5
+  - Sketch 11
+- Do:
+  - Sketch 5: Problems: 1, 3, 5
+  - Sketch 11: Problems: 1, 3
+
+***** Day 9 (Fri, July 15)
+- Read:
+  - Sketch 17
+  - Sketch 29
+- Do:
+  - Sketch 17: Problems 6, 7
+  - Sketch 29: (none assigned)
+  - First mathematician biography is Due Today, Friday ([[mailto:john.hammond@wichita.edu][Email to me]] by 9pm)
+  - Be working on the Historical timeline overview for this mathematician
 **** Week 3 :noexport:
 
 **** Week 4 :noexport:
