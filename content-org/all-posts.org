@@ -315,7 +315,7 @@ I've made several different increase counts. Let's do the simplest version:
   - Sketch 12: problems 3, 4, 7
     - Note for problem 3, here's [[https://mathcs.clarku.edu/~djoyce/java/elements/bookVI/propVI31.html][Euclid's Elements Online]]
   - [[https://drive.google.com/open?id=1HQkCOwVp_W4tD87V-p5_OJWpqOcumyFKdGH2di-lqgk][Choice of Mathematicians for Biographies is Due (update the spreadsheet ]]and email by 9pm)
-**** Week 2 :noexport:
+**** Week 2
 
 ***** Day 5 (Monday, July 11):
 - Try to find about 70 pennies (we want consistent-sized small circular discs) (it's okay if you can't, but if you have them, bring them!)
