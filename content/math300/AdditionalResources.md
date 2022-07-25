@@ -140,3 +140,65 @@ Here are some of the many papers discussing the Plimpton 322 tablet:
 -   [This article](https://www.ams.org/publications/journals/notices/201703/rnoti-p209.pdf) claims to be "accessible to non-experts" overview of Wiles' proof.
 
 -   WIles' correction for his proof of Fermat's Last Theorem Wiles, A. (1995). Modular elliptic curves and fermat's last theorem. Annals of Mathematics, 141(3), 443-551. <https://doi.org/10.2307/2118559>
+
+
+## Sines and Logarithms {#sines-and-logarithms}
+
+-   Kepler's relationship between science and religion: Kozhamthadam, J.
+    (2002). The Religious Foundations of Kepler's Science. _Revista
+    Portuguesa de Filosofia_, /58/(4), 887--901.
+
+-   Bhaskara's transation of Aryabhata Keller, A. (2006). _Expounding the
+    Mathematical Seed. Vol. 1: The Translation: A Translation of Bhāskara
+    I on the Mathematical Chapter of the Āryabhatīya_. Birkhäuser Basel.
+    <https://doi.org/10.1007/3-7643-7592-2>
+
+-   John Napier:
+    -   Napier's end of the world prediction:
+        [A
+        Plaine Discovery of the Whole Revelation of Saint John](https://archive.org/details/NapierJohn.APlaineDiscoveryOfTheWholeRevelationOfSaintJohnSet/page/n9/mode/2up)
+    -   Napier's lattice multiplication via number rods:
+        [Rabdologia:
+        The Art of Numbering by Rods](https://www.google.com/books/edition/Rabdologia_or_the_art_of_numbring_by_rod/P25jAAAAcAAJ?hl=en&gbpv=0)
+        -   this edition is in English by Seth Patridge in 1648. Napier's
+            latin version was taken down 😟
+    -   Logarithms! Here is
+        [Napier's
+        _Mirifici logarithmorum canonis descriptio_](https://archive.org/details/mirificilogarit00napi).
+
+
+## Calculus {#calculus}
+
+-   Main source for the series - thorough history of all the players (and
+    more than can be covered in a week of classes): Boyer, C. B. (1988).
+    _The history of the calculus and its conceptual development: The
+    concepts of the calculus_ (Repr). Dover Publ.
+-   The article I recommended answering questions about rigor and symbols:
+    Grabiner, J. V. (1983). Who Gave You the Epsilon? Cauchy and the
+    Origins of Rigorous Calculus. _The American Mathematical Monthly_,
+    /90/(3), 185--194.
+-   History of math book that provided me with computational details of
+    Newton's fluxional calculus Katz, V. J. (2009). _A history of
+    mathematics: An introduction_ (p. 976). ADDISON WESLEY Publishing
+    Company Incorporated.
+-   ... and another Katz paper I haven't yet read (it's on my list) that
+    goes into the history of the calculus of trig functions. Spoiler: It's
+    Euler again! Katz, V. J. (1987). The calculus of the trigonometric
+    functions. _Historia Mathematica_, /14/(4), 311--324.
+    <https://doi.org/10.1016/0315-0860(87)90064-4>
+
+
+## Probability and Statistics {#probability-and-statistics}
+
+-   Pascal and Fermat's correspondance on probability (and sums, and
+    Fermat primes, and health...),
+    [collected
+    translated into English available here](https://www.york.ac.uk/depts/maths/histstat/pascal.pdf).
+    -   Devlin, K. (2010). The Pascal-Fermat correspondence: How mathematics
+        is really done. _The Mathematics Teacher_, /103/(8), 578.
+
+-   Really enjoyable book explaining the development of statistics:
+
+    Salsburg, D. (2002). _The lady tasting tea: How statistics
+    revolutionized science in the twentieth century_ (1. Holt Pp. Ed).
+    Holt.

@@ -226,6 +226,72 @@ Here are some of the many papers discussing the Plimpton 322 tablet:
 
 - WIles' correction for his proof of Fermat's Last Theorem Wiles, A. (1995). Modular elliptic curves and fermat's last theorem. Annals of Mathematics, 141(3), 443-551. https://doi.org/10.2307/2118559
 
+*** Sines and Logarithms
+:PROPERTIES:
+:CUSTOM_ID: sines-and-logarithms
+:END:
+- Kepler's relationship between science and religion: Kozhamthadam, J.
+  (2002). The Religious Foundations of Kepler's Science. /Revista
+  Portuguesa de Filosofia/, /58/(4), 887--901.
+
+- Bhaskara's transation of Aryabhata Keller, A. (2006). /Expounding the
+  Mathematical Seed. Vol. 1: The Translation: A Translation of Bhāskara
+  I on the Mathematical Chapter of the Āryabhatīya/. Birkhäuser Basel.
+  [[https://doi.org/10.1007/3-7643-7592-2]]
+
+- John Napier:
+
+  - Napier's end of the world prediction:
+    [[https://archive.org/details/NapierJohn.APlaineDiscoveryOfTheWholeRevelationOfSaintJohnSet/page/n9/mode/2up][A
+    Plaine Discovery of the Whole Revelation of Saint John]]
+  - Napier's lattice multiplication via number rods:
+    [[https://www.google.com/books/edition/Rabdologia_or_the_art_of_numbring_by_rod/P25jAAAAcAAJ?hl=en&gbpv=0][Rabdologia:
+    The Art of Numbering by Rods]]
+    - this edition is in English by Seth Patridge in 1648. Napier's
+      latin version was taken down 😟
+  - Logarithms! Here is
+    [[https://archive.org/details/mirificilogarit00napi][Napier's
+    /Mirifici logarithmorum canonis descriptio/]].
+
+*** Calculus
+:PROPERTIES:
+:CUSTOM_ID: calculus
+:END:
+- Main source for the series - thorough history of all the players (and
+  more than can be covered in a week of classes): Boyer, C. B. (1988).
+  /The history of the calculus and its conceptual development: The
+  concepts of the calculus/ (Repr). Dover Publ.
+- The article I recommended answering questions about rigor and symbols:
+  Grabiner, J. V. (1983). Who Gave You the Epsilon? Cauchy and the
+  Origins of Rigorous Calculus. /The American Mathematical Monthly/,
+  /90/(3), 185--194.
+- History of math book that provided me with computational details of
+  Newton's fluxional calculus Katz, V. J. (2009). /A history of
+  mathematics: An introduction/ (p. 976). ADDISON WESLEY Publishing
+  Company Incorporated.
+- ... and another Katz paper I haven't yet read (it's on my list) that
+  goes into the history of the calculus of trig functions. Spoiler: It's
+  Euler again! Katz, V. J. (1987). The calculus of the trigonometric
+  functions. /Historia Mathematica/, /14/(4), 311--324.
+  [[https://doi.org/10.1016/0315-0860(87)90064-4]]
+
+*** Probability and Statistics
+:PROPERTIES:
+:CUSTOM_ID: probability-and-statistics
+:END:
+- Pascal and Fermat's correspondance on probability (and sums, and
+  Fermat primes, and health...),
+  [[https://www.york.ac.uk/depts/maths/histstat/pascal.pdf][collected
+  translated into English available here]].
+
+  - Devlin, K. (2010). The Pascal-Fermat correspondence: How mathematics
+    is really done. /The Mathematics Teacher/, /103/(8), 578.
+
+- Really enjoyable book explaining the development of statistics:
+
+  Salsburg, D. (2002). /The lady tasting tea: How statistics
+  revolutionized science in the twentieth century/ (1. Holt Pp. Ed).
+  Holt.
 ** Daily Readings and Assignments
 :PROPERTIES:
 :EXPORT_FILE_NAME: DailyReadings
