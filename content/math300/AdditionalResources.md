@@ -202,3 +202,5 @@ Here are some of the many papers discussing the Plimpton 322 tablet:
     Salsburg, D. (2002). _The lady tasting tea: How statistics
     revolutionized science in the twentieth century_ (1. Holt Pp. Ed).
     Holt.
+
+-   ... and of course, [the M&amp;M's article.](https://qz.com/918008/the-color-distribution-of-mms-as-determined-by-a-phd-in-statistics/)
