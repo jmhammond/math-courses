@@ -204,3 +204,36 @@ Here are some of the many papers discussing the Plimpton 322 tablet:
     Holt.
 
 -   ... and of course, [the M&amp;M's article.](https://qz.com/918008/the-color-distribution-of-mms-as-determined-by-a-phd-in-statistics/)
+
+
+## Computing Devices {#computing-devices}
+
+-   Old Computers
+    -   [Napier's Bones](https://www.mathematik.uni-marburg.de/~thormae/lectures/ti1/code/napierbones/napierbones.html) (interactive html5)
+    -   [[  <https://www.youtube.com/watch?v=3h71HAJWnVU>
+
+][Video demonstrating Pascal's Pascaline]](recommend at least 1.5x
+    speed).
+
+-   [Thomas de Colmar's Arithmometer](https://history-computer.com/MechanicalCalculators/19thCentury/Colmar.html) mechanical calculator in 1822
+
+    -   Babbage's difference engine with relaxing music
+        <https://www.youtube.com/watch?v=be1EM3gQkAY>
+
+    -   This video demos the math behind the machine
+        <https://www.youtube.com/watch?v=PFMBU17eo_4>
+    -   [Really great photo collection from the Computer museum](https://www.computerhistory.org/revolution/birth-of-the-computer/4/78)
+    -   Article on the History of Computing in ComputerWorld 1981
+
+    <https://archive.org/details/TheHistoryOfComputing/mode/2up>
+
+-   Excellent book on the subject and a major source for my talk:
+
+    Ifrah, G. (2001). The Universal History of Computing: From the Abacus
+    to the Quantum Computer. Wiley.
+
+-   Historical logical
+    -   George Boole's Laws of Thought
+        <https://www.gutenberg.org/files/15114/15114-pdf.pdf>
+    -   And Augustus de Morgan's Formal Logic:
+        <https://archive.org/details/formallogicorthe00demouoft>
