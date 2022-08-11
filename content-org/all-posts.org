@@ -66,7 +66,7 @@ You need to click to see this, my friend.
 
 * Discrete Structures - Math 321
 :PROPERTIES:
-:EXPORT_HUGO_SECTION: discrete
+:EXPORT_HUGO_SECTION: math321
 :END:
 
 ** Index page for discrete
@@ -114,8 +114,6 @@ is this class and how does it work?"
 :PROPERTIES:
 :CUSTOM_ID: readings-videos
 :END:
-This week, be sure to read and watch each of these sections and work
-through the homework!
 
 - [[https://www.math.wichita.edu/~hammond/class-notes/section-prop-logic.html][Propositional Logic]]
 - [[https://www.math.wichita.edu/~hammond/class-notes/sec_objects_sets.html][Sets]]
@@ -179,14 +177,14 @@ learning target columns on Blackboard's gradebook.
 :PROPERTIES:
 :CUSTOM_ID: before-class-on-tuesday-8
 :END:
-**** Read / Watch
+**** 📚 Read / Watch
 :PROPERTIES:
 :CUSTOM_ID: read-watch-5
 :END:
 - [[https://www.math.wichita.edu/~hammond/class-notes/sec_relationsfunctions.html][Relations
   and functions]]
 
-**** Homework
+**** 📝 Homework
 :PROPERTIES:
 :CUSTOM_ID: homework-11
 :END:
@@ -207,7 +205,7 @@ Ask it on Discourse, and let's get it answered!
 
 --------------
 
-*** Tuesday recitation
+*** 🎥 Tuesday recitation
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation-8
 :END:
@@ -219,17 +217,15 @@ Ask it on Discourse, and let's get it answered!
 :PROPERTIES:
 :CUSTOM_ID: before-class-on-thursday-7
 :END:
-**** Readings / Videos
+**** 📚 Readings / Videos
 :PROPERTIES:
 :CUSTOM_ID: readings-videos-6
 :END:
-This week, be sure to read and watch each of these sections and work
-through the homework!
 
 - [[https://www.math.wichita.edu/~hammond/class-notes/section-logic-equivalences.html][Logical
   Equivalences]]
 
-**** Homework
+**** 📝 Homework
 :PROPERTIES:
 :CUSTOM_ID: homework-12
 :END:
@@ -250,7 +246,7 @@ Ask it on Discourse, and let's get it answered!
 
 --------------
 
-*** Thursday recitation
+*** 🎥 Thursday recitation
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation-7
 :END:
@@ -269,14 +265,14 @@ Your todo list for the week
 :PROPERTIES:
 :CUSTOM_ID: before-class-on-tuesday-9
 :END:
-**** Read / Watch
+**** 📚 Read / Watch
 :PROPERTIES:
 :CUSTOM_ID: read-watch-6
 :END:
 - [[https://www.math.wichita.edu/~hammond/class-notes/sec_application_set_proofs.html][Application:
   Set equivalences]]
 
-**** Homework
+**** 📝 Homework
 :PROPERTIES:
 :CUSTOM_ID: homework-13
 :END:
@@ -297,7 +293,7 @@ Ask it on Discourse, and let's get it answered!
 
 --------------
 
-*** Tuesday recitation
+*** 🎥 Tuesday recitation
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation-9
 :END:
@@ -309,16 +305,14 @@ Ask it on Discourse, and let's get it answered!
 :PROPERTIES:
 :CUSTOM_ID: before-class-on-thursday-8
 :END:
-**** Readings / Videos
+**** 📚 Readings / Videos
 :PROPERTIES:
 :CUSTOM_ID: readings-videos-7
 :END:
-This week, be sure to read and watch each of these sections and work
-through the homework! *
 [[https://www.math.wichita.edu/~hammond/class-notes/section-logic-quantifiers.html][Predicates
 and quantified statements]]
 
-**** Homework
+**** 📝 Homework
 :PROPERTIES:
 :CUSTOM_ID: homework-14
 :END:
@@ -340,7 +334,7 @@ Ask it on Discourse, and let's get it answered!
 --------------
 
 
-*** Thursday recitation
+*** 🎥 Thursday recitation
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation-8
 :END:
@@ -360,14 +354,14 @@ Your todo list for the week
 :PROPERTIES:
 :CUSTOM_ID: before-class-on-tuesday-10
 :END:
-**** Read / Watch
+**** 📚 Read / Watch
 :PROPERTIES:
 :CUSTOM_ID: read-watch-7
 :END:
 - [[https://www.math.wichita.edu/~hammond/class-notes/section-logic-arguments.html][Logical
   Arguments]]
 
-**** Homework
+**** 📝 Homework
 :PROPERTIES:
 :CUSTOM_ID: homework-15
 :END:
@@ -388,7 +382,7 @@ Ask it on Discourse, and let's get it answered!
 
 --------------
 
-*** Tuesday recitation
+*** 🎥 Tuesday recitation
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation-10
 :END:
@@ -400,16 +394,14 @@ Ask it on Discourse, and let's get it answered!
 :PROPERTIES:
 :CUSTOM_ID: before-class-on-thursday-9
 :END:
-**** Readings / Videos
+**** 📚 Readings / Videos
 :PROPERTIES:
 :CUSTOM_ID: readings-videos-8
 :END:
-This week, be sure to read and watch each of these sections and work
-through the homework! *
 [[https://www.math.wichita.edu/~hammond/class-notes/section-logic-proofs.html][Mathematical
 proofs (through 2.5.4, contradiction)]]
 
-**** Homework
+**** 📝 Homework
 :PROPERTIES:
 :CUSTOM_ID: homework-16
 :END:
@@ -430,7 +422,7 @@ Ask it on Discourse, and let's get it answered!
 
 --------------
 
-*** Thursday recitation
+*** 🎥 Thursday recitation
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation-9
 :END:
@@ -449,14 +441,14 @@ Your todo list for the week
 :PROPERTIES:
 :CUSTOM_ID: before-class-on-tuesday-11
 :END:
-**** Read / Watch
+**** 📚 Read / Watch
 :PROPERTIES:
 :CUSTOM_ID: read-watch-8
 :END:
 - [[https://www.math.wichita.edu/~hammond/class-notes/section-logic-proofs.html][Mathematical
   proofs (the rest of the section)]]
 
-**** Homework
+**** 📝 Homework
 :PROPERTIES:
 :CUSTOM_ID: homework-17
 :END:
@@ -477,7 +469,7 @@ Ask it on Discourse, and let's get it answered!
 
 --------------
 
-*** Tuesday recitation
+*** 🎥 Tuesday recitation
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation-11
 :END:
@@ -489,16 +481,14 @@ Ask it on Discourse, and let's get it answered!
 :PROPERTIES:
 :CUSTOM_ID: before-class-on-thursday-10
 :END:
-**** Readings / Videos
+**** 📚 Readings / Videos
 :PROPERTIES:
 :CUSTOM_ID: readings-videos-9
 :END:
-This week, be sure to read and watch each of these sections and work
-through the homework! *
 [[https://www.math.wichita.edu/~hammond/class-notes/section-numtheory-divcong.html][Divisibility
 and Congruences]]
 
-**** Homework
+**** 📝 Homework
 :PROPERTIES:
 :CUSTOM_ID: homework-18
 :END:
@@ -519,7 +509,7 @@ Ask it on Discourse, and let's get it answered!
 
 --------------
 
-*** Thursday recitation
+*** 🎥 Thursday recitation
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation-10
 :END:
@@ -541,13 +531,13 @@ Your todo list for the week
 :END:
 (No pre-class material, but still live class)
 
-**** Read / Watch
+**** 📚 Read / Watch
 :PROPERTIES:
 :CUSTOM_ID: read-watch-9
 :END:
 (buffer, no-pre-class, but still live class)
 
-**** Homework
+**** 📝 Homework
 :PROPERTIES:
 :CUSTOM_ID: homework-19
 :END:
@@ -568,7 +558,7 @@ Ask it on Discourse, and let's get it answered!
 
 --------------
 
-*** Tuesday recitation
+*** 🎥 Tuesday recitation
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation-12
 :END:
@@ -580,16 +570,14 @@ Ask it on Discourse, and let's get it answered!
 :PROPERTIES:
 :CUSTOM_ID: before-class-on-thursday-11
 :END:
-**** Readings / Videos
+**** 📚 Readings / Videos
 :PROPERTIES:
 :CUSTOM_ID: readings-videos-10
 :END:
-This week, be sure to read and watch each of these sections and work
-through the homework!
 - [[https://www.math.wichita.edu/~hammond/class-notes/section-primes.html][Primes]]
 - [[https://www.math.wichita.edu/~hammond/class-notes/section-gcd-euclid.html][GCDs and the Euclidean Algorithm]]
 
-**** Homework
+**** 📝 Homework
 :PROPERTIES:
 :CUSTOM_ID: homework-20
 :END:
@@ -610,7 +598,7 @@ Ask it on Discourse, and let's get it answered!
 
 --------------
 
-*** Thursday recitation
+*** 🎥 Thursday recitation
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation-11
 :END:
@@ -630,7 +618,7 @@ Your todo list for the week
 :PROPERTIES:
 :CUSTOM_ID: before-class-on-tuesday-13
 :END:
-**** Read / Watch
+**** 📚 Read / Watch
 :PROPERTIES:
 :CUSTOM_ID: read-watch-10
 :END:
@@ -639,7 +627,7 @@ Your todo list for the week
 - [[https://www.math.wichita.edu/~hammond/class-notes/section-numtheory-modularexp.html][Modular
   Exponentiation]]
 
-**** Homework
+**** 📝 Homework
 :PROPERTIES:
 :CUSTOM_ID: homework-21
 :END:
@@ -660,7 +648,7 @@ Ask it on Discourse, and let's get it answered!
 
 --------------
 
-*** Tuesday recitation
+*** 🎥 Tuesday recitation
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation-13
 :END:
@@ -676,12 +664,10 @@ Ask it on Discourse, and let's get it answered!
 :PROPERTIES:
 :CUSTOM_ID: readings-videos-11
 :END:
-This week, be sure to read and watch each of these sections and work
-through the homework! *
 [[https://www.math.wichita.edu/~hammond/class-notes/section-numtheory-encryption.html][Application:
 Encryption through 3.6.6]]
 
-**** Homework
+**** 📝 Homework
 :PROPERTIES:
 :CUSTOM_ID: homework-22
 :END:
@@ -702,7 +688,7 @@ Ask it on Discourse, and let's get it answered!
 
 --------------
 
-*** Thursday recitation
+*** 🎥 Thursday recitation
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation-12
 :END:
@@ -721,14 +707,14 @@ Your todo list for the week
 :PROPERTIES:
 :CUSTOM_ID: before-class-on-tuesday-14
 :END:
-**** Read / Watch
+**** 📚 Read / Watch
 :PROPERTIES:
 :CUSTOM_ID: read-watch-11
 :END:
 - [[https://www.math.wichita.edu/~hammond/class-notes/section-numtheory-encryption.html][Application:
   Encryption the rest of the section]]
 
-**** Homework
+**** 📝 Homework
 :PROPERTIES:
 :CUSTOM_ID: homework-23
 :END:
@@ -749,7 +735,7 @@ Ask it on Discourse, and let's get it answered!
 
 --------------
 
-*** Tuesday recitation
+*** 🎥 Tuesday recitation
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation-14
 :END:
@@ -761,16 +747,14 @@ Ask it on Discourse, and let's get it answered!
 :PROPERTIES:
 :CUSTOM_ID: before-class-on-thursday-13
 :END:
-**** Readings / Videos
+**** 📚 Readings / Videos
 :PROPERTIES:
 :CUSTOM_ID: readings-videos-12
 :END:
-This week, be sure to read and watch each of these sections and work
-through the homework! *
 [[https://www.math.wichita.edu/~hammond/class-notes/section-numtheory-encryption.html][Application:
 Encryption]] * Additional topics in ciphers TBD
 
-**** Homework
+**** 📝 Homework
 :PROPERTIES:
 :CUSTOM_ID: homework-24
 :END:
@@ -791,7 +775,7 @@ Ask it on Discourse, and let's get it answered!
 
 --------------
 
-*** Thursday recitation
+*** 🎥 Thursday recitation
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation-13
 :END:
@@ -818,16 +802,14 @@ Your todo list for the week
 :PROPERTIES:
 :CUSTOM_ID: before-class-on-thursday-14
 :END:
-**** Readings / Videos
+**** 📚 Readings / Videos
 :PROPERTIES:
 :CUSTOM_ID: readings-videos-13
 :END:
-This week, be sure to read and watch each of these sections and work
-through the homework! *
 [[https://www.math.wichita.edu/discrete-book/section-objects-seqseries.html][Sequences
 and Series]]
 
-**** Homework
+**** 📝 Homework
 :PROPERTIES:
 :CUSTOM_ID: homework-25
 :END:
@@ -848,7 +830,7 @@ Ask it on Discourse, and let's get it answered!
 
 --------------
 
-*** Thursday recitation
+*** 🎥 Thursday recitation
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation-14
 :END:
@@ -867,13 +849,13 @@ Your todo list for the week
 :PROPERTIES:
 :CUSTOM_ID: before-class-on-tuesday-1
 :END:
-**** Read / Watch
+**** 📚 Read / Watch
 :PROPERTIES:
 :CUSTOM_ID: read-watch
 :END:
 - [[https://www.math.wichita.edu/discrete-book/section-solvingrecurrences.html][Solving Recurrence Relations]]
 
-**** Homework
+**** 📝 Homework
 :PROPERTIES:
 :CUSTOM_ID: homework-1
 :END:
@@ -894,7 +876,7 @@ Ask it on Discourse, and let's get it answered!
 
 --------------
 
-*** Tuesday recitation
+*** 🎥 Tuesday recitation
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation-1
 :END:
@@ -906,16 +888,14 @@ Ask it on Discourse, and let's get it answered!
 :PROPERTIES:
 :CUSTOM_ID: before-class-on-thursday-1
 :END:
-**** Readings / Videos
+**** 📚 Readings / Videos
 :PROPERTIES:
 :CUSTOM_ID: readings-videos-1
 :END:
-This week, be sure to read and watch each of these sections and work
-through the homework! *
 [[https://www.math.wichita.edu/discrete-book/section-solvingrecurrences.html][Solving
 recurrence relations, continued]]
 
-**** Homework
+**** 📝 Homework
 :PROPERTIES:
 :CUSTOM_ID: homework-2
 :END:
@@ -936,7 +916,7 @@ Ask it on Discourse, and let's get it answered!
 
 --------------
 
-*** Thursday recitation
+*** 🎥 Thursday recitation
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation-1
 :END:
@@ -956,14 +936,14 @@ Your todo list for the week
 :PROPERTIES:
 :CUSTOM_ID: before-class-on-tuesday-2
 :END:
-**** Read / Watch
+**** 📚 Read / Watch
 :PROPERTIES:
 :CUSTOM_ID: read-watch-1
 :END:
 - [[https://www.math.wichita.edu/discrete-book/sec_logic_induction.html][Math
   Induction through 4.3.7 (and exercises)]]
 
-**** Homework
+**** 📝 Homework
 :PROPERTIES:
 :CUSTOM_ID: homework-3
 :END:
@@ -984,7 +964,7 @@ Ask it on Discourse, and let's get it answered!
 
 --------------
 
-*** Tuesday recitation
+*** 🎥 Tuesday recitation
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation-2
 :END:
@@ -996,16 +976,13 @@ Ask it on Discourse, and let's get it answered!
 :PROPERTIES:
 :CUSTOM_ID: before-class-on-thursday-2
 :END:
-**** Readings / Videos
+**** 📚 Readings / Videos
 :PROPERTIES:
 :CUSTOM_ID: readings-videos-2
 :END:
-This week, be sure to read and watch each of these sections and work
-through the homework! *
-[[https://www.math.wichita.edu/discrete-book/sec_logic_induction.html][Math
-Induction (the rest)]]
+- [[https://www.math.wichita.edu/discrete-book/sec_logic_induction.html][Math Induction (the rest)]]
 
-**** Homework
+**** 📝 Homework
 :PROPERTIES:
 :CUSTOM_ID: homework-4
 :END:
@@ -1026,7 +1003,7 @@ Ask it on Discourse, and let's get it answered!
 
 --------------
 
-*** Thursday recitation
+*** 🎥 Thursday recitation
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation-2
 :END:
@@ -1046,14 +1023,14 @@ Your todo list for the week
 :PROPERTIES:
 :CUSTOM_ID: before-class-on-tuesday-3
 :END:
-**** Read / Watch
+**** 📚 Read / Watch
 :PROPERTIES:
 :CUSTOM_ID: read-watch-2
 :END:
 - [[https://www.math.wichita.edu/discrete-book/sec_logic_induction.html][Math
   Induction additional discussion]]
 
-**** Homework
+**** 📝 Homework
 :PROPERTIES:
 :CUSTOM_ID: homework-5
 :END:
@@ -1074,7 +1051,7 @@ Ask it on Discourse, and let's get it answered!
 
 --------------
 
-*** Tuesday recitation
+*** 🎥 Tuesday recitation
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation-3
 :END:
@@ -1086,16 +1063,13 @@ Ask it on Discourse, and let's get it answered!
 :PROPERTIES:
 :CUSTOM_ID: before-class-on-thursday-3
 :END:
-**** Readings / Videos
+**** 📚 Readings / Videos
 :PROPERTIES:
 :CUSTOM_ID: readings-videos-3
 :END:
-This week, be sure to read and watch each of these sections and work
-through the homework! *
-[[https://www.math.wichita.edu/discrete-book/section-counting-basics.html][Multiplicative
-and Addititive Principles]]
+[[https://www.math.wichita.edu/discrete-book/section-counting-basics.html][Multiplicative and Addititive Principles]]
 
-**** Homework
+**** 📝 Homework
 :PROPERTIES:
 :CUSTOM_ID: homework-6
 :END:
@@ -1116,7 +1090,7 @@ Ask it on Discourse, and let's get it answered!
 
 --------------
 
-*** Thursday recitation
+*** 🎥 Thursday recitation
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation-3
 :END:
@@ -1135,14 +1109,14 @@ Your todo list for the week
 :PROPERTIES:
 :CUSTOM_ID: before-class-on-tuesday-4
 :END:
-**** Read / Watch
+**** 📚 Read / Watch
 :PROPERTIES:
 :CUSTOM_ID: read-watch-3
 :END:
 - [[https://www.math.wichita.edu/discrete-book/section-counting-combperm.html][Permutations
   and Combinations]]
 
-**** Homework
+**** 📝 Homework
 :PROPERTIES:
 :CUSTOM_ID: homework-7
 :END:
@@ -1157,7 +1131,7 @@ Your todo list for the week
 
 --------------
 
-*** Tuesday recitation
+*** 🎥 Tuesday recitation
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation-4
 :END:
@@ -1169,16 +1143,13 @@ Your todo list for the week
 :PROPERTIES:
 :CUSTOM_ID: before-class-on-thursday-4
 :END:
-**** Readings / Videos
+**** 📚 Readings / Videos
 :PROPERTIES:
 :CUSTOM_ID: readings-videos-4
 :END:
-This week, be sure to read and watch each of these sections and work
-through the homework! *
-[[https://www.math.wichita.edu/discrete-book/section-counting-binomial.html][Binomial
-Coefficients and combinatorial proof]]
+[[https://www.math.wichita.edu/discrete-book/section-counting-binomial.html][Binomial Coefficients and combinatorial proof]]
 
-**** Homework
+**** 📝 Homework
 :PROPERTIES:
 :CUSTOM_ID: homework-8
 :END:
@@ -1193,7 +1164,7 @@ Coefficients and combinatorial proof]]
 
 --------------
 
-*** Thursday recitation
+*** 🎥 Thursday recitation
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation-4
 :END:
@@ -1218,7 +1189,7 @@ questions.
 
 --------------
 
-*** Tuesday recitation
+*** 🎥 Tuesday recitation
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation-5
 :END:
@@ -1246,14 +1217,14 @@ Your todo list for the week
 :PROPERTIES:
 :CUSTOM_ID: before-class-on-tuesday-6
 :END:
-**** Read / Watch
+**** 📚 Read / Watch
 :PROPERTIES:
 :CUSTOM_ID: read-watch-4
 :END:
 - [[https://www.math.wichita.edu/discrete-book/section-counting-binomial.html][Combinatorial
   proof]]
 
-**** Homework
+**** 📝 Homework
 :PROPERTIES:
 :CUSTOM_ID: homework-9
 :END:
@@ -1274,7 +1245,7 @@ Ask it on Discourse, and let's get it answered!
 
 --------------
 
-*** Tuesday recitation
+*** 🎥 Tuesday recitation
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation-6
 :END:
@@ -1286,16 +1257,13 @@ Ask it on Discourse, and let's get it answered!
 :PROPERTIES:
 :CUSTOM_ID: before-class-on-thursday-5
 :END:
-**** Readings / Videos
+**** 📚 Readings / Videos
 :PROPERTIES:
 :CUSTOM_ID: readings-videos-5
 :END:
-This week, be sure to read and watch each of these sections and work
-through the homework! *
-[[https://www.math.wichita.edu/discrete-book/section-counting-fib.html][Counting
-Fibonacci Numbers with combinatorial proof]]
+[[https://www.math.wichita.edu/discrete-book/section-counting-fib.html][Counting Fibonacci Numbers with combinatorial proof]]
 
-**** Homework
+**** 📝 Homework
 :PROPERTIES:
 :CUSTOM_ID: homework-10
 :END:
@@ -1316,7 +1284,7 @@ Ask it on Discourse, and let's get it answered!
 
 --------------
 
-*** Thursday recitation
+*** 🎥 Thursday recitation
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation-5
 :END:
@@ -1343,7 +1311,7 @@ are both fully comprehensive - every learning target is available.
 
 --------------
 
-*** Tuesday recitation
+*** 🎥 Tuesday recitation
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation-7
 :END:
@@ -1360,7 +1328,7 @@ whole-semester review!
 
 --------------
 
-*** Thursday recitation
+*** 🎥 Thursday recitation
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation-6
 :END:
