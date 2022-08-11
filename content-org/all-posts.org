@@ -128,7 +128,7 @@ page and ask! I'll be quick to answer!
 - Required: Do all the exercises at the bottom of each section, check
   your answers and check your understanding - please ask questions if
   you're unsure!
-- (optional): Practice additional exercises in the supplemental textbooks if you need/want: [[http://discrete.openmathbooks.org/dmoi3/][DMOI]] and [[http://faculty.uml.edu/klevasseur/ads/index-ads.html][Applied Discrete Structures]]. (Right click to open in new window)
+- (optional): Practice additional exercises in the supplemental textbooks if you need/want: [[http://discrete.openmathbooks.org/dmoi3/][DMOI]] and [[http://faculty.uml.edu/klevasseur/ads/index-ads.html][Applied Discrete Structures]].
 
 **** Assessments this week
 :PROPERTIES:
@@ -136,9 +136,9 @@ page and ask! I'll be quick to answer!
 :END:
 - The weekly Checkpoint Quiz will be available Thursday - Sunday. It
   assesses standards O1, O2, and O3.
-- *REMEMBER* ! [[https://discourse.math.wichita.edu/t/sample-checkpoint-1-and-solutions/1108][A sample checkpoint is available]]! (Right click to open in new window)
+- *REMEMBER* ! [[https://discourse.math.wichita.edu/t/sample-checkpoint-1-and-solutions/1108][A sample checkpoint is available]]!
   I highly recommend you practice it as you're studying to get some experience.
-- For more information about uploading, [[https://discourse.math.wichita.edu/t/uploading-weekly-checkpoints-to-nextcloud/1113][see here]]. (Right click to open in new window)
+- For more information about uploading, [[https://discourse.math.wichita.edu/t/uploading-weekly-checkpoints-to-nextcloud/1113][see here]].
 
 *An announcement will be posted on Blackboard with a link when it's
 available* !
@@ -169,7 +169,7 @@ They're being marked and feedback is being given. I've slow to grade (as
 I've already said many times). When it's done, you'll find your feedback
 on Blackboard > Gradebook > Checkpoint 1. I'll also update the relevant
 learning target columns on Blackboard's gradebook.
-[[https://youtu.be/cjoz2SwNo70][More information about where to find grades is in a video here]]. (right click to open in new tab)
+[[https://youtu.be/cjoz2SwNo70][More information about where to find grades is in a video here]].
 
 --------------
 
@@ -1792,6 +1792,7 @@ I've made several different increase counts. Let's do the simplest version:
 * Trig - Math 123
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: trig
+:ID:       b2cafefb-4646-4789-ac5f-3a203eec276a
 :END:
 
 ** Index page for trig
@@ -1812,11 +1813,1266 @@ In which we learn about triangles and circles and apply them in various contexts
 :EXPORT_FILE_NAME: Trig_test
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :mathjax true
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :ShowBreadCrumbs true
+:ID:       4710a7e2-b9ee-463e-84d5-2241a47e48a8
 :END:
 
 This is what you can do with trig
 {{{more}}}
 With words an whatnot.
+
+** Week 1
+:PROPERTIES:
+:EXPORT_FILE_NAME: Week1
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :ShowBreadCrumbs true
+:END:
+
+Your todo list for the week
+{{{more}}}
+
+*** Before class on Monday
+:PROPERTIES:
+:CUSTOM_ID: before-class-on-tuesday
+:END:
+Review the syllabus and come prepared to learn about "what in the world
+is this class and how does it work?"
+
+--------------
+
+*** 🎥 Monday recitation
+:PROPERTIES:
+:CUSTOM_ID: tuesday-recitation
+:END:
+*TO BE POSTED*
+
+--------------
+
+*** Before Class on Thursday
+:PROPERTIES:
+:CUSTOM_ID: before-class-on-thursday
+:END:
+**** 📚 Readings / Videos
+:PROPERTIES:
+:CUSTOM_ID: readings-videos
+:END:
+
+- [[https://www.math.wichita.edu/~hammond/class-notes/section-prop-logic.html][Propositional Logic]]
+- [[https://www.math.wichita.edu/~hammond/class-notes/sec_objects_sets.html][Sets]]
+
+If you have any questions at any time - click reply at the bottom of the
+page and ask! I'll be quick to answer!
+
+**** 📝 Homework
+:PROPERTIES:
+:CUSTOM_ID: homework
+:END:
+- Required: Do all the exercises at the bottom of each section, check
+  your answers and check your understanding - please ask questions if
+  you're unsure!
+- (optional): Practice additional exercises in the supplemental textbooks if you need/want: [[http://discrete.openmathbooks.org/dmoi3/][DMOI]] and [[http://faculty.uml.edu/klevasseur/ads/index-ads.html][Applied Discrete Structures]].
+
+**** Assessments this week
+:PROPERTIES:
+:CUSTOM_ID: assessments-this-week
+:END:
+- The weekly Checkpoint Quiz will be available Thursday - Sunday. It
+  assesses standards O1, O2, and O3.
+- *REMEMBER* ! [[https://discourse.math.wichita.edu/t/sample-checkpoint-1-and-solutions/1108][A sample checkpoint is available]]!
+  I highly recommend you practice it as you're studying to get some experience.
+- For more information about uploading, [[https://discourse.math.wichita.edu/t/uploading-weekly-checkpoints-to-nextcloud/1113][see here]].
+
+*An announcement will be posted on Blackboard with a link when it's
+available* !
+
+--------------
+
+*** 🎥 Thursday recitation
+:PROPERTIES:
+:CUSTOM_ID: thursday-recitation
+:END:
+*TO BE POSTED*
+
+
+** Week 2
+:PROPERTIES:
+:EXPORT_FILE_NAME: Week2
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :ShowBreadCrumbs true
+:END:
+
+Your todo list for the week
+{{{more}}}
+
+*** Be on the lookout for checkpoints feedback!
+:PROPERTIES:
+:CUSTOM_ID: be-on-the-lookout-for-checkpoints-feedback
+:END:
+They're being marked and feedback is being given. I've slow to grade (as
+I've already said many times). When it's done, you'll find your feedback
+on Blackboard > Gradebook > Checkpoint 1. I'll also update the relevant
+learning target columns on Blackboard's gradebook.
+[[https://youtu.be/cjoz2SwNo70][More information about where to find grades is in a video here]].
+
+--------------
+
+*** Before class on Monday
+:PROPERTIES:
+:CUSTOM_ID: before-class-on-tuesday-8
+:END:
+**** 📚 Read / Watch
+:PROPERTIES:
+:CUSTOM_ID: read-watch-5
+:END:
+- [[https://www.math.wichita.edu/~hammond/class-notes/sec_relationsfunctions.html][Relations
+  and functions]]
+
+**** 📝 Homework
+:PROPERTIES:
+:CUSTOM_ID: homework-11
+:END:
+- Required: Do all the exercises at the bottom of each section, check
+  your answers and check your understanding - please as questions if
+  you're unsure!
+- (optional): Practice additional exercises in the supplemental
+  textbooks if you need/want:
+  [[http://discrete.openmathbooks.org/dmoi3/][DMOI]] and
+  [[http://faculty.uml.edu/klevasseur/ads/index-ads.html][Applied
+  Discrete Structures]].
+
+**** Questions?
+:PROPERTIES:
+:CUSTOM_ID: questions-8
+:END:
+Ask it on Discourse, and let's get it answered!
+
+--------------
+
+*** 🎥 Monday recitation
+:PROPERTIES:
+:CUSTOM_ID: tuesday-recitation-8
+:END:
+*TO BE POSTED*
+
+--------------
+
+*** Before Class on Thursday
+:PROPERTIES:
+:CUSTOM_ID: before-class-on-thursday-7
+:END:
+**** 📚 Readings / Videos
+:PROPERTIES:
+:CUSTOM_ID: readings-videos-6
+:END:
+
+- [[https://www.math.wichita.edu/~hammond/class-notes/section-logic-equivalences.html][Logical
+  Equivalences]]
+
+**** 📝 Homework
+:PROPERTIES:
+:CUSTOM_ID: homework-12
+:END:
+- Required: Do all the exercises at the bottom of each section, check
+  your answers and check your understanding - please as questions if
+  you're unsure!
+- (optional): Practice additional exercises in the supplemental
+  textbooks if you need/want:
+  [[http://discrete.openmathbooks.org/dmoi3/][DMOI]] and
+  [[http://faculty.uml.edu/klevasseur/ads/index-ads.html][Applied
+  Discrete Structures]].
+
+**** Questions?
+:PROPERTIES:
+:CUSTOM_ID: questions-9
+:END:
+Ask it on Discourse, and let's get it answered!
+
+--------------
+
+*** 🎥 Thursday recitation
+:PROPERTIES:
+:CUSTOM_ID: thursday-recitation-7
+:END:
+*TO BE POSTED*
+
+** Week 3
+:PROPERTIES:
+:EXPORT_FILE_NAME: Week3
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :ShowBreadCrumbs true
+:END:
+
+Your todo list for the week
+{{{more}}}
+
+*** Before class on Monday
+:PROPERTIES:
+:CUSTOM_ID: before-class-on-tuesday-9
+:END:
+**** 📚 Read / Watch
+:PROPERTIES:
+:CUSTOM_ID: read-watch-6
+:END:
+- [[https://www.math.wichita.edu/~hammond/class-notes/sec_application_set_proofs.html][Application:
+  Set equivalences]]
+
+**** 📝 Homework
+:PROPERTIES:
+:CUSTOM_ID: homework-13
+:END:
+- Required: Do all the exercises at the bottom of each section, check
+  your answers and check your understanding - please as questions if
+  you're unsure!
+- (optional): Practice additional exercises in the supplemental
+  textbooks if you need/want:
+  [[http://discrete.openmathbooks.org/dmoi3/][DMOI]] and
+  [[http://faculty.uml.edu/klevasseur/ads/index-ads.html][Applied
+  Discrete Structures]].
+
+**** Questions?
+:PROPERTIES:
+:CUSTOM_ID: questions-10
+:END:
+Ask it on Discourse, and let's get it answered!
+
+--------------
+
+*** 🎥 Monday recitation
+:PROPERTIES:
+:CUSTOM_ID: tuesday-recitation-9
+:END:
+*TO BE POSTED*
+
+--------------
+
+*** Before Class on Thursday
+:PROPERTIES:
+:CUSTOM_ID: before-class-on-thursday-8
+:END:
+**** 📚 Readings / Videos
+:PROPERTIES:
+:CUSTOM_ID: readings-videos-7
+:END:
+[[https://www.math.wichita.edu/~hammond/class-notes/section-logic-quantifiers.html][Predicates
+and quantified statements]]
+
+**** 📝 Homework
+:PROPERTIES:
+:CUSTOM_ID: homework-14
+:END:
+- Required: Do all the exercises at the bottom of each section, check
+  your answers and check your understanding - please as questions if
+  you're unsure!
+- (optional): Practice additional exercises in the supplemental
+  textbooks if you need/want:
+  [[http://discrete.openmathbooks.org/dmoi3/][DMOI]] and
+  [[http://faculty.uml.edu/klevasseur/ads/index-ads.html][Applied
+  Discrete Structures]].
+
+**** Questions?
+:PROPERTIES:
+:CUSTOM_ID: questions-11
+:END:
+Ask it on Discourse, and let's get it answered!
+
+--------------
+
+
+*** 🎥 Thursday recitation
+:PROPERTIES:
+:CUSTOM_ID: thursday-recitation-8
+:END:
+*TO BE POSTED*
+
+** Week 4
+:PROPERTIES:
+:EXPORT_FILE_NAME: Week4
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :ShowBreadCrumbs true
+:END:
+
+Your todo list for the week
+{{{more}}}
+
+
+*** Before class on Monday
+:PROPERTIES:
+:CUSTOM_ID: before-class-on-tuesday-10
+:END:
+**** 📚 Read / Watch
+:PROPERTIES:
+:CUSTOM_ID: read-watch-7
+:END:
+- [[https://www.math.wichita.edu/~hammond/class-notes/section-logic-arguments.html][Logical
+  Arguments]]
+
+**** 📝 Homework
+:PROPERTIES:
+:CUSTOM_ID: homework-15
+:END:
+- Required: Do all the exercises at the bottom of each section, check
+  your answers and check your understanding - please as questions if
+  you're unsure!
+- (optional): Practice additional exercises in the supplemental
+  textbooks if you need/want:
+  [[http://discrete.openmathbooks.org/dmoi3/][DMOI]] and
+  [[http://faculty.uml.edu/klevasseur/ads/index-ads.html][Applied
+  Discrete Structures]].
+
+**** Questions?
+:PROPERTIES:
+:CUSTOM_ID: questions-12
+:END:
+Ask it on Discourse, and let's get it answered!
+
+--------------
+
+*** 🎥 Monday recitation
+:PROPERTIES:
+:CUSTOM_ID: tuesday-recitation-10
+:END:
+*TO BE POSTED*
+
+--------------
+
+*** Before Class on Thursday
+:PROPERTIES:
+:CUSTOM_ID: before-class-on-thursday-9
+:END:
+**** 📚 Readings / Videos
+:PROPERTIES:
+:CUSTOM_ID: readings-videos-8
+:END:
+[[https://www.math.wichita.edu/~hammond/class-notes/section-logic-proofs.html][Mathematical
+proofs (through 2.5.4, contradiction)]]
+
+**** 📝 Homework
+:PROPERTIES:
+:CUSTOM_ID: homework-16
+:END:
+- Required: Do all the exercises at the bottom of each section, check
+  your answers and check your understanding - please as questions if
+  you're unsure!
+- (optional): Practice additional exercises in the supplemental
+  textbooks if you need/want:
+  [[http://discrete.openmathbooks.org/dmoi3/][DMOI]] and
+  [[http://faculty.uml.edu/klevasseur/ads/index-ads.html][Applied
+  Discrete Structures]].
+
+**** Questions?
+:PROPERTIES:
+:CUSTOM_ID: questions-13
+:END:
+Ask it on Discourse, and let's get it answered!
+
+--------------
+
+*** 🎥 Thursday recitation
+:PROPERTIES:
+:CUSTOM_ID: thursday-recitation-9
+:END:
+*TO BE POSTED*
+
+** Week 5
+:PROPERTIES:
+:EXPORT_FILE_NAME: Week5
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :ShowBreadCrumbs true
+:END:
+
+Your todo list for the week
+{{{more}}}
+
+*** Before class on Monday
+:PROPERTIES:
+:CUSTOM_ID: before-class-on-tuesday-11
+:END:
+**** 📚 Read / Watch
+:PROPERTIES:
+:CUSTOM_ID: read-watch-8
+:END:
+- [[https://www.math.wichita.edu/~hammond/class-notes/section-logic-proofs.html][Mathematical
+  proofs (the rest of the section)]]
+
+**** 📝 Homework
+:PROPERTIES:
+:CUSTOM_ID: homework-17
+:END:
+- Required: Do all the exercises at the bottom of each section, check
+  your answers and check your understanding - please as questions if
+  you're unsure!
+- (optional): Practice additional exercises in the supplemental
+  textbooks if you need/want:
+  [[http://discrete.openmathbooks.org/dmoi3/][DMOI]] and
+  [[http://faculty.uml.edu/klevasseur/ads/index-ads.html][Applied
+  Discrete Structures]].
+
+**** Questions?
+:PROPERTIES:
+:CUSTOM_ID: questions-14
+:END:
+Ask it on Discourse, and let's get it answered!
+
+--------------
+
+*** 🎥 Monday recitation
+:PROPERTIES:
+:CUSTOM_ID: tuesday-recitation-11
+:END:
+*TO BE POSTED*
+
+--------------
+
+*** Before Class on Thursday
+:PROPERTIES:
+:CUSTOM_ID: before-class-on-thursday-10
+:END:
+**** 📚 Readings / Videos
+:PROPERTIES:
+:CUSTOM_ID: readings-videos-9
+:END:
+[[https://www.math.wichita.edu/~hammond/class-notes/section-numtheory-divcong.html][Divisibility
+and Congruences]]
+
+**** 📝 Homework
+:PROPERTIES:
+:CUSTOM_ID: homework-18
+:END:
+- Required: Do all the exercises at the bottom of each section, check
+  your answers and check your understanding - please as questions if
+  you're unsure!
+- (optional): Practice additional exercises in the supplemental
+  textbooks if you need/want:
+  [[http://discrete.openmathbooks.org/dmoi3/][DMOI]] and
+  [[http://faculty.uml.edu/klevasseur/ads/index-ads.html][Applied
+  Discrete Structures]].
+
+**** Questions?
+:PROPERTIES:
+:CUSTOM_ID: questions-15
+:END:
+Ask it on Discourse, and let's get it answered!
+
+--------------
+
+*** 🎥 Thursday recitation
+:PROPERTIES:
+:CUSTOM_ID: thursday-recitation-10
+:END:
+*TO BE POSTED*
+
+** Week 6
+:PROPERTIES:
+:EXPORT_FILE_NAME: Week5
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :ShowBreadCrumbs true
+:END:
+
+Your todo list for the week
+{{{more}}}
+
+
+*** Before class on Monday
+:PROPERTIES:
+:CUSTOM_ID: before-class-on-tuesday-12
+:END:
+(No pre-class material, but still live class)
+
+**** 📚 Read / Watch
+:PROPERTIES:
+:CUSTOM_ID: read-watch-9
+:END:
+(buffer, no-pre-class, but still live class)
+
+**** 📝 Homework
+:PROPERTIES:
+:CUSTOM_ID: homework-19
+:END:
+- Required: Do all the exercises at the bottom of each section, check
+  your answers and check your understanding - please as questions if
+  you're unsure!
+- (optional): Practice additional exercises in the supplemental
+  textbooks if you need/want:
+  [[http://discrete.openmathbooks.org/dmoi3/][DMOI]] and
+  [[http://faculty.uml.edu/klevasseur/ads/index-ads.html][Applied
+  Discrete Structures]].
+
+**** Questions?
+:PROPERTIES:
+:CUSTOM_ID: questions-16
+:END:
+Ask it on Discourse, and let's get it answered!
+
+--------------
+
+*** 🎥 Monday recitation
+:PROPERTIES:
+:CUSTOM_ID: tuesday-recitation-12
+:END:
+*TO BE POSTED*
+
+--------------
+
+*** Before Class on Thursday
+:PROPERTIES:
+:CUSTOM_ID: before-class-on-thursday-11
+:END:
+**** 📚 Readings / Videos
+:PROPERTIES:
+:CUSTOM_ID: readings-videos-10
+:END:
+- [[https://www.math.wichita.edu/~hammond/class-notes/section-primes.html][Primes]]
+- [[https://www.math.wichita.edu/~hammond/class-notes/section-gcd-euclid.html][GCDs and the Euclidean Algorithm]]
+
+**** 📝 Homework
+:PROPERTIES:
+:CUSTOM_ID: homework-20
+:END:
+- Required: Do all the exercises at the bottom of each section, check
+  your answers and check your understanding - please as questions if
+  you're unsure!
+- (optional): Practice additional exercises in the supplemental
+  textbooks if you need/want:
+  [[http://discrete.openmathbooks.org/dmoi3/][DMOI]] and
+  [[http://faculty.uml.edu/klevasseur/ads/index-ads.html][Applied
+  Discrete Structures]].
+
+**** Questions?
+:PROPERTIES:
+:CUSTOM_ID: questions-17
+:END:
+Ask it on Discourse, and let's get it answered!
+
+--------------
+
+*** 🎥 Thursday recitation
+:PROPERTIES:
+:CUSTOM_ID: thursday-recitation-11
+:END:
+*TO BE POSTED*
+
+** Week 7
+:PROPERTIES:
+:EXPORT_FILE_NAME: Week7
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :ShowBreadCrumbs true
+:END:
+
+Your todo list for the week
+{{{more}}}
+
+
+*** Before class on Monday
+:PROPERTIES:
+:CUSTOM_ID: before-class-on-tuesday-13
+:END:
+**** 📚 Read / Watch
+:PROPERTIES:
+:CUSTOM_ID: read-watch-10
+:END:
+- [[https://www.math.wichita.edu/~hammond/class-notes/section-multiplicative-inverses.html][Multiplicative
+  Inverses]]
+- [[https://www.math.wichita.edu/~hammond/class-notes/section-numtheory-modularexp.html][Modular
+  Exponentiation]]
+
+**** 📝 Homework
+:PROPERTIES:
+:CUSTOM_ID: homework-21
+:END:
+- Required: Do all the exercises at the bottom of each section, check
+  your answers and check your understanding - please as questions if
+  you're unsure!
+- (optional): Practice additional exercises in the supplemental
+  textbooks if you need/want:
+  [[http://discrete.openmathbooks.org/dmoi3/][DMOI]] and
+  [[http://faculty.uml.edu/klevasseur/ads/index-ads.html][Applied
+  Discrete Structures]].
+
+**** Questions?
+:PROPERTIES:
+:CUSTOM_ID: questions-18
+:END:
+Ask it on Discourse, and let's get it answered!
+
+--------------
+
+*** 🎥 Monday recitation
+:PROPERTIES:
+:CUSTOM_ID: tuesday-recitation-13
+:END:
+*TO BE POSTED*
+
+--------------
+
+*** Before Class on Thursday
+:PROPERTIES:
+:CUSTOM_ID: before-class-on-thursday-12
+:END:
+**** Readings / Videos
+:PROPERTIES:
+:CUSTOM_ID: readings-videos-11
+:END:
+[[https://www.math.wichita.edu/~hammond/class-notes/section-numtheory-encryption.html][Application:
+Encryption through 3.6.6]]
+
+**** 📝 Homework
+:PROPERTIES:
+:CUSTOM_ID: homework-22
+:END:
+- Required: Do all the exercises at the bottom of each section, check
+  your answers and check your understanding - please as questions if
+  you're unsure!
+- (optional): Practice additional exercises in the supplemental
+  textbooks if you need/want:
+  [[http://discrete.openmathbooks.org/dmoi3/][DMOI]] and
+  [[http://faculty.uml.edu/klevasseur/ads/index-ads.html][Applied
+  Discrete Structures]].
+
+**** Questions?
+:PROPERTIES:
+:CUSTOM_ID: questions-19
+:END:
+Ask it on Discourse, and let's get it answered!
+
+--------------
+
+*** 🎥 Thursday recitation
+:PROPERTIES:
+:CUSTOM_ID: thursday-recitation-12
+:END:
+*TO BE POSTED*
+
+** Week 8
+:PROPERTIES:
+:EXPORT_FILE_NAME: Week8
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :ShowBreadCrumbs true
+:END:
+
+Your todo list for the week
+{{{more}}}
+
+*** Before class on Monday
+:PROPERTIES:
+:CUSTOM_ID: before-class-on-tuesday-14
+:END:
+**** 📚 Read / Watch
+:PROPERTIES:
+:CUSTOM_ID: read-watch-11
+:END:
+- [[https://www.math.wichita.edu/~hammond/class-notes/section-numtheory-encryption.html][Application:
+  Encryption the rest of the section]]
+
+**** 📝 Homework
+:PROPERTIES:
+:CUSTOM_ID: homework-23
+:END:
+- Required: Do all the exercises at the bottom of each section, check
+  your answers and check your understanding - please as questions if
+  you're unsure!
+- (optional): Practice additional exercises in the supplemental
+  textbooks if you need/want:
+  [[http://discrete.openmathbooks.org/dmoi3/][DMOI]] and
+  [[http://faculty.uml.edu/klevasseur/ads/index-ads.html][Applied
+  Discrete Structures]].
+
+**** Questions?
+:PROPERTIES:
+:CUSTOM_ID: questions-20
+:END:
+Ask it on Discourse, and let's get it answered!
+
+--------------
+
+*** 🎥 Monday recitation
+:PROPERTIES:
+:CUSTOM_ID: tuesday-recitation-14
+:END:
+*TO BE POSTED*
+
+--------------
+
+*** Before Class on Thursday
+:PROPERTIES:
+:CUSTOM_ID: before-class-on-thursday-13
+:END:
+**** 📚 Readings / Videos
+:PROPERTIES:
+:CUSTOM_ID: readings-videos-12
+:END:
+[[https://www.math.wichita.edu/~hammond/class-notes/section-numtheory-encryption.html][Application:
+Encryption]] * Additional topics in ciphers TBD
+
+**** 📝 Homework
+:PROPERTIES:
+:CUSTOM_ID: homework-24
+:END:
+- Required: Do all the exercises at the bottom of each section, check
+  your answers and check your understanding - please as questions if
+  you're unsure!
+- (optional): Practice additional exercises in the supplemental
+  textbooks if you need/want:
+  [[http://discrete.openmathbooks.org/dmoi3/][DMOI]] and
+  [[http://faculty.uml.edu/klevasseur/ads/index-ads.html][Applied
+  Discrete Structures]].
+
+**** Questions?
+:PROPERTIES:
+:CUSTOM_ID: questions-21
+:END:
+Ask it on Discourse, and let's get it answered!
+
+--------------
+
+*** 🎥 Thursday recitation
+:PROPERTIES:
+:CUSTOM_ID: thursday-recitation-13
+:END:
+*TO BE POSTED*
+
+** Week 9
+:PROPERTIES:
+:EXPORT_FILE_NAME: Week9
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :ShowBreadCrumbs true
+:END:
+
+Your todo list for the week
+{{{more}}}
+
+
+*** No class on Monday (Fall Break)
+:PROPERTIES:
+:CUSTOM_ID: no-class-on-tuesday-fall-break
+:END:
+
+--------------
+
+*** Before Class on Thursday
+:PROPERTIES:
+:CUSTOM_ID: before-class-on-thursday-14
+:END:
+**** 📚 Readings / Videos
+:PROPERTIES:
+:CUSTOM_ID: readings-videos-13
+:END:
+[[https://www.math.wichita.edu/discrete-book/section-objects-seqseries.html][Sequences
+and Series]]
+
+**** 📝 Homework
+:PROPERTIES:
+:CUSTOM_ID: homework-25
+:END:
+- Required: Do all the exercises at the bottom of each section, check
+  your answers and check your understanding - please as questions if
+  you're unsure!
+- (optional): Practice additional exercises in the supplemental
+  textbooks if you need/want:
+  [[http://discrete.openmathbooks.org/dmoi3/][DMOI]] and
+  [[http://faculty.uml.edu/klevasseur/ads/index-ads.html][Applied
+  Discrete Structures]].
+
+**** Questions?
+:PROPERTIES:
+:CUSTOM_ID: questions-22
+:END:
+Ask it on Discourse, and let's get it answered!
+
+--------------
+
+*** 🎥 Thursday recitation
+:PROPERTIES:
+:CUSTOM_ID: thursday-recitation-14
+:END:
+*TO BE POSTED*
+
+** Week 10
+:PROPERTIES:
+:EXPORT_FILE_NAME: Week10
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :ShowBreadCrumbs true
+:END:
+
+Your todo list for the week
+{{{more}}}
+
+*** Before class on Monday
+:PROPERTIES:
+:CUSTOM_ID: before-class-on-tuesday-1
+:END:
+**** 📚 Read / Watch
+:PROPERTIES:
+:CUSTOM_ID: read-watch
+:END:
+- [[https://www.math.wichita.edu/discrete-book/section-solvingrecurrences.html][Solving Recurrence Relations]]
+
+**** 📝 Homework
+:PROPERTIES:
+:CUSTOM_ID: homework-1
+:END:
+- Required: Do all the exercises at the bottom of each section, check
+  your answers and check your understanding - please as questions if
+  you're unsure!
+- (optional): Practice additional exercises in the supplemental
+  textbooks if you need/want:
+  [[http://discrete.openmathbooks.org/dmoi3/][DMOI]] and
+  [[http://faculty.uml.edu/klevasseur/ads/index-ads.html][Applied
+  Discrete Structures]].
+
+**** Questions?
+:PROPERTIES:
+:CUSTOM_ID: questions
+:END:
+Ask it on Discourse, and let's get it answered!
+
+--------------
+
+*** 🎥 Monday recitation
+:PROPERTIES:
+:CUSTOM_ID: tuesday-recitation-1
+:END:
+*TO BE POSTED*
+
+--------------
+
+*** Before Class on Thursday
+:PROPERTIES:
+:CUSTOM_ID: before-class-on-thursday-1
+:END:
+**** 📚 Readings / Videos
+:PROPERTIES:
+:CUSTOM_ID: readings-videos-1
+:END:
+[[https://www.math.wichita.edu/discrete-book/section-solvingrecurrences.html][Solving
+recurrence relations, continued]]
+
+**** 📝 Homework
+:PROPERTIES:
+:CUSTOM_ID: homework-2
+:END:
+- Required: Do all the exercises at the bottom of each section, check
+  your answers and check your understanding - please as questions if
+  you're unsure!
+- (optional): Practice additional exercises in the supplemental
+  textbooks if you need/want:
+  [[http://discrete.openmathbooks.org/dmoi3/][DMOI]] and
+  [[http://faculty.uml.edu/klevasseur/ads/index-ads.html][Applied
+  Discrete Structures]].
+
+**** Questions?
+:PROPERTIES:
+:CUSTOM_ID: questions-1
+:END:
+Ask it on Discourse, and let's get it answered!
+
+--------------
+
+*** 🎥 Thursday recitation
+:PROPERTIES:
+:CUSTOM_ID: thursday-recitation-1
+:END:
+*TO BE POSTED*
+
+** Week 11
+:PROPERTIES:
+:EXPORT_FILE_NAME: Week11
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :ShowBreadCrumbs true
+:END:
+
+Your todo list for the week
+{{{more}}}
+
+
+*** Before class on Monday
+:PROPERTIES:
+:CUSTOM_ID: before-class-on-tuesday-2
+:END:
+**** 📚 Read / Watch
+:PROPERTIES:
+:CUSTOM_ID: read-watch-1
+:END:
+- [[https://www.math.wichita.edu/discrete-book/sec_logic_induction.html][Math
+  Induction through 4.3.7 (and exercises)]]
+
+**** 📝 Homework
+:PROPERTIES:
+:CUSTOM_ID: homework-3
+:END:
+- Required: Do all the exercises at the bottom of each section, check
+  your answers and check your understanding - please as questions if
+  you're unsure!
+- (optional): Practice additional exercises in the supplemental
+  textbooks if you need/want:
+  [[http://discrete.openmathbooks.org/dmoi3/][DMOI]] and
+  [[http://faculty.uml.edu/klevasseur/ads/index-ads.html][Applied
+  Discrete Structures]].
+
+**** Questions?
+:PROPERTIES:
+:CUSTOM_ID: questions-2
+:END:
+Ask it on Discourse, and let's get it answered!
+
+--------------
+
+*** 🎥 Monday recitation
+:PROPERTIES:
+:CUSTOM_ID: tuesday-recitation-2
+:END:
+*TO BE POSTED*
+
+--------------
+
+*** Before Class on Thursday
+:PROPERTIES:
+:CUSTOM_ID: before-class-on-thursday-2
+:END:
+**** 📚 Readings / Videos
+:PROPERTIES:
+:CUSTOM_ID: readings-videos-2
+:END:
+- [[https://www.math.wichita.edu/discrete-book/sec_logic_induction.html][Math Induction (the rest)]]
+
+**** 📝 Homework
+:PROPERTIES:
+:CUSTOM_ID: homework-4
+:END:
+- Required: Do all the exercises at the bottom of each section, check
+  your answers and check your understanding - please as questions if
+  you're unsure!
+- (optional): Practice additional exercises in the supplemental
+  textbooks if you need/want:
+  [[http://discrete.openmathbooks.org/dmoi3/][DMOI]] and
+  [[http://faculty.uml.edu/klevasseur/ads/index-ads.html][Applied
+  Discrete Structures]].
+
+**** Questions?
+:PROPERTIES:
+:CUSTOM_ID: questions-3
+:END:
+Ask it on Discourse, and let's get it answered!
+
+--------------
+
+*** 🎥 Thursday recitation
+:PROPERTIES:
+:CUSTOM_ID: thursday-recitation-2
+:END:
+*TO BE POSTED*
+
+** Week 12
+:PROPERTIES:
+:EXPORT_FILE_NAME: Week12
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :ShowBreadCrumbs true
+:END:
+
+Your todo list for the week
+{{{more}}}
+
+
+*** Before class on Monday
+:PROPERTIES:
+:CUSTOM_ID: before-class-on-tuesday-3
+:END:
+**** 📚 Read / Watch
+:PROPERTIES:
+:CUSTOM_ID: read-watch-2
+:END:
+- [[https://www.math.wichita.edu/discrete-book/sec_logic_induction.html][Math
+  Induction additional discussion]]
+
+**** 📝 Homework
+:PROPERTIES:
+:CUSTOM_ID: homework-5
+:END:
+- Required: Do all the exercises at the bottom of each section, check
+  your answers and check your understanding - please as questions if
+  you're unsure!
+- (optional): Practice additional exercises in the supplemental
+  textbooks if you need/want:
+  [[http://discrete.openmathbooks.org/dmoi3/][DMOI]] and
+  [[http://faculty.uml.edu/klevasseur/ads/index-ads.html][Applied
+  Discrete Structures]].
+
+**** Questions?
+:PROPERTIES:
+:CUSTOM_ID: questions-4
+:END:
+Ask it on Discourse, and let's get it answered!
+
+--------------
+
+*** 🎥 Monday recitation
+:PROPERTIES:
+:CUSTOM_ID: tuesday-recitation-3
+:END:
+*TO BE POSTED*
+
+--------------
+
+*** Before Class on Thursday
+:PROPERTIES:
+:CUSTOM_ID: before-class-on-thursday-3
+:END:
+**** 📚 Readings / Videos
+:PROPERTIES:
+:CUSTOM_ID: readings-videos-3
+:END:
+[[https://www.math.wichita.edu/discrete-book/section-counting-basics.html][Multiplicative and Addititive Principles]]
+
+**** 📝 Homework
+:PROPERTIES:
+:CUSTOM_ID: homework-6
+:END:
+- Required: Do all the exercises at the bottom of each section, check
+  your answers and check your understanding - please as questions if
+  you're unsure!
+- (optional): Practice additional exercises in the supplemental
+  textbooks if you need/want:
+  [[http://discrete.openmathbooks.org/dmoi3/][DMOI]] and
+  [[http://faculty.uml.edu/klevasseur/ads/index-ads.html][Applied
+  Discrete Structures]].
+
+**** Questions?
+:PROPERTIES:
+:CUSTOM_ID: questions-5
+:END:
+Ask it on Discourse, and let's get it answered!
+
+--------------
+
+*** 🎥 Thursday recitation
+:PROPERTIES:
+:CUSTOM_ID: thursday-recitation-3
+:END:
+*TO BE POSTED*
+
+** Week 13
+:PROPERTIES:
+:EXPORT_FILE_NAME: Week13
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :ShowBreadCrumbs true
+:END:
+
+Your todo list for the week
+{{{more}}}
+
+*** Before class on Monday
+:PROPERTIES:
+:CUSTOM_ID: before-class-on-tuesday-4
+:END:
+**** 📚 Read / Watch
+:PROPERTIES:
+:CUSTOM_ID: read-watch-3
+:END:
+- [[https://www.math.wichita.edu/discrete-book/section-counting-combperm.html][Permutations
+  and Combinations]]
+
+**** 📝 Homework
+:PROPERTIES:
+:CUSTOM_ID: homework-7
+:END:
+- Required: Do all the exercises at the bottom of each section, check
+  your answers and check your understanding - please as questions if
+  you're unsure!
+- (optional): Practice additional exercises in the supplemental
+  textbooks if you need/want:
+  [[http://discrete.openmathbooks.org/dmoi3/][DMOI]] and
+  [[http://faculty.uml.edu/klevasseur/ads/index-ads.html][Applied
+  Discrete Structures]].
+
+--------------
+
+*** 🎥 Monday recitation
+:PROPERTIES:
+:CUSTOM_ID: tuesday-recitation-4
+:END:
+*TO BE POSTED*
+
+--------------
+
+*** Before Class on Thursday
+:PROPERTIES:
+:CUSTOM_ID: before-class-on-thursday-4
+:END:
+**** 📚 Readings / Videos
+:PROPERTIES:
+:CUSTOM_ID: readings-videos-4
+:END:
+[[https://www.math.wichita.edu/discrete-book/section-counting-binomial.html][Binomial Coefficients and combinatorial proof]]
+
+**** 📝 Homework
+:PROPERTIES:
+:CUSTOM_ID: homework-8
+:END:
+- Required: Do all the exercises at the bottom of each section, check
+  your answers and check your understanding - please as questions if
+  you're unsure!
+- (optional): Practice additional exercises in the supplemental
+  textbooks if you need/want:
+  [[http://discrete.openmathbooks.org/dmoi3/][DMOI]] and
+  [[http://faculty.uml.edu/klevasseur/ads/index-ads.html][Applied
+  Discrete Structures]].
+
+--------------
+
+*** 🎥 Thursday recitation
+:PROPERTIES:
+:CUSTOM_ID: thursday-recitation-4
+:END:
+*TO BE POSTED*
+
+** Week 14
+:PROPERTIES:
+:EXPORT_FILE_NAME: Week14
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :ShowBreadCrumbs true
+:END:
+
+Your todo list for the week
+{{{more}}}
+
+
+*** Before class on Monday
+:PROPERTIES:
+:CUSTOM_ID: before-class-on-tuesday-5
+:END:
+No new topics; continue discussing combinatorial proof and discussing
+questions.
+
+--------------
+
+*** 🎥 Monday recitation
+:PROPERTIES:
+:CUSTOM_ID: tuesday-recitation-5
+:END:
+*TO BE POSTED*
+
+--------------
+
+*** No class Thursday (Thanksgiving)
+:PROPERTIES:
+:CUSTOM_ID: no-class-thursday-thanksgiving
+:END:
+Happy Thanksgiving! 🦃
+
+** Week 15
+:PROPERTIES:
+:EXPORT_FILE_NAME: Week15
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :ShowBreadCrumbs true
+:END:
+
+Your todo list for the week
+{{{more}}}
+
+
+*** Before class on Monday
+:PROPERTIES:
+:CUSTOM_ID: before-class-on-tuesday-6
+:END:
+**** 📚 Read / Watch
+:PROPERTIES:
+:CUSTOM_ID: read-watch-4
+:END:
+- [[https://www.math.wichita.edu/discrete-book/section-counting-binomial.html][Combinatorial
+  proof]]
+
+**** 📝 Homework
+:PROPERTIES:
+:CUSTOM_ID: homework-9
+:END:
+- Required: Do all the exercises at the bottom of each section, check
+  your answers and check your understanding - please as questions if
+  you're unsure!
+- (optional): Practice additional exercises in the supplemental
+  textbooks if you need/want:
+  [[http://discrete.openmathbooks.org/dmoi3/][DMOI]] and
+  [[http://faculty.uml.edu/klevasseur/ads/index-ads.html][Applied
+  Discrete Structures]].
+
+**** Questions?
+:PROPERTIES:
+:CUSTOM_ID: questions-6
+:END:
+Ask it on Discourse, and let's get it answered!
+
+--------------
+
+*** 🎥 Monday recitation
+:PROPERTIES:
+:CUSTOM_ID: tuesday-recitation-6
+:END:
+*TO BE POSTED*
+
+--------------
+
+*** Before Class on Thursday
+:PROPERTIES:
+:CUSTOM_ID: before-class-on-thursday-5
+:END:
+**** 📚 Readings / Videos
+:PROPERTIES:
+:CUSTOM_ID: readings-videos-5
+:END:
+[[https://www.math.wichita.edu/discrete-book/section-counting-fib.html][Counting Fibonacci Numbers with combinatorial proof]]
+
+**** 📝 Homework
+:PROPERTIES:
+:CUSTOM_ID: homework-10
+:END:
+- Required: Do all the exercises at the bottom of each section, check
+  your answers and check your understanding - please as questions if
+  you're unsure!
+- (optional): Practice additional exercises in the supplemental
+  textbooks if you need/want:
+  [[http://discrete.openmathbooks.org/dmoi3/][DMOI]] and
+  [[http://faculty.uml.edu/klevasseur/ads/index-ads.html][Applied
+  Discrete Structures]].
+
+**** Questions?
+:PROPERTIES:
+:CUSTOM_ID: questions-7
+:END:
+Ask it on Discourse, and let's get it answered!
+
+--------------
+
+*** 🎥 Thursday recitation
+:PROPERTIES:
+:CUSTOM_ID: thursday-recitation-5
+:END:
+*TO BE POSTED*
+
+
+** Week 16
+:PROPERTIES:
+:EXPORT_FILE_NAME: Week16
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :ShowBreadCrumbs true
+:END:
+
+Your todo list for the week
+{{{more}}}
+
+
+*** Before class on Monday
+:PROPERTIES:
+:CUSTOM_ID: before-class-on-tuesday-7
+:END:
+No new topics this week; come prepared to ask questions in a
+whole-semester review! The checkpoint this week and during finals week
+are both fully comprehensive - every learning target is available.
+
+--------------
+
+*** 🎥 Monday recitation
+:PROPERTIES:
+:CUSTOM_ID: tuesday-recitation-7
+:END:
+*TO BE POSTED*
+
+--------------
+
+*** Before Class on Wednesday
+:PROPERTIES:
+:CUSTOM_ID: before-class-on-thursday-6
+:END:
+No new topics this week; come prepared to ask questions in a
+whole-semester review!
+
+--------------
+
+*** 🎥 Wednesday recitation
+:PROPERTIES:
+:CUSTOM_ID: thursday-recitation-6
+:END:
+*TO BE POSTED*
 
 * Blog Posts
 :PROPERTIES:

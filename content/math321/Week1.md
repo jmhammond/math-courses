@@ -41,16 +41,16 @@ page and ask! I'll be quick to answer!
 -   Required: Do all the exercises at the bottom of each section, check
     your answers and check your understanding - please ask questions if
     you're unsure!
--   (optional): Practice additional exercises in the supplemental textbooks if you need/want: [DMOI](http://discrete.openmathbooks.org/dmoi3/) and [Applied Discrete Structures](http://faculty.uml.edu/klevasseur/ads/index-ads.html). (Right click to open in new window)
+-   (optional): Practice additional exercises in the supplemental textbooks if you need/want: [DMOI](http://discrete.openmathbooks.org/dmoi3/) and [Applied Discrete Structures](http://faculty.uml.edu/klevasseur/ads/index-ads.html).
 
 
 ### Assessments this week {#assessments-this-week}
 
 -   The weekly Checkpoint Quiz will be available Thursday - Sunday. It
     assesses standards O1, O2, and O3.
--   **REMEMBER** ! [A sample checkpoint is available](https://discourse.math.wichita.edu/t/sample-checkpoint-1-and-solutions/1108)! (Right click to open in new window)
+-   **REMEMBER** ! [A sample checkpoint is available](https://discourse.math.wichita.edu/t/sample-checkpoint-1-and-solutions/1108)!
     I highly recommend you practice it as you're studying to get some experience.
--   For more information about uploading, [see here](https://discourse.math.wichita.edu/t/uploading-weekly-checkpoints-to-nextcloud/1113). (Right click to open in new window)
+-   For more information about uploading, [see here](https://discourse.math.wichita.edu/t/uploading-weekly-checkpoints-to-nextcloud/1113).
 
 **An announcement will be posted on Blackboard with a link when it's
 available** !

@@ -15,7 +15,7 @@ They're being marked and feedback is being given. I've slow to grade (as
 I've already said many times). When it's done, you'll find your feedback
 on Blackboard &gt; Gradebook &gt; Checkpoint 1. I'll also update the relevant
 learning target columns on Blackboard's gradebook.
-[More information about where to find grades is in a video here](https://youtu.be/cjoz2SwNo70). (right click to open in new tab)
+[More information about where to find grades is in a video here](https://youtu.be/cjoz2SwNo70).
 
 ---
 
