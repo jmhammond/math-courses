@@ -38,10 +38,7 @@ page and ask! I'll be quick to answer!
 
 ### 📝 Homework {#homework}
 
--   Required: Do all the exercises at the bottom of each section, check
-    your answers and check your understanding - please ask questions if
-    you're unsure!
--   (optional): Practice additional exercises in the supplemental textbooks if you need/want: [DMOI](http://discrete.openmathbooks.org/dmoi3/) and [Applied Discrete Structures](http://faculty.uml.edu/klevasseur/ads/index-ads.html).
+Head over to WebAssign and begin attempting the questions there. It's due this weekend on Sunday at 11:59pm.
 
 
 ### Assessments this week {#assessments-this-week}

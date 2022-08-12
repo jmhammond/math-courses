@@ -31,14 +31,7 @@ learning target columns on Blackboard's gradebook.
 
 ### 📝 Homework {#homework-11}
 
--   Required: Do all the exercises at the bottom of each section, check
-    your answers and check your understanding - please as questions if
-    you're unsure!
--   (optional): Practice additional exercises in the supplemental
-    textbooks if you need/want:
-    [DMOI](http://discrete.openmathbooks.org/dmoi3/) and
-    [Applied
-    Discrete Structures](http://faculty.uml.edu/klevasseur/ads/index-ads.html).
+Head over to WebAssign and begin attempting the questions there. It's due this weekend on Sunday at 11:59pm.
 
 
 ### Questions? {#questions-8}
@@ -66,14 +59,7 @@ Ask it on Discourse, and let's get it answered!
 
 ### 📝 Homework {#homework-12}
 
--   Required: Do all the exercises at the bottom of each section, check
-    your answers and check your understanding - please as questions if
-    you're unsure!
--   (optional): Practice additional exercises in the supplemental
-    textbooks if you need/want:
-    [DMOI](http://discrete.openmathbooks.org/dmoi3/) and
-    [Applied
-    Discrete Structures](http://faculty.uml.edu/klevasseur/ads/index-ads.html).
+Head over to WebAssign and begin attempting the questions there. It's due this weekend on Sunday at 11:59pm.
 
 
 ### Questions? {#questions-9}

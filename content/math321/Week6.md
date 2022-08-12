@@ -1,5 +1,5 @@
 +++
-title = "Week 5"
+title = "Week 6"
 author = ["John Hammond"]
 draft = false
 ShowBreadCrumbs = true
@@ -9,16 +9,17 @@ Your todo list for the week
 <!--more-->
 
 
-## Before class on Tuesday {#before-class-on-tuesday-11}
+## Before class on Tuesday {#before-class-on-tuesday-12}
+
+(No pre-class material, but still live class)
 
 
-### 📚 Read / Watch {#read-watch-8}
+### 📚 Read / Watch {#read-watch-9}
 
--   [Mathematical
-    proofs (the rest of the section)](https://www.math.wichita.edu/~hammond/class-notes/section-logic-proofs.html)
+(buffer, no-pre-class, but still live class)
 
 
-### 📝 Homework {#homework-17}
+### 📝 Homework {#homework-19}
 
 -   Required: Do all the exercises at the bottom of each section, check
     your answers and check your understanding - please as questions if
@@ -30,30 +31,30 @@ Your todo list for the week
     Discrete Structures](http://faculty.uml.edu/klevasseur/ads/index-ads.html).
 
 
-### Questions? {#questions-14}
+### Questions? {#questions-16}
 
 Ask it on Discourse, and let's get it answered!
 
 ---
 
 
-## 🎥 Tuesday recitation {#tuesday-recitation-11}
+## 🎥 Tuesday recitation {#tuesday-recitation-12}
 
 **TO BE POSTED**
 
 ---
 
 
-## Before Class on Thursday {#before-class-on-thursday-10}
+## Before Class on Thursday {#before-class-on-thursday-11}
 
 
-### 📚 Readings / Videos {#readings-videos-9}
+### 📚 Readings / Videos {#readings-videos-10}
 
-[Divisibility
-and Congruences](https://www.math.wichita.edu/~hammond/class-notes/section-numtheory-divcong.html)
+-   [Primes](https://www.math.wichita.edu/~hammond/class-notes/section-primes.html)
+-   [GCDs and the Euclidean Algorithm](https://www.math.wichita.edu/~hammond/class-notes/section-gcd-euclid.html)
 
 
-### 📝 Homework {#homework-18}
+### 📝 Homework {#homework-20}
 
 -   Required: Do all the exercises at the bottom of each section, check
     your answers and check your understanding - please as questions if
@@ -65,13 +66,13 @@ and Congruences](https://www.math.wichita.edu/~hammond/class-notes/section-numth
     Discrete Structures](http://faculty.uml.edu/klevasseur/ads/index-ads.html).
 
 
-### Questions? {#questions-15}
+### Questions? {#questions-17}
 
 Ask it on Discourse, and let's get it answered!
 
 ---
 
 
-## 🎥 Thursday recitation {#thursday-recitation-10}
+## 🎥 Thursday recitation {#thursday-recitation-11}
 
 **TO BE POSTED**

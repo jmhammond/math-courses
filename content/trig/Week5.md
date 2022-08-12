@@ -1,5 +1,5 @@
 +++
-title = "Week 6"
+title = "Week 5"
 author = ["John Hammond"]
 draft = false
 ShowBreadCrumbs = true
@@ -9,70 +9,55 @@ Your todo list for the week
 <!--more-->
 
 
-## Before class on Monday {#before-class-on-tuesday-12}
-
-(No pre-class material, but still live class)
+## Before class on Monday {#before-class-on-tuesday-11}
 
 
-### 📚 Read / Watch {#read-watch-9}
+### 📚 Read / Watch {#read-watch-8}
 
-(buffer, no-pre-class, but still live class)
-
-
-### 📝 Homework {#homework-19}
-
--   Required: Do all the exercises at the bottom of each section, check
-    your answers and check your understanding - please as questions if
-    you're unsure!
--   (optional): Practice additional exercises in the supplemental
-    textbooks if you need/want:
-    [DMOI](http://discrete.openmathbooks.org/dmoi3/) and
-    [Applied
-    Discrete Structures](http://faculty.uml.edu/klevasseur/ads/index-ads.html).
+-   [Mathematical
+    proofs (the rest of the section)](https://www.math.wichita.edu/~hammond/class-notes/section-logic-proofs.html)
 
 
-### Questions? {#questions-16}
+### 📝 Homework {#homework-17}
+
+Head over to WebAssign and begin attempting the questions there. It's due this weekend on Sunday at 11:59pm.
+
+
+### Questions? {#questions-14}
 
 Ask it on Discourse, and let's get it answered!
 
 ---
 
 
-## 🎥 Monday recitation {#tuesday-recitation-12}
+## 🎥 Monday recitation {#tuesday-recitation-11}
 
 **TO BE POSTED**
 
 ---
 
 
-## Before Class on Wednesday {#before-class-on-thursday-11}
+## Before Class on Wednesday {#before-class-on-thursday-10}
 
 
-### 📚 Readings / Videos {#readings-videos-10}
+### 📚 Readings / Videos {#readings-videos-9}
 
--   [Primes](https://www.math.wichita.edu/~hammond/class-notes/section-primes.html)
--   [GCDs and the Euclidean Algorithm](https://www.math.wichita.edu/~hammond/class-notes/section-gcd-euclid.html)
-
-
-### 📝 Homework {#homework-20}
-
--   Required: Do all the exercises at the bottom of each section, check
-    your answers and check your understanding - please as questions if
-    you're unsure!
--   (optional): Practice additional exercises in the supplemental
-    textbooks if you need/want:
-    [DMOI](http://discrete.openmathbooks.org/dmoi3/) and
-    [Applied
-    Discrete Structures](http://faculty.uml.edu/klevasseur/ads/index-ads.html).
+[Divisibility
+and Congruences](https://www.math.wichita.edu/~hammond/class-notes/section-numtheory-divcong.html)
 
 
-### Questions? {#questions-17}
+### 📝 Homework {#homework-18}
+
+Head over to WebAssign and begin attempting the questions there. It's due this weekend on Sunday at 11:59pm.
+
+
+### Questions? {#questions-15}
 
 Ask it on Discourse, and let's get it answered!
 
 ---
 
 
-## 🎥 Wednesday recitation {#thursday-recitation-11}
+## 🎥 Wednesday recitation {#thursday-recitation-10}
 
 **TO BE POSTED**
