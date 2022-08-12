@@ -1846,7 +1846,7 @@ is this class and how does it work?"
 
 --------------
 
-*** Before Class on Thursday
+*** Before Class on Wednesday
 :PROPERTIES:
 :CUSTOM_ID: before-class-on-thursday
 :END:
@@ -1874,7 +1874,7 @@ page and ask! I'll be quick to answer!
 :PROPERTIES:
 :CUSTOM_ID: assessments-this-week
 :END:
-- The weekly Checkpoint Quiz will be available Thursday - Sunday. It
+- The weekly Checkpoint Quiz will be available Wednesday - Sunday. It
   assesses standards O1, O2, and O3.
 - *REMEMBER* ! [[https://discourse.math.wichita.edu/t/sample-checkpoint-1-and-solutions/1108][A sample checkpoint is available]]!
   I highly recommend you practice it as you're studying to get some experience.
@@ -1885,7 +1885,7 @@ available* !
 
 --------------
 
-*** 🎥 Thursday recitation
+*** 🎥 Wednesday recitation
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation
 :END:
@@ -1953,7 +1953,7 @@ Ask it on Discourse, and let's get it answered!
 
 --------------
 
-*** Before Class on Thursday
+*** Before Class on Wednesday
 :PROPERTIES:
 :CUSTOM_ID: before-class-on-thursday-7
 :END:
@@ -1986,7 +1986,7 @@ Ask it on Discourse, and let's get it answered!
 
 --------------
 
-*** 🎥 Thursday recitation
+*** 🎥 Wednesday recitation
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation-7
 :END:
@@ -2041,7 +2041,7 @@ Ask it on Discourse, and let's get it answered!
 
 --------------
 
-*** Before Class on Thursday
+*** Before Class on Wednesday
 :PROPERTIES:
 :CUSTOM_ID: before-class-on-thursday-8
 :END:
@@ -2074,7 +2074,7 @@ Ask it on Discourse, and let's get it answered!
 --------------
 
 
-*** 🎥 Thursday recitation
+*** 🎥 Wednesday recitation
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation-8
 :END:
@@ -2130,7 +2130,7 @@ Ask it on Discourse, and let's get it answered!
 
 --------------
 
-*** Before Class on Thursday
+*** Before Class on Wednesday
 :PROPERTIES:
 :CUSTOM_ID: before-class-on-thursday-9
 :END:
@@ -2162,7 +2162,7 @@ Ask it on Discourse, and let's get it answered!
 
 --------------
 
-*** 🎥 Thursday recitation
+*** 🎥 Wednesday recitation
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation-9
 :END:
@@ -2217,7 +2217,7 @@ Ask it on Discourse, and let's get it answered!
 
 --------------
 
-*** Before Class on Thursday
+*** Before Class on Wednesday
 :PROPERTIES:
 :CUSTOM_ID: before-class-on-thursday-10
 :END:
@@ -2249,7 +2249,7 @@ Ask it on Discourse, and let's get it answered!
 
 --------------
 
-*** 🎥 Thursday recitation
+*** 🎥 Wednesday recitation
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation-10
 :END:
@@ -2306,7 +2306,7 @@ Ask it on Discourse, and let's get it answered!
 
 --------------
 
-*** Before Class on Thursday
+*** Before Class on Wednesday
 :PROPERTIES:
 :CUSTOM_ID: before-class-on-thursday-11
 :END:
@@ -2338,7 +2338,7 @@ Ask it on Discourse, and let's get it answered!
 
 --------------
 
-*** 🎥 Thursday recitation
+*** 🎥 Wednesday recitation
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation-11
 :END:
@@ -2396,7 +2396,7 @@ Ask it on Discourse, and let's get it answered!
 
 --------------
 
-*** Before Class on Thursday
+*** Before Class on Wednesday
 :PROPERTIES:
 :CUSTOM_ID: before-class-on-thursday-12
 :END:
@@ -2428,7 +2428,7 @@ Ask it on Discourse, and let's get it answered!
 
 --------------
 
-*** 🎥 Thursday recitation
+*** 🎥 Wednesday recitation
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation-12
 :END:
@@ -2483,7 +2483,7 @@ Ask it on Discourse, and let's get it answered!
 
 --------------
 
-*** Before Class on Thursday
+*** Before Class on Wednesday
 :PROPERTIES:
 :CUSTOM_ID: before-class-on-thursday-13
 :END:
@@ -2515,7 +2515,7 @@ Ask it on Discourse, and let's get it answered!
 
 --------------
 
-*** 🎥 Thursday recitation
+*** 🎥 Wednesday recitation
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation-13
 :END:
@@ -2538,7 +2538,7 @@ Your todo list for the week
 
 --------------
 
-*** Before Class on Thursday
+*** Before Class on Wednesday
 :PROPERTIES:
 :CUSTOM_ID: before-class-on-thursday-14
 :END:
@@ -2570,7 +2570,7 @@ Ask it on Discourse, and let's get it answered!
 
 --------------
 
-*** 🎥 Thursday recitation
+*** 🎥 Wednesday recitation
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation-14
 :END:
@@ -2624,7 +2624,7 @@ Ask it on Discourse, and let's get it answered!
 
 --------------
 
-*** Before Class on Thursday
+*** Before Class on Wednesday
 :PROPERTIES:
 :CUSTOM_ID: before-class-on-thursday-1
 :END:
@@ -2656,7 +2656,7 @@ Ask it on Discourse, and let's get it answered!
 
 --------------
 
-*** 🎥 Thursday recitation
+*** 🎥 Wednesday recitation
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation-1
 :END:
@@ -2712,7 +2712,7 @@ Ask it on Discourse, and let's get it answered!
 
 --------------
 
-*** Before Class on Thursday
+*** Before Class on Wednesday
 :PROPERTIES:
 :CUSTOM_ID: before-class-on-thursday-2
 :END:
@@ -2743,7 +2743,7 @@ Ask it on Discourse, and let's get it answered!
 
 --------------
 
-*** 🎥 Thursday recitation
+*** 🎥 Wednesday recitation
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation-2
 :END:
@@ -2799,7 +2799,7 @@ Ask it on Discourse, and let's get it answered!
 
 --------------
 
-*** Before Class on Thursday
+*** Before Class on Wednesday
 :PROPERTIES:
 :CUSTOM_ID: before-class-on-thursday-3
 :END:
@@ -2830,7 +2830,7 @@ Ask it on Discourse, and let's get it answered!
 
 --------------
 
-*** 🎥 Thursday recitation
+*** 🎥 Wednesday recitation
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation-3
 :END:
@@ -2879,7 +2879,7 @@ Your todo list for the week
 
 --------------
 
-*** Before Class on Thursday
+*** Before Class on Wednesday
 :PROPERTIES:
 :CUSTOM_ID: before-class-on-thursday-4
 :END:
@@ -2904,7 +2904,7 @@ Your todo list for the week
 
 --------------
 
-*** 🎥 Thursday recitation
+*** 🎥 Wednesday recitation
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation-4
 :END:
@@ -2937,7 +2937,7 @@ questions.
 
 --------------
 
-*** No class Thursday (Thanksgiving)
+*** No class Wednesday (Thanksgiving)
 :PROPERTIES:
 :CUSTOM_ID: no-class-thursday-thanksgiving
 :END:
@@ -2993,7 +2993,7 @@ Ask it on Discourse, and let's get it answered!
 
 --------------
 
-*** Before Class on Thursday
+*** Before Class on Wednesday
 :PROPERTIES:
 :CUSTOM_ID: before-class-on-thursday-5
 :END:
@@ -3024,7 +3024,7 @@ Ask it on Discourse, and let's get it answered!
 
 --------------
 
-*** 🎥 Thursday recitation
+*** 🎥 Wednesday recitation
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation-5
 :END:
