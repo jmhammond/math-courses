@@ -20,14 +20,14 @@ learning target columns on Blackboard's gradebook.
 ---
 
 
-## 🎥 Monday recitation {#tuesday-recitation}
+## 🎥 Monday class {#tuesday-recitation}
 
 **TO BE POSTED**
 
 ---
 
 
-## 🎥 Wednesday recitation {#thursday-recitation}
+## 🎥 Wednesday class {#thursday-recitation}
 
 **TO BE POSTED**
 

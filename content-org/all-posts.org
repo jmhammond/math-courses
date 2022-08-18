@@ -1838,7 +1838,7 @@ is this class and how does it work?"
 
 --------------
 
-*** 🎥 Monday recitation
+*** 🎥 Monday class
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation
 :END:
@@ -1854,7 +1854,7 @@ Head over to WebAssign and begin attempting the questions there. It's due this w
 
 --------------
 
-*** 🎥 Wednesday recitation
+*** 🎥 Wednesday class
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation
 :END:
@@ -1888,7 +1888,7 @@ learning target columns on Blackboard's gradebook.
 
 --------------
 
-*** 🎥 Monday recitation
+*** 🎥 Monday class
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation
 :END:
@@ -1896,7 +1896,7 @@ learning target columns on Blackboard's gradebook.
 
 --------------
 
-*** 🎥 Wednesday recitation
+*** 🎥 Wednesday class
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation
 :END:
@@ -1915,7 +1915,7 @@ learning target columns on Blackboard's gradebook.
 
 Your class videos for the week
 {{{more}}}
-*** 🎥 Monday recitation
+*** 🎥 Monday class
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation
 :END:
@@ -1923,7 +1923,7 @@ Your class videos for the week
 
 --------------
 
-*** 🎥 Wednesday recitation
+*** 🎥 Wednesday class
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation
 :END:
@@ -1943,7 +1943,7 @@ Your class videos for the week
 
 Your class videos for the week
 {{{more}}}
-*** 🎥 Monday recitation
+*** 🎥 Monday class
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation
 :END:
@@ -1951,7 +1951,7 @@ Your class videos for the week
 
 --------------
 
-*** 🎥 Wednesday recitation
+*** 🎥 Wednesday class
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation
 :END:
@@ -1973,7 +1973,7 @@ Your class videos for the week
 
 Your class videos for the week
 {{{more}}}
-*** 🎥 Monday recitation
+*** 🎥 Monday class
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation
 :END:
@@ -1981,7 +1981,7 @@ Your class videos for the week
 
 --------------
 
-*** 🎥 Wednesday recitation
+*** 🎥 Wednesday class
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation
 :END:
@@ -2001,7 +2001,7 @@ Your class videos for the week
 
 Your class videos for the week
 {{{more}}}
-*** 🎥 Monday recitation
+*** 🎥 Monday class
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation
 :END:
@@ -2009,7 +2009,7 @@ Your class videos for the week
 
 --------------
 
-*** 🎥 Wednesday recitation
+*** 🎥 Wednesday class
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation
 :END:
@@ -2030,7 +2030,7 @@ Your class videos for the week
 
 Your class videos for the week
 {{{more}}}
-*** 🎥 Monday recitation
+*** 🎥 Monday class
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation
 :END:
@@ -2038,7 +2038,7 @@ Your class videos for the week
 
 --------------
 
-*** 🎥 Wednesday recitation
+*** 🎥 Wednesday class
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation
 :END:
@@ -2059,7 +2059,7 @@ Your class videos for the week
 :END:
 Your class videos for the week
 {{{more}}}
-*** 🎥 Monday recitation
+*** 🎥 Monday class
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation
 :END:
@@ -2067,7 +2067,7 @@ Your class videos for the week
 
 --------------
 
-*** 🎥 Wednesday recitation
+*** 🎥 Wednesday class
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation
 :END:
@@ -2089,7 +2089,7 @@ Your class videos for the week
 :END:
 Your class videos for the week
 {{{more}}}
-*** 🎥 Monday recitation
+*** 🎥 Monday class
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation
 :END:
@@ -2097,7 +2097,7 @@ Your class videos for the week
 
 --------------
 
-*** 🎥 Wednesday recitation
+*** 🎥 Wednesday class
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation
 :END:
@@ -2118,7 +2118,7 @@ Your class videos for the week
 :END:
 Your class videos for the week
 {{{more}}}
-*** 🎥 Monday recitation
+*** 🎥 Monday class
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation
 :END:
@@ -2126,7 +2126,7 @@ Your class videos for the week
 
 --------------
 
-*** 🎥 Wednesday recitation
+*** 🎥 Wednesday class
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation
 :END:
@@ -2148,7 +2148,7 @@ Your class videos for the week
 :END:
 Your class videos for the week
 {{{more}}}
-*** 🎥 Monday recitation
+*** 🎥 Monday class
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation
 :END:
@@ -2156,7 +2156,7 @@ Your class videos for the week
 
 --------------
 
-*** 🎥 Wednesday recitation
+*** 🎥 Wednesday class
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation
 :END:
@@ -2177,7 +2177,7 @@ Your class videos for the week
 :END:
 Your class videos for the week
 {{{more}}}
-*** 🎥 Monday recitation
+*** 🎥 Monday class
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation
 :END:
@@ -2185,7 +2185,7 @@ Your class videos for the week
 
 --------------
 
-*** 🎥 Wednesday recitation
+*** 🎥 Wednesday class
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation
 :END:
@@ -2206,7 +2206,7 @@ Your class videos for the week
 :END:
 Your class videos for the week
 {{{more}}}
-*** 🎥 Monday recitation
+*** 🎥 Monday class
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation
 :END:
@@ -2214,7 +2214,7 @@ Your class videos for the week
 
 --------------
 
-*** 🎥 Wednesday recitation
+*** 🎥 Wednesday class
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation
 :END:
@@ -2237,7 +2237,7 @@ Your class videos for the week
 
 Your class videos for the week
 {{{more}}}
-*** 🎥 Monday recitation
+*** 🎥 Monday class
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation
 :END:
@@ -2259,7 +2259,7 @@ Happy Thanksgiving! 🦃
 :END:
 Your class videos for the week
 {{{more}}}
-*** 🎥 Monday recitation
+*** 🎥 Monday class
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation
 :END:
@@ -2267,7 +2267,7 @@ Your class videos for the week
 
 --------------
 
-*** 🎥 Wednesday recitation
+*** 🎥 Wednesday class
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation
 :END:
@@ -2290,7 +2290,7 @@ Your class videos for the week
 :END:
 Your class videos for the week
 {{{more}}}
-*** 🎥 Monday recitation
+*** 🎥 Monday class
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation
 :END:
@@ -2298,7 +2298,7 @@ Your class videos for the week
 
 --------------
 
-*** 🎥 Wednesday recitation
+*** 🎥 Wednesday class
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation
 :END:

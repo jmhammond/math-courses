@@ -9,14 +9,14 @@ Your class videos for the week
 <!--more-->
 
 
-## 🎥 Monday recitation {#tuesday-recitation}
+## 🎥 Monday class {#tuesday-recitation}
 
 **TO BE POSTED**
 
 ---
 
 
-## 🎥 Wednesday recitation {#thursday-recitation}
+## 🎥 Wednesday class {#thursday-recitation}
 
 **TO BE POSTED**
 

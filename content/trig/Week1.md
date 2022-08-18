@@ -17,7 +17,7 @@ is this class and how does it work?"
 ---
 
 
-## 🎥 Monday recitation {#tuesday-recitation}
+## 🎥 Monday class {#tuesday-recitation}
 
 **TO BE POSTED**
 
@@ -31,7 +31,7 @@ Head over to WebAssign and begin attempting the questions there. It's due this w
 ---
 
 
-## 🎥 Wednesday recitation {#thursday-recitation}
+## 🎥 Wednesday class {#thursday-recitation}
 
 **TO BE POSTED**
 
