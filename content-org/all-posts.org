@@ -1826,7 +1826,7 @@ With words an whatnot.
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :ShowBreadCrumbs true
 :END:
 
-Your todo list for the week
+Your class videos for the week
 {{{more}}}
 
 *** Before class on Monday
@@ -1846,39 +1846,11 @@ is this class and how does it work?"
 
 --------------
 
-*** Before Class on Wednesday
-:PROPERTIES:
-:CUSTOM_ID: before-class-on-thursday
-:END:
-**** 📚 Readings / Videos
-:PROPERTIES:
-:CUSTOM_ID: readings-videos
-:END:
-
-- [[https://www.math.wichita.edu/~hammond/class-notes/section-prop-logic.html][Propositional Logic]]
-- [[https://www.math.wichita.edu/~hammond/class-notes/sec_objects_sets.html][Sets]]
-
-If you have any questions at any time - click reply at the bottom of the
-page and ask! I'll be quick to answer!
-
 **** 📝 Homework
 :PROPERTIES:
 :CUSTOM_ID: homework
 :END:
 Head over to WebAssign and begin attempting the questions there. It's due this weekend on Sunday at 11:59pm.
-
-**** Assessments this week
-:PROPERTIES:
-:CUSTOM_ID: assessments-this-week
-:END:
-- The weekly Checkpoint Quiz will be available Wednesday - Sunday. It
-  assesses standards O1, O2, and O3.
-- *REMEMBER* ! [[https://discourse.math.wichita.edu/t/sample-checkpoint-1-and-solutions/1108][A sample checkpoint is available]]!
-  I highly recommend you practice it as you're studying to get some experience.
-- For more information about uploading, [[https://discourse.math.wichita.edu/t/uploading-weekly-checkpoints-to-nextcloud/1113][see here]].
-
-*An announcement will be posted on Blackboard with a link when it's
-available* !
 
 --------------
 
@@ -1888,14 +1860,20 @@ available* !
 :END:
 *TO BE POSTED*
 
+--------------
+
+*** 🎥 Friday recitation
+:PROPERTIES:
+:CUSTOM_ID: thursday-recitation
+:END:
+*TO BE POSTED*
 
 ** Week 2
 :PROPERTIES:
 :EXPORT_FILE_NAME: Week2
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :ShowBreadCrumbs true
 :END:
-
-Your todo list for the week
+Your class videos for the week
 {{{more}}}
 
 *** Be on the lookout for checkpoints feedback!
@@ -1910,440 +1888,167 @@ learning target columns on Blackboard's gradebook.
 
 --------------
 
-*** Before class on Monday
-:PROPERTIES:
-:CUSTOM_ID: before-class-on-tuesday-8
-:END:
-**** 📚 Read / Watch
-:PROPERTIES:
-:CUSTOM_ID: read-watch-5
-:END:
-- [[https://www.math.wichita.edu/~hammond/class-notes/sec_relationsfunctions.html][Relations
-  and functions]]
-
-**** 📝 Homework
-:PROPERTIES:
-:CUSTOM_ID: homework-11
-:END:
-Head over to WebAssign and begin attempting the questions there. It's due this weekend on Sunday at 11:59pm.
-
-**** Questions?
-:PROPERTIES:
-:CUSTOM_ID: questions-8
-:END:
-Ask it on Discourse, and let's get it answered!
-
---------------
-
 *** 🎥 Monday recitation
 :PROPERTIES:
-:CUSTOM_ID: tuesday-recitation-8
+:CUSTOM_ID: tuesday-recitation
 :END:
 *TO BE POSTED*
-
---------------
-
-*** Before Class on Wednesday
-:PROPERTIES:
-:CUSTOM_ID: before-class-on-thursday-7
-:END:
-**** 📚 Readings / Videos
-:PROPERTIES:
-:CUSTOM_ID: readings-videos-6
-:END:
-
-- [[https://www.math.wichita.edu/~hammond/class-notes/section-logic-equivalences.html][Logical
-  Equivalences]]
-
-**** 📝 Homework
-:PROPERTIES:
-:CUSTOM_ID: homework-12
-:END:
-Head over to WebAssign and begin attempting the questions there. It's due this weekend on Sunday at 11:59pm.
-
-**** Questions?
-:PROPERTIES:
-:CUSTOM_ID: questions-9
-:END:
-Ask it on Discourse, and let's get it answered!
 
 --------------
 
 *** 🎥 Wednesday recitation
 :PROPERTIES:
-:CUSTOM_ID: thursday-recitation-7
+:CUSTOM_ID: thursday-recitation
 :END:
 *TO BE POSTED*
 
+*** 🎥 Friday recitation
+:PROPERTIES:
+:CUSTOM_ID: thursday-recitation
+:END:
+*TO BE POSTED*
 ** Week 3
 :PROPERTIES:
 :EXPORT_FILE_NAME: Week3
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :ShowBreadCrumbs true
 :END:
 
-Your todo list for the week
+Your class videos for the week
 {{{more}}}
-
-*** Before class on Monday
-:PROPERTIES:
-:CUSTOM_ID: before-class-on-tuesday-9
-:END:
-**** 📚 Read / Watch
-:PROPERTIES:
-:CUSTOM_ID: read-watch-6
-:END:
-- [[https://www.math.wichita.edu/~hammond/class-notes/sec_application_set_proofs.html][Application:
-  Set equivalences]]
-
-**** 📝 Homework
-:PROPERTIES:
-:CUSTOM_ID: homework-13
-:END:
-Head over to WebAssign and begin attempting the questions there. It's due this weekend on Sunday at 11:59pm.
-
-**** Questions?
-:PROPERTIES:
-:CUSTOM_ID: questions-10
-:END:
-Ask it on Discourse, and let's get it answered!
-
---------------
-
 *** 🎥 Monday recitation
 :PROPERTIES:
-:CUSTOM_ID: tuesday-recitation-9
+:CUSTOM_ID: tuesday-recitation
 :END:
 *TO BE POSTED*
 
 --------------
-
-*** Before Class on Wednesday
-:PROPERTIES:
-:CUSTOM_ID: before-class-on-thursday-8
-:END:
-**** 📚 Readings / Videos
-:PROPERTIES:
-:CUSTOM_ID: readings-videos-7
-:END:
-[[https://www.math.wichita.edu/~hammond/class-notes/section-logic-quantifiers.html][Predicates
-and quantified statements]]
-
-**** 📝 Homework
-:PROPERTIES:
-:CUSTOM_ID: homework-14
-:END:
-Head over to WebAssign and begin attempting the questions there. It's due this weekend on Sunday at 11:59pm.
-
-**** Questions?
-:PROPERTIES:
-:CUSTOM_ID: questions-11
-:END:
-Ask it on Discourse, and let's get it answered!
-
---------------
-
 
 *** 🎥 Wednesday recitation
 :PROPERTIES:
-:CUSTOM_ID: thursday-recitation-8
+:CUSTOM_ID: thursday-recitation
 :END:
 *TO BE POSTED*
 
+--------------
+*** 🎥 Friday recitation
+:PROPERTIES:
+:CUSTOM_ID: thursday-recitation
+:END:
+*TO BE POSTED*
 ** Week 4
 :PROPERTIES:
 :EXPORT_FILE_NAME: Week4
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :ShowBreadCrumbs true
 :END:
 
-Your todo list for the week
+Your class videos for the week
 {{{more}}}
-
-
-*** Before class on Monday
-:PROPERTIES:
-:CUSTOM_ID: before-class-on-tuesday-10
-:END:
-**** 📚 Read / Watch
-:PROPERTIES:
-:CUSTOM_ID: read-watch-7
-:END:
-- [[https://www.math.wichita.edu/~hammond/class-notes/section-logic-arguments.html][Logical
-  Arguments]]
-
-**** 📝 Homework
-:PROPERTIES:
-:CUSTOM_ID: homework-15
-:END:
-Head over to WebAssign and begin attempting the questions there. It's due this weekend on Sunday at 11:59pm.
-
-**** Questions?
-:PROPERTIES:
-:CUSTOM_ID: questions-12
-:END:
-Ask it on Discourse, and let's get it answered!
-
---------------
-
 *** 🎥 Monday recitation
 :PROPERTIES:
-:CUSTOM_ID: tuesday-recitation-10
+:CUSTOM_ID: tuesday-recitation
 :END:
 *TO BE POSTED*
-
---------------
-
-*** Before Class on Wednesday
-:PROPERTIES:
-:CUSTOM_ID: before-class-on-thursday-9
-:END:
-**** 📚 Readings / Videos
-:PROPERTIES:
-:CUSTOM_ID: readings-videos-8
-:END:
-[[https://www.math.wichita.edu/~hammond/class-notes/section-logic-proofs.html][Mathematical
-proofs (through 2.5.4, contradiction)]]
-
-**** 📝 Homework
-:PROPERTIES:
-:CUSTOM_ID: homework-16
-:END:
-Head over to WebAssign and begin attempting the questions there. It's due this weekend on Sunday at 11:59pm.
-
-**** Questions?
-:PROPERTIES:
-:CUSTOM_ID: questions-13
-:END:
-Ask it on Discourse, and let's get it answered!
 
 --------------
 
 *** 🎥 Wednesday recitation
 :PROPERTIES:
-:CUSTOM_ID: thursday-recitation-9
+:CUSTOM_ID: thursday-recitation
 :END:
 *TO BE POSTED*
 
+--------------
+
+*** 🎥 Friday recitation
+:PROPERTIES:
+:CUSTOM_ID: thursday-recitation
+:END:
+*TO BE POSTED*
 ** Week 5
 :PROPERTIES:
 :EXPORT_FILE_NAME: Week5
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :ShowBreadCrumbs true
 :END:
 
-Your todo list for the week
+
+Your class videos for the week
 {{{more}}}
-
-*** Before class on Monday
-:PROPERTIES:
-:CUSTOM_ID: before-class-on-tuesday-11
-:END:
-**** 📚 Read / Watch
-:PROPERTIES:
-:CUSTOM_ID: read-watch-8
-:END:
-- [[https://www.math.wichita.edu/~hammond/class-notes/section-logic-proofs.html][Mathematical
-  proofs (the rest of the section)]]
-
-**** 📝 Homework
-:PROPERTIES:
-:CUSTOM_ID: homework-17
-:END:
-Head over to WebAssign and begin attempting the questions there. It's due this weekend on Sunday at 11:59pm.
-
-**** Questions?
-:PROPERTIES:
-:CUSTOM_ID: questions-14
-:END:
-Ask it on Discourse, and let's get it answered!
-
---------------
-
 *** 🎥 Monday recitation
 :PROPERTIES:
-:CUSTOM_ID: tuesday-recitation-11
+:CUSTOM_ID: tuesday-recitation
 :END:
 *TO BE POSTED*
-
---------------
-
-*** Before Class on Wednesday
-:PROPERTIES:
-:CUSTOM_ID: before-class-on-thursday-10
-:END:
-**** 📚 Readings / Videos
-:PROPERTIES:
-:CUSTOM_ID: readings-videos-9
-:END:
-[[https://www.math.wichita.edu/~hammond/class-notes/section-numtheory-divcong.html][Divisibility
-and Congruences]]
-
-**** 📝 Homework
-:PROPERTIES:
-:CUSTOM_ID: homework-18
-:END:
-Head over to WebAssign and begin attempting the questions there. It's due this weekend on Sunday at 11:59pm.
-
-**** Questions?
-:PROPERTIES:
-:CUSTOM_ID: questions-15
-:END:
-Ask it on Discourse, and let's get it answered!
 
 --------------
 
 *** 🎥 Wednesday recitation
 :PROPERTIES:
-:CUSTOM_ID: thursday-recitation-10
+:CUSTOM_ID: thursday-recitation
 :END:
 *TO BE POSTED*
 
+*** 🎥 Friday recitation
+:PROPERTIES:
+:CUSTOM_ID: thursday-recitation
+:END:
+*TO BE POSTED*
 ** Week 6
 :PROPERTIES:
 :EXPORT_FILE_NAME: Week6
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :ShowBreadCrumbs true
 :END:
 
-Your todo list for the week
+
+Your class videos for the week
 {{{more}}}
-
-
-*** Before class on Monday
-:PROPERTIES:
-:CUSTOM_ID: before-class-on-tuesday-12
-:END:
-(No pre-class material, but still live class)
-
-**** 📚 Read / Watch
-:PROPERTIES:
-:CUSTOM_ID: read-watch-9
-:END:
-(buffer, no-pre-class, but still live class)
-
-**** 📝 Homework
-:PROPERTIES:
-:CUSTOM_ID: homework-19
-:END:
-Head over to WebAssign and begin attempting the questions there. It's due this weekend on Sunday at 11:59pm.
-
-**** Questions?
-:PROPERTIES:
-:CUSTOM_ID: questions-16
-:END:
-Ask it on Discourse, and let's get it answered!
-
---------------
-
 *** 🎥 Monday recitation
 :PROPERTIES:
-:CUSTOM_ID: tuesday-recitation-12
+:CUSTOM_ID: tuesday-recitation
 :END:
 *TO BE POSTED*
-
---------------
-
-*** Before Class on Wednesday
-:PROPERTIES:
-:CUSTOM_ID: before-class-on-thursday-11
-:END:
-**** 📚 Readings / Videos
-:PROPERTIES:
-:CUSTOM_ID: readings-videos-10
-:END:
-- [[https://www.math.wichita.edu/~hammond/class-notes/section-primes.html][Primes]]
-- [[https://www.math.wichita.edu/~hammond/class-notes/section-gcd-euclid.html][GCDs and the Euclidean Algorithm]]
-
-**** 📝 Homework
-:PROPERTIES:
-:CUSTOM_ID: homework-20
-:END:
-Head over to WebAssign and begin attempting the questions there. It's due this weekend on Sunday at 11:59pm.
-
-**** Questions?
-:PROPERTIES:
-:CUSTOM_ID: questions-17
-:END:
-Ask it on Discourse, and let's get it answered!
 
 --------------
 
 *** 🎥 Wednesday recitation
 :PROPERTIES:
-:CUSTOM_ID: thursday-recitation-11
+:CUSTOM_ID: thursday-recitation
 :END:
 *TO BE POSTED*
 
+--------------
+
+*** 🎥 Friday recitation
+:PROPERTIES:
+:CUSTOM_ID: thursday-recitation
+:END:
+*TO BE POSTED*
 ** Week 7
 :PROPERTIES:
 :EXPORT_FILE_NAME: Week7
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :ShowBreadCrumbs true
 :END:
 
-Your todo list for the week
+Your class videos for the week
 {{{more}}}
-
-
-*** Before class on Monday
-:PROPERTIES:
-:CUSTOM_ID: before-class-on-tuesday-13
-:END:
-**** 📚 Read / Watch
-:PROPERTIES:
-:CUSTOM_ID: read-watch-10
-:END:
-- [[https://www.math.wichita.edu/~hammond/class-notes/section-multiplicative-inverses.html][Multiplicative
-  Inverses]]
-- [[https://www.math.wichita.edu/~hammond/class-notes/section-numtheory-modularexp.html][Modular
-  Exponentiation]]
-
-**** 📝 Homework
-:PROPERTIES:
-:CUSTOM_ID: homework-21
-:END:
-Head over to WebAssign and begin attempting the questions there. It's due this weekend on Sunday at 11:59pm.
-
-**** Questions?
-:PROPERTIES:
-:CUSTOM_ID: questions-18
-:END:
-Ask it on Discourse, and let's get it answered!
-
---------------
-
 *** 🎥 Monday recitation
 :PROPERTIES:
-:CUSTOM_ID: tuesday-recitation-13
+:CUSTOM_ID: tuesday-recitation
 :END:
 *TO BE POSTED*
 
 --------------
 
-*** Before Class on Wednesday
+*** 🎥 Wednesday recitation
 :PROPERTIES:
-:CUSTOM_ID: before-class-on-thursday-12
+:CUSTOM_ID: thursday-recitation
 :END:
-**** Readings / Videos
-:PROPERTIES:
-:CUSTOM_ID: readings-videos-11
-:END:
-[[https://www.math.wichita.edu/~hammond/class-notes/section-numtheory-encryption.html][Application:
-Encryption through 3.6.6]]
-
-**** 📝 Homework
-:PROPERTIES:
-:CUSTOM_ID: homework-22
-:END:
-Head over to WebAssign and begin attempting the questions there. It's due this weekend on Sunday at 11:59pm.
-
-**** Questions?
-:PROPERTIES:
-:CUSTOM_ID: questions-19
-:END:
-Ask it on Discourse, and let's get it answered!
+*TO BE POSTED*
 
 --------------
 
-*** 🎥 Wednesday recitation
+*** 🎥 Friday recitation
 :PROPERTIES:
-:CUSTOM_ID: thursday-recitation-12
+:CUSTOM_ID: thursday-recitation
 :END:
 *TO BE POSTED*
 
@@ -2352,119 +2057,57 @@ Ask it on Discourse, and let's get it answered!
 :EXPORT_FILE_NAME: Week8
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :ShowBreadCrumbs true
 :END:
-
-Your todo list for the week
+Your class videos for the week
 {{{more}}}
-
-*** Before class on Monday
-:PROPERTIES:
-:CUSTOM_ID: before-class-on-tuesday-14
-:END:
-**** 📚 Read / Watch
-:PROPERTIES:
-:CUSTOM_ID: read-watch-11
-:END:
-- [[https://www.math.wichita.edu/~hammond/class-notes/section-numtheory-encryption.html][Application:
-  Encryption the rest of the section]]
-
-**** 📝 Homework
-:PROPERTIES:
-:CUSTOM_ID: homework-23
-:END:
-Head over to WebAssign and begin attempting the questions there. It's due this weekend on Sunday at 11:59pm.
-
-**** Questions?
-:PROPERTIES:
-:CUSTOM_ID: questions-20
-:END:
-Ask it on Discourse, and let's get it answered!
-
---------------
-
 *** 🎥 Monday recitation
 :PROPERTIES:
-:CUSTOM_ID: tuesday-recitation-14
+:CUSTOM_ID: tuesday-recitation
 :END:
 *TO BE POSTED*
-
---------------
-
-*** Before Class on Wednesday
-:PROPERTIES:
-:CUSTOM_ID: before-class-on-thursday-13
-:END:
-**** 📚 Readings / Videos
-:PROPERTIES:
-:CUSTOM_ID: readings-videos-12
-:END:
-[[https://www.math.wichita.edu/~hammond/class-notes/section-numtheory-encryption.html][Application:
-Encryption]] * Additional topics in ciphers TBD
-
-**** 📝 Homework
-:PROPERTIES:
-:CUSTOM_ID: homework-24
-:END:
-Head over to WebAssign and begin attempting the questions there. It's due this weekend on Sunday at 11:59pm.
-
-**** Questions?
-:PROPERTIES:
-:CUSTOM_ID: questions-21
-:END:
-Ask it on Discourse, and let's get it answered!
 
 --------------
 
 *** 🎥 Wednesday recitation
 :PROPERTIES:
-:CUSTOM_ID: thursday-recitation-13
+:CUSTOM_ID: thursday-recitation
 :END:
 *TO BE POSTED*
+
+--------------
+
+*** 🎥 Friday recitation
+:PROPERTIES:
+:CUSTOM_ID: thursday-recitation
+:END:
+*TO BE POSTED*
+
 
 ** Week 9
 :PROPERTIES:
 :EXPORT_FILE_NAME: Week9
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :ShowBreadCrumbs true
 :END:
-
-Your todo list for the week
+Your class videos for the week
 {{{more}}}
-
-
-*** No class on Monday (Fall Break)
+*** 🎥 Monday recitation
 :PROPERTIES:
-:CUSTOM_ID: no-class-on-tuesday-fall-break
+:CUSTOM_ID: tuesday-recitation
 :END:
-
---------------
-
-*** Before Class on Wednesday
-:PROPERTIES:
-:CUSTOM_ID: before-class-on-thursday-14
-:END:
-**** 📚 Readings / Videos
-:PROPERTIES:
-:CUSTOM_ID: readings-videos-13
-:END:
-[[https://www.math.wichita.edu/discrete-book/section-objects-seqseries.html][Sequences
-and Series]]
-
-**** 📝 Homework
-:PROPERTIES:
-:CUSTOM_ID: homework-25
-:END:
-Head over to WebAssign and begin attempting the questions there. It's due this weekend on Sunday at 11:59pm.
-
-**** Questions?
-:PROPERTIES:
-:CUSTOM_ID: questions-22
-:END:
-Ask it on Discourse, and let's get it answered!
+*TO BE POSTED*
 
 --------------
 
 *** 🎥 Wednesday recitation
 :PROPERTIES:
-:CUSTOM_ID: thursday-recitation-14
+:CUSTOM_ID: thursday-recitation
+:END:
+*TO BE POSTED*
+
+--------------
+
+*** 🎥 Friday recitation
+:PROPERTIES:
+:CUSTOM_ID: thursday-recitation
 :END:
 *TO BE POSTED*
 
@@ -2473,143 +2116,57 @@ Ask it on Discourse, and let's get it answered!
 :EXPORT_FILE_NAME: Week10
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :ShowBreadCrumbs true
 :END:
-
-Your todo list for the week
+Your class videos for the week
 {{{more}}}
-
-*** Before class on Monday
-:PROPERTIES:
-:CUSTOM_ID: before-class-on-tuesday-1
-:END:
-**** 📚 Read / Watch
-:PROPERTIES:
-:CUSTOM_ID: read-watch
-:END:
-- [[https://www.math.wichita.edu/discrete-book/section-solvingrecurrences.html][Solving Recurrence Relations]]
-
-**** 📝 Homework
-:PROPERTIES:
-:CUSTOM_ID: homework-1
-:END:
-Head over to WebAssign and begin attempting the questions there. It's due this weekend on Sunday at 11:59pm.
-
-**** Questions?
-:PROPERTIES:
-:CUSTOM_ID: questions
-:END:
-Ask it on Discourse, and let's get it answered!
-
---------------
-
 *** 🎥 Monday recitation
 :PROPERTIES:
-:CUSTOM_ID: tuesday-recitation-1
+:CUSTOM_ID: tuesday-recitation
 :END:
 *TO BE POSTED*
-
---------------
-
-*** Before Class on Wednesday
-:PROPERTIES:
-:CUSTOM_ID: before-class-on-thursday-1
-:END:
-**** 📚 Readings / Videos
-:PROPERTIES:
-:CUSTOM_ID: readings-videos-1
-:END:
-[[https://www.math.wichita.edu/discrete-book/section-solvingrecurrences.html][Solving
-recurrence relations, continued]]
-
-**** 📝 Homework
-:PROPERTIES:
-:CUSTOM_ID: homework-2
-:END:
-Head over to WebAssign and begin attempting the questions there. It's due this weekend on Sunday at 11:59pm.
-
-**** Questions?
-:PROPERTIES:
-:CUSTOM_ID: questions-1
-:END:
-Ask it on Discourse, and let's get it answered!
 
 --------------
 
 *** 🎥 Wednesday recitation
 :PROPERTIES:
-:CUSTOM_ID: thursday-recitation-1
+:CUSTOM_ID: thursday-recitation
 :END:
 *TO BE POSTED*
+
+--------------
+
+*** 🎥 Friday recitation
+:PROPERTIES:
+:CUSTOM_ID: thursday-recitation
+:END:
+*TO BE POSTED*
+
 
 ** Week 11
 :PROPERTIES:
 :EXPORT_FILE_NAME: Week11
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :ShowBreadCrumbs true
 :END:
-
-Your todo list for the week
+Your class videos for the week
 {{{more}}}
-
-
-*** Before class on Monday
-:PROPERTIES:
-:CUSTOM_ID: before-class-on-tuesday-2
-:END:
-**** 📚 Read / Watch
-:PROPERTIES:
-:CUSTOM_ID: read-watch-1
-:END:
-- [[https://www.math.wichita.edu/discrete-book/sec_logic_induction.html][Math
-  Induction through 4.3.7 (and exercises)]]
-
-**** 📝 Homework
-:PROPERTIES:
-:CUSTOM_ID: homework-3
-:END:
-Head over to WebAssign and begin attempting the questions there. It's due this weekend on Sunday at 11:59pm.
-
-**** Questions?
-:PROPERTIES:
-:CUSTOM_ID: questions-2
-:END:
-Ask it on Discourse, and let's get it answered!
-
---------------
-
 *** 🎥 Monday recitation
 :PROPERTIES:
-:CUSTOM_ID: tuesday-recitation-2
+:CUSTOM_ID: tuesday-recitation
 :END:
 *TO BE POSTED*
 
 --------------
 
-*** Before Class on Wednesday
+*** 🎥 Wednesday recitation
 :PROPERTIES:
-:CUSTOM_ID: before-class-on-thursday-2
+:CUSTOM_ID: thursday-recitation
 :END:
-**** 📚 Readings / Videos
-:PROPERTIES:
-:CUSTOM_ID: readings-videos-2
-:END:
-- [[https://www.math.wichita.edu/discrete-book/sec_logic_induction.html][Math Induction (the rest)]]
-
-**** 📝 Homework
-:PROPERTIES:
-:CUSTOM_ID: homework-4
-:END:
-Head over to WebAssign and begin attempting the questions there. It's due this weekend on Sunday at 11:59pm.
-
-**** Questions?
-:PROPERTIES:
-:CUSTOM_ID: questions-3
-:END:
-Ask it on Discourse, and let's get it answered!
+*TO BE POSTED*
 
 --------------
 
-*** 🎥 Wednesday recitation
+*** 🎥 Friday recitation
 :PROPERTIES:
-:CUSTOM_ID: thursday-recitation-2
+:CUSTOM_ID: thursday-recitation
 :END:
 *TO BE POSTED*
 
@@ -2618,71 +2175,27 @@ Ask it on Discourse, and let's get it answered!
 :EXPORT_FILE_NAME: Week12
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :ShowBreadCrumbs true
 :END:
-
-Your todo list for the week
+Your class videos for the week
 {{{more}}}
-
-
-*** Before class on Monday
-:PROPERTIES:
-:CUSTOM_ID: before-class-on-tuesday-3
-:END:
-**** 📚 Read / Watch
-:PROPERTIES:
-:CUSTOM_ID: read-watch-2
-:END:
-- [[https://www.math.wichita.edu/discrete-book/sec_logic_induction.html][Math
-  Induction additional discussion]]
-
-**** 📝 Homework
-:PROPERTIES:
-:CUSTOM_ID: homework-5
-:END:
-Head over to WebAssign and begin attempting the questions there. It's due this weekend on Sunday at 11:59pm.
-
-**** Questions?
-:PROPERTIES:
-:CUSTOM_ID: questions-4
-:END:
-Ask it on Discourse, and let's get it answered!
-
---------------
-
 *** 🎥 Monday recitation
 :PROPERTIES:
-:CUSTOM_ID: tuesday-recitation-3
+:CUSTOM_ID: tuesday-recitation
 :END:
 *TO BE POSTED*
 
 --------------
 
-*** Before Class on Wednesday
+*** 🎥 Wednesday recitation
 :PROPERTIES:
-:CUSTOM_ID: before-class-on-thursday-3
+:CUSTOM_ID: thursday-recitation
 :END:
-**** 📚 Readings / Videos
-:PROPERTIES:
-:CUSTOM_ID: readings-videos-3
-:END:
-[[https://www.math.wichita.edu/discrete-book/section-counting-basics.html][Multiplicative and Addititive Principles]]
-
-**** 📝 Homework
-:PROPERTIES:
-:CUSTOM_ID: homework-6
-:END:
-Head over to WebAssign and begin attempting the questions there. It's due this weekend on Sunday at 11:59pm.
-
-**** Questions?
-:PROPERTIES:
-:CUSTOM_ID: questions-5
-:END:
-Ask it on Discourse, and let's get it answered!
+*TO BE POSTED*
 
 --------------
 
-*** 🎥 Wednesday recitation
+*** 🎥 Friday recitation
 :PROPERTIES:
-:CUSTOM_ID: thursday-recitation-3
+:CUSTOM_ID: thursday-recitation
 :END:
 *TO BE POSTED*
 
@@ -2691,60 +2204,30 @@ Ask it on Discourse, and let's get it answered!
 :EXPORT_FILE_NAME: Week13
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :ShowBreadCrumbs true
 :END:
-
-Your todo list for the week
+Your class videos for the week
 {{{more}}}
-
-*** Before class on Monday
-:PROPERTIES:
-:CUSTOM_ID: before-class-on-tuesday-4
-:END:
-**** 📚 Read / Watch
-:PROPERTIES:
-:CUSTOM_ID: read-watch-3
-:END:
-- [[https://www.math.wichita.edu/discrete-book/section-counting-combperm.html][Permutations
-  and Combinations]]
-
-**** 📝 Homework
-:PROPERTIES:
-:CUSTOM_ID: homework-7
-:END:
-Head over to WebAssign and begin attempting the questions there. It's due this weekend on Sunday at 11:59pm.
-
---------------
-
 *** 🎥 Monday recitation
 :PROPERTIES:
-:CUSTOM_ID: tuesday-recitation-4
+:CUSTOM_ID: tuesday-recitation
 :END:
 *TO BE POSTED*
-
---------------
-
-*** Before Class on Wednesday
-:PROPERTIES:
-:CUSTOM_ID: before-class-on-thursday-4
-:END:
-**** 📚 Readings / Videos
-:PROPERTIES:
-:CUSTOM_ID: readings-videos-4
-:END:
-[[https://www.math.wichita.edu/discrete-book/section-counting-binomial.html][Binomial Coefficients and combinatorial proof]]
-
-**** 📝 Homework
-:PROPERTIES:
-:CUSTOM_ID: homework-8
-:END:
-Head over to WebAssign and begin attempting the questions there. It's due this weekend on Sunday at 11:59pm.
 
 --------------
 
 *** 🎥 Wednesday recitation
 :PROPERTIES:
-:CUSTOM_ID: thursday-recitation-4
+:CUSTOM_ID: thursday-recitation
 :END:
 *TO BE POSTED*
+
+--------------
+
+*** 🎥 Friday recitation
+:PROPERTIES:
+:CUSTOM_ID: thursday-recitation
+:END:
+*TO BE POSTED*
+
 
 ** Week 14
 :PROPERTIES:
@@ -2752,28 +2235,18 @@ Head over to WebAssign and begin attempting the questions there. It's due this w
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :ShowBreadCrumbs true
 :END:
 
-Your todo list for the week
+Your class videos for the week
 {{{more}}}
-
-
-*** Before class on Monday
-:PROPERTIES:
-:CUSTOM_ID: before-class-on-tuesday-5
-:END:
-No new topics; continue discussing combinatorial proof and discussing
-questions.
-
---------------
-
 *** 🎥 Monday recitation
 :PROPERTIES:
-:CUSTOM_ID: tuesday-recitation-5
+:CUSTOM_ID: tuesday-recitation
 :END:
 *TO BE POSTED*
 
 --------------
 
-*** No class Wednesday (Thanksgiving)
+
+*** No class Wednesday and Friday (Thanksgiving)
 :PROPERTIES:
 :CUSTOM_ID: no-class-thursday-thanksgiving
 :END:
@@ -2784,73 +2257,30 @@ Happy Thanksgiving! 🦃
 :EXPORT_FILE_NAME: Week15
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :ShowBreadCrumbs true
 :END:
-
-Your todo list for the week
+Your class videos for the week
 {{{more}}}
-
-
-*** Before class on Monday
-:PROPERTIES:
-:CUSTOM_ID: before-class-on-tuesday-6
-:END:
-**** 📚 Read / Watch
-:PROPERTIES:
-:CUSTOM_ID: read-watch-4
-:END:
-- [[https://www.math.wichita.edu/discrete-book/section-counting-binomial.html][Combinatorial
-  proof]]
-
-**** 📝 Homework
-:PROPERTIES:
-:CUSTOM_ID: homework-9
-:END:
-Head over to WebAssign and begin attempting the questions there. It's due this weekend on Sunday at 11:59pm.
-
-**** Questions?
-:PROPERTIES:
-:CUSTOM_ID: questions-6
-:END:
-Ask it on Discourse, and let's get it answered!
-
---------------
-
 *** 🎥 Monday recitation
 :PROPERTIES:
-:CUSTOM_ID: tuesday-recitation-6
+:CUSTOM_ID: tuesday-recitation
 :END:
 *TO BE POSTED*
-
---------------
-
-*** Before Class on Wednesday
-:PROPERTIES:
-:CUSTOM_ID: before-class-on-thursday-5
-:END:
-**** 📚 Readings / Videos
-:PROPERTIES:
-:CUSTOM_ID: readings-videos-5
-:END:
-[[https://www.math.wichita.edu/discrete-book/section-counting-fib.html][Counting Fibonacci Numbers with combinatorial proof]]
-
-**** 📝 Homework
-:PROPERTIES:
-:CUSTOM_ID: homework-10
-:END:
-Head over to WebAssign and begin attempting the questions there. It's due this weekend on Sunday at 11:59pm.
-
-**** Questions?
-:PROPERTIES:
-:CUSTOM_ID: questions-7
-:END:
-Ask it on Discourse, and let's get it answered!
 
 --------------
 
 *** 🎥 Wednesday recitation
 :PROPERTIES:
-:CUSTOM_ID: thursday-recitation-5
+:CUSTOM_ID: thursday-recitation
 :END:
 *TO BE POSTED*
+
+--------------
+
+*** 🎥 Friday recitation
+:PROPERTIES:
+:CUSTOM_ID: thursday-recitation
+:END:
+*TO BE POSTED*
+
 
 
 ** Week 16
@@ -2858,43 +2288,30 @@ Ask it on Discourse, and let's get it answered!
 :EXPORT_FILE_NAME: Week16
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :ShowBreadCrumbs true
 :END:
-
-Your todo list for the week
+Your class videos for the week
 {{{more}}}
-
-
-*** Before class on Monday
-:PROPERTIES:
-:CUSTOM_ID: before-class-on-tuesday-7
-:END:
-No new topics this week; come prepared to ask questions in a
-whole-semester review! The checkpoint this week and during finals week
-are both fully comprehensive - every learning target is available.
-
---------------
-
 *** 🎥 Monday recitation
 :PROPERTIES:
-:CUSTOM_ID: tuesday-recitation-7
+:CUSTOM_ID: tuesday-recitation
 :END:
 *TO BE POSTED*
-
---------------
-
-*** Before Class on Wednesday
-:PROPERTIES:
-:CUSTOM_ID: before-class-on-thursday-6
-:END:
-No new topics this week; come prepared to ask questions in a
-whole-semester review!
 
 --------------
 
 *** 🎥 Wednesday recitation
 :PROPERTIES:
-:CUSTOM_ID: thursday-recitation-6
+:CUSTOM_ID: thursday-recitation
 :END:
 *TO BE POSTED*
+
+--------------
+
+*** 🎥 Friday recitation
+:PROPERTIES:
+:CUSTOM_ID: thursday-recitation
+:END:
+*TO BE POSTED*
+
 
 * Blog Posts
 :PROPERTIES:

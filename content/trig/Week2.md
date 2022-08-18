@@ -5,7 +5,7 @@ draft = false
 ShowBreadCrumbs = true
 +++
 
-Your todo list for the week
+Your class videos for the week
 <!--more-->
 
 
@@ -20,55 +20,18 @@ learning target columns on Blackboard's gradebook.
 ---
 
 
-## Before class on Monday {#before-class-on-tuesday-8}
-
-
-### 📚 Read / Watch {#read-watch-5}
-
--   [Relations
-    and functions](https://www.math.wichita.edu/~hammond/class-notes/sec_relationsfunctions.html)
-
-
-### 📝 Homework {#homework-11}
-
-Head over to WebAssign and begin attempting the questions there. It's due this weekend on Sunday at 11:59pm.
-
-
-### Questions? {#questions-8}
-
-Ask it on Discourse, and let's get it answered!
-
----
-
-
-## 🎥 Monday recitation {#tuesday-recitation-8}
+## 🎥 Monday recitation {#tuesday-recitation}
 
 **TO BE POSTED**
 
 ---
 
 
-## Before Class on Wednesday {#before-class-on-thursday-7}
+## 🎥 Wednesday recitation {#thursday-recitation}
+
+**TO BE POSTED**
 
 
-### 📚 Readings / Videos {#readings-videos-6}
-
--   [Logical
-    Equivalences](https://www.math.wichita.edu/~hammond/class-notes/section-logic-equivalences.html)
-
-
-### 📝 Homework {#homework-12}
-
-Head over to WebAssign and begin attempting the questions there. It's due this weekend on Sunday at 11:59pm.
-
-
-### Questions? {#questions-9}
-
-Ask it on Discourse, and let's get it answered!
-
----
-
-
-## 🎥 Wednesday recitation {#thursday-recitation-7}
+## 🎥 Friday recitation {#thursday-recitation}
 
 **TO BE POSTED**

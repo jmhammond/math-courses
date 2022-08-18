@@ -5,25 +5,17 @@ draft = false
 ShowBreadCrumbs = true
 +++
 
-Your todo list for the week
+Your class videos for the week
 <!--more-->
 
 
-## Before class on Monday {#before-class-on-tuesday-5}
-
-No new topics; continue discussing combinatorial proof and discussing
-questions.
-
----
-
-
-## 🎥 Monday recitation {#tuesday-recitation-5}
+## 🎥 Monday recitation {#tuesday-recitation}
 
 **TO BE POSTED**
 
 ---
 
 
-## No class Wednesday (Thanksgiving) {#no-class-thursday-thanksgiving}
+## No class Wednesday and Friday (Thanksgiving) {#no-class-thursday-thanksgiving}
 
 Happy Thanksgiving! 🦃

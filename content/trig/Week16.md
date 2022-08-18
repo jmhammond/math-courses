@@ -5,34 +5,24 @@ draft = false
 ShowBreadCrumbs = true
 +++
 
-Your todo list for the week
+Your class videos for the week
 <!--more-->
 
 
-## Before class on Monday {#before-class-on-tuesday-7}
-
-No new topics this week; come prepared to ask questions in a
-whole-semester review! The checkpoint this week and during finals week
-are both fully comprehensive - every learning target is available.
-
----
-
-
-## 🎥 Monday recitation {#tuesday-recitation-7}
+## 🎥 Monday recitation {#tuesday-recitation}
 
 **TO BE POSTED**
 
 ---
 
 
-## Before Class on Wednesday {#before-class-on-thursday-6}
+## 🎥 Wednesday recitation {#thursday-recitation}
 
-No new topics this week; come prepared to ask questions in a
-whole-semester review!
+**TO BE POSTED**
 
 ---
 
 
-## 🎥 Wednesday recitation {#thursday-recitation-6}
+## 🎥 Friday recitation {#thursday-recitation}
 
 **TO BE POSTED**

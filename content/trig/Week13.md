@@ -5,48 +5,24 @@ draft = false
 ShowBreadCrumbs = true
 +++
 
-Your todo list for the week
+Your class videos for the week
 <!--more-->
 
 
-## Before class on Monday {#before-class-on-tuesday-4}
-
-
-### 📚 Read / Watch {#read-watch-3}
-
--   [Permutations
-    and Combinations](https://www.math.wichita.edu/discrete-book/section-counting-combperm.html)
-
-
-### 📝 Homework {#homework-7}
-
-Head over to WebAssign and begin attempting the questions there. It's due this weekend on Sunday at 11:59pm.
-
----
-
-
-## 🎥 Monday recitation {#tuesday-recitation-4}
+## 🎥 Monday recitation {#tuesday-recitation}
 
 **TO BE POSTED**
 
 ---
 
 
-## Before Class on Wednesday {#before-class-on-thursday-4}
+## 🎥 Wednesday recitation {#thursday-recitation}
 
-
-### 📚 Readings / Videos {#readings-videos-4}
-
-[Binomial Coefficients and combinatorial proof](https://www.math.wichita.edu/discrete-book/section-counting-binomial.html)
-
-
-### 📝 Homework {#homework-8}
-
-Head over to WebAssign and begin attempting the questions there. It's due this weekend on Sunday at 11:59pm.
+**TO BE POSTED**
 
 ---
 
 
-## 🎥 Wednesday recitation {#thursday-recitation-4}
+## 🎥 Friday recitation {#thursday-recitation}
 
 **TO BE POSTED**
