@@ -19,7 +19,7 @@ is this class and how does it work?"
 
 ## 🎥 Monday class {#tuesday-recitation}
 
-**TO BE POSTED**
+{{< youtube id="KUzkktEpGXk" >}}
 
 ---
 

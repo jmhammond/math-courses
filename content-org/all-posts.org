@@ -1842,7 +1842,7 @@ is this class and how does it work?"
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation
 :END:
-*TO BE POSTED*
+{{{youtube(KUzkktEpGXk)}}}
 
 --------------
 
