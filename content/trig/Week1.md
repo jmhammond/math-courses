@@ -31,6 +31,13 @@ Head over to WebAssign and begin attempting the questions there. It's due this w
 ---
 
 
+## Sample Checkpoint {#sample-checkpoint}
+
+Ready to see what the weekly checkpoint will look like? [You can find the sample checkpoint here.](https://cloud.math.wichita.edu/s/Z45oyKg3rKbaL4Q)
+
+Solutions will be posted shortly.
+
+
 ## 🎥 Wednesday class {#thursday-recitation}
 
 **TO BE POSTED**
