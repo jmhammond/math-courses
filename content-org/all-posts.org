@@ -1857,7 +1857,7 @@ Head over to WebAssign and begin attempting the questions there. It's due this w
 *** Sample Checkpoint
 Ready to see what the weekly checkpoint will look like? [[https://cloud.math.wichita.edu/s/Z45oyKg3rKbaL4Q][You can find the sample checkpoint here.]]
 
-Solutions will be posted shortly.
+[[https://cloud.math.wichita.edu/s/Fe4CKmYzrzzD3YJ][Solutions are available here]]
 
 *** 🎥 Wednesday class
 :PROPERTIES:
