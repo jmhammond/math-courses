@@ -19,9 +19,16 @@ is this class and how does it work?"
 
 ## 🎥 Tuesday recitation {#tuesday-recitation}
 
-**TO BE POSTED**
+So... the projector wasn't working for the first fifteen-twenty minutes of the class, but it got fixed. I trimmed out the uncomfortable "this isn't working" part of the class.
+
+{{< youtube id="XXDdNG0lnLk" >}}
 
 ---
+
+
+## Sample checkpoint is available. {#sample-checkpoint-is-available-dot}
+
+[You can find information about the sample checkpoint along with solutions here.](https://discourse.math.wichita.edu/t/sample-checkpoint-1-and-solutions/1108)
 
 
 ## Before Class on Thursday {#before-class-on-thursday}
