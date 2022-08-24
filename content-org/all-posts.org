@@ -1869,7 +1869,7 @@ Ready to see what the weekly checkpoint will look like? [[https://cloud.math.wic
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation
 :END:
-*TO BE POSTED*
+{{{youtube(rVVNyivylX0)}}}
 
 --------------
 

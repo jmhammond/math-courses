@@ -40,7 +40,7 @@ Ready to see what the weekly checkpoint will look like? [You can find the sample
 
 ## 🎥 Wednesday class {#thursday-recitation}
 
-**TO BE POSTED**
+{{< youtube id="rVVNyivylX0" >}}
 
 ---
 
