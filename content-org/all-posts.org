@@ -155,7 +155,7 @@ available* !
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation
 :END:
-*TO BE POSTED*
+{{{youtube(jtwVx9UCR4o)}}}
 
 
 ** Week 2

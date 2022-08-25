@@ -67,4 +67,4 @@ available** !
 
 ## 🎥 Thursday recitation {#thursday-recitation}
 
-**TO BE POSTED**
+{{< youtube id="jtwVx9UCR4o" >}}
