@@ -1909,7 +1909,7 @@ learning target columns on Blackboard's gradebook.
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation
 :END:
-*TO BE POSTED*
+{{{youtube{v1RZMCtQtbg}}}}
 
 --------------
 
