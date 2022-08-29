@@ -29,7 +29,7 @@ learning target columns on Blackboard's gradebook.
 
 ## 🎥 Monday class {#tuesday-recitation}
 
-{{{youtube{v1RZMCtQtbg}}}}
+{{< youtube id="v1RZMCtQtbg" >}}
 
 ---
 
