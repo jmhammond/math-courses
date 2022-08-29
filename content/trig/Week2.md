@@ -9,6 +9,13 @@ Your class videos for the week
 <!--more-->
 
 
+## Checkpoint 1 solutions {#checkpoint-1-solutions}
+
+[You can find the original checkpoint file here.](https://cloud.math.wichita.edu/s/nZyE4eiYPXtQ3Wj)
+
+[The solutions are found here.](https://cloud.math.wichita.edu/s/MEfJDiCn8DPa5My)
+
+
 ## Be on the lookout for checkpoints feedback! {#be-on-the-lookout-for-checkpoints-feedback}
 
 They're being marked and feedback is being given. I've slow to grade (as

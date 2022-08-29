@@ -9,6 +9,11 @@ Your todo list for the week
 <!--more-->
 
 
+## Solutions to checkpoint 1 {#solutions-to-checkpoint-1}
+
+You can [find the original checkpoint file and solutions on Discourse here](https://discourse.math.wichita.edu/t/checkpoint-1-solutions/1338).  If you have any questions about it, you can post them there and we'll discuss it!
+
+
 ## Be on the lookout for checkpoints feedback! {#be-on-the-lookout-for-checkpoints-feedback}
 
 They're being marked and feedback is being given. I've slow to grade (as

@@ -167,6 +167,9 @@ available* !
 Your todo list for the week
 {{{more}}}
 
+*** Solutions to checkpoint 1
+You can [[https://discourse.math.wichita.edu/t/checkpoint-1-solutions/1338][find the original checkpoint file and solutions on Discourse here]].  If you have any questions about it, you can post them there and we'll discuss it!
+
 *** Be on the lookout for checkpoints feedback!
 :PROPERTIES:
 :CUSTOM_ID: be-on-the-lookout-for-checkpoints-feedback
@@ -1886,7 +1889,10 @@ Ready to see what the weekly checkpoint will look like? [[https://cloud.math.wic
 :END:
 Your class videos for the week
 {{{more}}}
+*** Checkpoint 1 solutions
+[[https://cloud.math.wichita.edu/s/nZyE4eiYPXtQ3Wj][You can find the original checkpoint file here.]]
 
+[[https://cloud.math.wichita.edu/s/MEfJDiCn8DPa5My][The solutions are found here.]]
 *** Be on the lookout for checkpoints feedback!
 :PROPERTIES:
 :CUSTOM_ID: be-on-the-lookout-for-checkpoints-feedback
