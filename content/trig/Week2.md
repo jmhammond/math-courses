@@ -36,7 +36,7 @@ learning target columns on Blackboard's gradebook.
 
 ## 🎥 Wednesday class {#thursday-recitation}
 
-**TO BE POSTED**
+{{< youtube id="fy1zG838ocE" >}}
 
 
 ## 🎥 Friday recitation {#thursday-recitation}

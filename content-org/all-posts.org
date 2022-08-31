@@ -1917,7 +1917,7 @@ learning target columns on Blackboard's gradebook.
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation
 :END:
-*TO BE POSTED*
+{{{youtube(fy1zG838ocE)}}}
 
 *** 🎥 Friday recitation
 :PROPERTIES:
