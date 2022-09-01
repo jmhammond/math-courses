@@ -259,7 +259,7 @@ Ask it on Discourse, and let's get it answered!
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation-7
 :END:
-*TO BE POSTED*
+{{{youtube(kZQ8TMlJbRg)}}}
 
 ** Week 3
 :PROPERTIES:
