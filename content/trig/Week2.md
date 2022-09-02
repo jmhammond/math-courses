@@ -41,4 +41,4 @@ learning target columns on Blackboard's gradebook.
 
 ## 🎥 Friday recitation {#thursday-recitation}
 
-**TO BE POSTED**
+{{< youtube id="mSlloIlbxBM" >}}

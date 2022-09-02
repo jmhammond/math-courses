@@ -1923,7 +1923,7 @@ learning target columns on Blackboard's gradebook.
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation
 :END:
-*TO BE POSTED*
+{{{youtube(mSlloIlbxBM)}}}
 ** Week 3
 :PROPERTIES:
 :EXPORT_FILE_NAME: Week3
