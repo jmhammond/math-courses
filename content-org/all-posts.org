@@ -1932,11 +1932,11 @@ learning target columns on Blackboard's gradebook.
 
 Your class videos for the week
 {{{more}}}
-*** 🎥 Monday class
+*** 🎥 No Monday class (Labor Day)
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation
 :END:
-*TO BE POSTED*
+No school this day.
 
 --------------
 

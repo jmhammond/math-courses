@@ -9,9 +9,9 @@ Your class videos for the week
 <!--more-->
 
 
-## 🎥 Monday class {#tuesday-recitation}
+## 🎥 No Monday class (Labor Day) {#tuesday-recitation}
 
-**TO BE POSTED**
+No school this day.
 
 ---
 
