@@ -270,6 +270,10 @@ Ask it on Discourse, and let's get it answered!
 Your todo list for the week
 {{{more}}}
 
+*** Checkpoint 2 Solutions
+[[https://cloud.math.wichita.edu/s/StA9wGorgFpCfAq][here are solutions to the checkpoint]]
+
+and [[https://cloud.math.wichita.edu/s/3WJ9dGYSynFkbz2][here is the original file]].
 *** Before class on Tuesday
 :PROPERTIES:
 :CUSTOM_ID: before-class-on-tuesday-9
@@ -1930,13 +1934,20 @@ learning target columns on Blackboard's gradebook.
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :ShowBreadCrumbs true
 :END:
 
-Your class videos for the week
+Your class videos and content for the week
 {{{more}}}
+
+*** Checkpoint 2 Solutions
+[[https://cloud.math.wichita.edu/s/jNHeE56Lr9z7AEK][here are solutions to the checkpoint]]
+
+and [[https://cloud.math.wichita.edu/s/D5nHyaGYM9dx7BB][here is the original file]].
+
 *** 🎥 No Monday class (Labor Day)
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation
 :END:
 No school this day.
+
 
 --------------
 
