@@ -1955,8 +1955,7 @@ No school this day.
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation
 :END:
-*TO BE POSTED*
-
+{{{youtube(K4oXKhS6ly4)}}}
 --------------
 *** 🎥 Friday recitation
 :PROPERTIES:

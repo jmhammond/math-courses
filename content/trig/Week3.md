@@ -25,7 +25,7 @@ No school this day.
 
 ## 🎥 Wednesday class {#thursday-recitation}
 
-**TO BE POSTED**
+{{< youtube id="K4oXKhS6ly4" >}}
 
 ---
 
