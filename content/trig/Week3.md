@@ -32,4 +32,17 @@ No school this day.
 
 ## 🎥 Friday recitation {#thursday-recitation}
 
-**TO BE POSTED**
+
+### Before watching the video: {#before-watching-the-video}
+
+[Take a look at this pdf file](https://cloud.math.wichita.edu/s/QErFcpGjxTqyLiB) with some exercises. We'll be working these out in the video.
+
+
+### Watch the video for solutions and discussion {#watch-the-video-for-solutions-and-discussion}
+
+{{< youtube id="2O4LqdsmUZI" >}}
+
+
+### Questions? Please email me! {#questions-please-email-me}
+
+john.hammond @ wichita.edu.
