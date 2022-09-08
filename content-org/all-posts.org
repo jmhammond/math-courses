@@ -267,7 +267,7 @@ Ask it on Discourse, and let's get it answered!
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :ShowBreadCrumbs true
 :END:
 
-Your todo list for the week
+    Your todo list for the week
 {{{more}}}
 
 *** Checkpoint 2 Solutions
@@ -351,6 +351,7 @@ Ask it on Discourse, and let's get it answered!
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation-8
 :END:
+{{{youtube(orsnj5MNvL0)}}}
 *TO BE POSTED*
 
 ** Week 4
