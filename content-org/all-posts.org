@@ -352,7 +352,6 @@ Ask it on Discourse, and let's get it answered!
 :CUSTOM_ID: thursday-recitation-8
 :END:
 {{{youtube(orsnj5MNvL0)}}}
-*TO BE POSTED*
 
 ** Week 4
 :PROPERTIES:
