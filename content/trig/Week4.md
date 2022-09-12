@@ -11,7 +11,7 @@ Your class videos for the week
 
 ## 🎥 Monday class {#tuesday-recitation}
 
-**TO BE POSTED**
+{{< youtube id="FmUNyaXRqYE" >}}
 
 ---
 
