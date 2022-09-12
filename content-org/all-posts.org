@@ -362,6 +362,8 @@ Ask it on Discourse, and let's get it answered!
 Your todo list for the week
 {{{more}}}
 
+*** Checkpoint 3 Solutions
+[[https://discourse.math.wichita.edu/t/checkpoint-3-solutions/1344][Here's a link to the solutions on Discourse (you need to login to see them)]]
 
 *** Before class on Tuesday
 :PROPERTIES:
@@ -1975,6 +1977,10 @@ john.hammond @ wichita.edu.
 
 Your class videos for the week
 {{{more}}}
+*** Checkpoint 3 Solutions
+[[https://nextcloud.math.wichita.edu/index.php/s/pDpsTXjMN3GXCrx][here are solutions to the checkpoint]]
+
+and [[https://nextcloud.math.wichita.edu/index.php/s/yWAB6dEq4GHemyP][here is the original file]].
 *** 🎥 Monday class
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation

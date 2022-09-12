@@ -9,6 +9,11 @@ Your todo list for the week
 <!--more-->
 
 
+## Checkpoint 3 Solutions {#checkpoint-3-solutions}
+
+[Here's a link to the solutions on Discourse (you need to login to see them)](https://discourse.math.wichita.edu/t/checkpoint-3-solutions/1344)
+
+
 ## Before class on Tuesday {#before-class-on-tuesday-10}
 
 
