@@ -25,7 +25,7 @@ and [here is the original file](https://nextcloud.math.wichita.edu/index.php/s/y
 
 ## 🎥 Wednesday class {#thursday-recitation}
 
-**TO BE POSTED**
+{{< youtube id="opbVPA64MeE" >}}
 
 ---
 

@@ -1993,7 +1993,7 @@ and [[https://nextcloud.math.wichita.edu/index.php/s/yWAB6dEq4GHemyP][here is th
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation
 :END:
-*TO BE POSTED*
+{{{youtube(opbVPA64MeE)}}}
 
 --------------
 
