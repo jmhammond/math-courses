@@ -32,4 +32,4 @@ and [here is the original file](https://nextcloud.math.wichita.edu/index.php/s/y
 
 ## 🎥 Friday recitation {#thursday-recitation}
 
-**TO BE POSTED**
+{{< youtube id="nO5GoP02SzE" >}}

@@ -2001,7 +2001,7 @@ and [[https://nextcloud.math.wichita.edu/index.php/s/yWAB6dEq4GHemyP][here is th
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation
 :END:
-*TO BE POSTED*
+{{{youtube(nO5GoP02SzE)}}}
 ** Week 5
 :PROPERTIES:
 :EXPORT_FILE_NAME: Week5
