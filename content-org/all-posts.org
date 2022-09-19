@@ -2025,7 +2025,7 @@ Your class videos for the week
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation
 :END:
-*TO BE POSTED*
+{{{youtube(pNBUsObLFl0)}}}
 
 --------------
 
