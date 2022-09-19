@@ -452,6 +452,10 @@ Ask it on Discourse, and let's get it answered!
 Your todo list for the week
 {{{more}}}
 
+*** Solutions to checkpoint 4
+[[https://nextcloud.math.wichita.edu/index.php/s/eSDZN4fMdM7H7JA][Here's the original file]]
+
+[[https://nextcloud.math.wichita.edu/index.php/s/QkKD3kNiW95MzzX][and here are the solutions.]]
 *** Before class on Tuesday
 :PROPERTIES:
 :CUSTOM_ID: before-class-on-tuesday-11
@@ -2011,6 +2015,12 @@ and [[https://nextcloud.math.wichita.edu/index.php/s/yWAB6dEq4GHemyP][here is th
 
 Your class videos for the week
 {{{more}}}
+
+
+*** Solutions to Checkpoint 4
+[[https://nextcloud.math.wichita.edu/index.php/s/sQcHCGP5oSi8jnc][Here's the original checkpoint file]]
+
+[[https://nextcloud.math.wichita.edu/index.php/s/m4z4rc7WQS5L3JC][and here's the solutions.]]
 *** 🎥 Monday class
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation
