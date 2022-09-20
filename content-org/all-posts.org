@@ -492,7 +492,7 @@ Ask it on Discourse, and let's get it answered!
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation-11
 :END:
-*TO BE POSTED*
+{{{youtube(INerZrgt1AA)}}}
 
 --------------
 
