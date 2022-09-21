@@ -2034,7 +2034,6 @@ Your class videos for the week
 :CUSTOM_ID: thursday-recitation
 :END:
 {{{youtube(HkYgSoNHqVE)}}}
-*TO BE POSTED*
 
 *** 🎥 Friday recitation
 :PROPERTIES:
