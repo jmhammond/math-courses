@@ -2039,7 +2039,7 @@ Your class videos for the week
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation
 :END:
-*TO BE POSTED*
+{{{youtube(7ZxIm1UMovQ)}}}
 ** Week 6
 :PROPERTIES:
 :EXPORT_FILE_NAME: Week6
