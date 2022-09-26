@@ -543,6 +543,10 @@ Ask it on Discourse, and let's get it answered!
 Your todo list for the week
 {{{more}}}
 
+*** Solutions to checkpoint 5
+[[https://nextcloud.math.wichita.edu/index.php/s/JnEGAx6cZodtssq][Here's the solutions.]]
+
+[[https://nextcloud.math.wichita.edu/index.php/s/wFqaBKkDbW4YWbB][Here's the original file]]
 
 *** Before class on Tuesday
 :PROPERTIES:
@@ -2049,6 +2053,12 @@ Your class videos for the week
 
 Your class videos for the week
 {{{more}}}
+
+*** Solutions to checkpoint 5
+[[https://nextcloud.math.wichita.edu/index.php/s/NGnFoFokjDkEDrA][Solutions to the checkpoint]]
+
+[[https://nextcloud.math.wichita.edu/index.php/s/pex6i7kNCz8M8aq][Original checkpoint file.]]
+
 *** 🎥 Monday class
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation
