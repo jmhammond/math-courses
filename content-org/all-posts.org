@@ -2071,7 +2071,7 @@ Your class videos for the week
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation
 :END:
-*TO BE POSTED*
+{{{youtube(Jq0peuQXPIU)}}}
 
 --------------
 
@@ -2369,6 +2369,10 @@ Your class videos for the week
 :CUSTOM_ID: thursday-recitation
 :END:
 *TO BE POSTED*
+
+
+
+
 
 
 * Blog Posts
