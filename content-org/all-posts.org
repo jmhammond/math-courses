@@ -2086,14 +2086,21 @@ Your class videos for the week
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :ShowBreadCrumbs true
 :END:
 
+
 Your class videos for the week
 {{{more}}}
+
+*** Solutions to Checkpoint 6
+
+[[https://nextcloud.math.wichita.edu/index.php/s/ndYLXxppTGHYn5A][The original checkpoint file]]
+
+[[https://nextcloud.math.wichita.edu/index.php/s/NT4jBQ7985QRAmW][and the solutions.]]
+
 *** 🎥 Monday class
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation
 :END:
 {{{youtube(OlVWyb-BYKw)}}}
-
 --------------
 
 *** 🎥 Wednesday class
