@@ -2112,6 +2112,7 @@ Your class videos for the week
 :CUSTOM_ID: thursday-recitation
 :END:
 *TO BE POSTED*
+{{{youtube(YMSB17bZBoU)}}}
 
 --------------
 
