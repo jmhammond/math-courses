@@ -13,7 +13,7 @@ Your todo list for the week
 
 [Here's the original file](https://nextcloud.math.wichita.edu/index.php/s/zFqC3Dxj3bPNnBr)
 
-[and here are the solutions](https://nextcloud.math.wichita.edu/index.php/s/dAEFtr6GKkgPC8P).
+[ here are the solutions](https://nextcloud.math.wichita.edu/index.php/s/dAEFtr6GKkgPC8P).
 
 
 ## Before class on Tuesday {#before-class-on-tuesday-14}
@@ -46,7 +46,7 @@ Ask it on Discourse, and let's get it answered!
 
 ## 🎥 Tuesday recitation {#tuesday-recitation-14}
 
-**TO BE POSTED**
+{{< youtube id="WQ_CrHKWzxA" >}}
 
 ---
 
