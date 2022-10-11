@@ -56,8 +56,7 @@ Ask it on Discourse, and let's get it answered!
 
 ### 📚 Readings / Videos {#readings-videos-12}
 
-[Application:
-Encryption](https://www.math.wichita.edu/~hammond/class-notes/section-numtheory-encryption.html) \* Additional topics in ciphers TBD
+[Sections and series](https://www.math.wichita.edu/discrete-book/section-objects-seqseries.html)
 
 
 ### 📝 Homework {#homework-24}

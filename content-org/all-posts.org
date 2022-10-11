@@ -782,8 +782,7 @@ Ask it on Discourse, and let's get it answered!
 :PROPERTIES:
 :CUSTOM_ID: readings-videos-12
 :END:
-[[https://www.math.wichita.edu/~hammond/class-notes/section-numtheory-encryption.html][Application:
-Encryption]] * Additional topics in ciphers TBD
+[[https://www.math.wichita.edu/discrete-book/section-objects-seqseries.html][Sections and series]]
 
 **** 📝 Homework
 :PROPERTIES:
