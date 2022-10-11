@@ -730,6 +730,10 @@ Ask it on Discourse, and let's get it answered!
 Your todo list for the week
 {{{more}}}
 
+*** Solutions to checkpoint 7
+[[https://nextcloud.math.wichita.edu/index.php/s/zFqC3Dxj3bPNnBr][Here's the original file]]
+
+[[https://nextcloud.math.wichita.edu/index.php/s/dAEFtr6GKkgPC8P][ here are the solutions]].
 *** Before class on Tuesday
 :PROPERTIES:
 :CUSTOM_ID: before-class-on-tuesday-14
@@ -2128,6 +2132,10 @@ Your class videos for the week
 :END:
 Your class videos for the week
 {{{more}}}
+*** Solutions to checkpoint 7
+[[https://nextcloud.math.wichita.edu/index.php/s/Y6sisdwpEprSdyq][Here's the original file]]
+
+[[https://nextcloud.math.wichita.edu/index.php/s/nnYM6jK68KJiggC][here are the solutions.]]
 *** 🎥 Monday class
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation
