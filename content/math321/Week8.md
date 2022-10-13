@@ -80,4 +80,4 @@ Ask it on Discourse, and let's get it answered!
 
 ## 🎥 Thursday recitation {#thursday-recitation-13}
 
-**TO BE POSTED**
+{{< youtube id="_628TA7zxyA" >}}
