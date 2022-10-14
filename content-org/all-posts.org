@@ -976,6 +976,7 @@ Your todo list for the week
 **** 📝 Homework
 :PROPERTIES:
 :CUSTOM_ID: homework-3
+:ID:       f38070ce-0020-4bfb-a9fc-c3fe820bb1fc
 :END:
 - Required: Do all the exercises at the bottom of each section, check
   your answers and check your understanding - please as questions if
@@ -2155,6 +2156,7 @@ Your class videos for the week
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation
 :END:
+{{{youtube(ILQ8GHwh4Bo)}}}
 *TO BE POSTED*
 
 
