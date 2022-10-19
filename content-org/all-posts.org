@@ -2157,7 +2157,6 @@ Your class videos for the week
 :CUSTOM_ID: thursday-recitation
 :END:
 {{{youtube(ILQ8GHwh4Bo)}}}
-*TO BE POSTED*
 
 
 ** Week 9
@@ -2171,15 +2170,14 @@ Your class videos for the week
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation
 :END:
-*TO BE POSTED*
-
+NO VIDEO --  FALL BREAK
 --------------
 
 *** 🎥 Wednesday class
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation
 :END:
-*TO BE POSTED*
+{{{youtube(JrUsXc9FGPM)}}}
 
 --------------
 

@@ -11,14 +11,14 @@ Your class videos for the week
 
 ## 🎥 Monday class {#tuesday-recitation}
 
-**TO BE POSTED**
+NO VIDEO --  FALL BREAK
 
 ---
 
 
 ## 🎥 Wednesday class {#thursday-recitation}
 
-**TO BE POSTED**
+{{< youtube id="JrUsXc9FGPM" >}}
 
 ---
 
