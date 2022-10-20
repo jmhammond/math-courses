@@ -44,4 +44,4 @@ Ask it on Discourse, and let's get it answered!
 
 ## 🎥 Thursday recitation {#thursday-recitation-14}
 
-**TO BE POSTED**
+{{< youtube id="G77lRJG7RHQ" >}}
