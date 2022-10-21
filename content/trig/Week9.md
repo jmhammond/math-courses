@@ -25,4 +25,4 @@ NO VIDEO --  FALL BREAK
 
 ## 🎥 Friday recitation {#thursday-recitation}
 
-**TO BE POSTED**
+{{< youtube id="zg0yT_wYQtQ" >}}

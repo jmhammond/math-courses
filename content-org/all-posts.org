@@ -2185,7 +2185,7 @@ NO VIDEO --  FALL BREAK
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation
 :END:
-*TO BE POSTED*
+{{{youtube(zg0yT_wYQtQ)}}}
 
 ** Week 10
 :PROPERTIES:
