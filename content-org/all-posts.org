@@ -874,6 +874,10 @@ Ask it on Discourse, and let's get it answered!
 
 Your todo list for the week
 {{{more}}}
+*** Solutions to checkpoint 9
+[[https://nextcloud.math.wichita.edu/index.php/s/Z4HNLgFHcYEgHTY][Here is the original file]]
+
+[[https://nextcloud.math.wichita.edu/index.php/s/5iL5pSSfNCPoCF7][and here are the solutions]].
 
 *** Before class on Tuesday
 :PROPERTIES:
@@ -2194,11 +2198,17 @@ NO VIDEO --  FALL BREAK
 :END:
 Your class videos for the week
 {{{more}}}
+*** Solutions to checkpoint 9
+[[https://nextcloud.math.wichita.edu/index.php/s/a9KcCzSbS7Wke6w][Here's the original file]]
+
+[[https://nextcloud.math.wichita.edu/index.php/s/6S4an8XGMZCL4Qs][and here are the solutions.]]
+
+
 *** 🎥 Monday class
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation
 :END:
-*TO BE POSTED*
+{{{youtube(hafC6amgxwU)}}}
 
 --------------
 

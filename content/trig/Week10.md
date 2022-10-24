@@ -9,9 +9,16 @@ Your class videos for the week
 <!--more-->
 
 
+## Solutions to checkpoint 9 {#solutions-to-checkpoint-9}
+
+[Here's the original file](https://nextcloud.math.wichita.edu/index.php/s/a9KcCzSbS7Wke6w)
+
+[and here are the solutions.](https://nextcloud.math.wichita.edu/index.php/s/6S4an8XGMZCL4Qs)
+
+
 ## 🎥 Monday class {#tuesday-recitation}
 
-**TO BE POSTED**
+{{< youtube id="hafC6amgxwU" >}}
 
 ---
 
