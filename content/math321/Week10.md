@@ -45,7 +45,9 @@ Ask it on Discourse, and let's get it answered!
 
 ## 🎥 Tuesday recitation {#tuesday-recitation-1}
 
-**TO BE POSTED**
+During class today the university network went out. Zoom went down and eventually came back. The interruption in the video is there, but I stitched the files together so class content is all together, complete with tech "oh noes!"
+
+{{< youtube id="SlFMaMjMfNM" >}}
 
 ---
 
