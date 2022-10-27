@@ -957,7 +957,7 @@ Ask it on Discourse, and let's get it answered!
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation-1
 :END:
-*TO BE POSTED*
+{{{youtube(https://youtu.be/wV7tUt4uPqg)}}}
 
 ** Week 11
 :PROPERTIES:
@@ -1045,7 +1045,6 @@ Ask it on Discourse, and let's get it answered!
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation-2
 :END:
-*TO BE POSTED*
 
 ** Week 12
 :PROPERTIES:
