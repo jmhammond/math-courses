@@ -82,4 +82,4 @@ Ask it on Discourse, and let's get it answered!
 
 ## 🎥 Thursday recitation {#thursday-recitation-1}
 
-{{< youtube id="https://youtu.be/wV7tUt4uPqg" >}}
+{{< youtube id="wV7tUt4uPqg" >}}
