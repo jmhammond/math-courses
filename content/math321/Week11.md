@@ -46,7 +46,7 @@ Ask it on Discourse, and let's get it answered!
 
 ## 🎥 Tuesday recitation {#tuesday-recitation-2}
 
-**TO BE POSTED**
+{{< youtube id="3uSc5SAeDcE" >}}
 
 ---
 
