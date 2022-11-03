@@ -79,3 +79,5 @@ Ask it on Discourse, and let's get it answered!
 
 
 ## 🎥 Thursday recitation {#thursday-recitation-2}
+
+{{< youtube id="vgiE5Cg97ls" >}}

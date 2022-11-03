@@ -1048,6 +1048,7 @@ Ask it on Discourse, and let's get it answered!
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation-2
 :END:
+{{{youtube(vgiE5Cg97ls)}}}
 
 ** Week 12
 :PROPERTIES:
@@ -2256,7 +2257,7 @@ Your class videos for the week
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation
 :END:
-*TO BE POSTED*
+{{{youtube(Hj5B0sv96_Y)}}}
 
 --------------
 
