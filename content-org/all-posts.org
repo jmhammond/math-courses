@@ -1059,6 +1059,10 @@ Ask it on Discourse, and let's get it answered!
 Your todo list for the week
 {{{more}}}
 
+*** Solutions to checkpoint 11
+[[https://nextcloud.math.wichita.edu/index.php/s/CWbJ7RXdBCEeqDM][The original file is found here]].
+
+The solutions are here.
 
 *** Before class on Tuesday
 :PROPERTIES:
@@ -2265,7 +2269,7 @@ Your class videos for the week
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation
 :END:
-*TO BE POSTED*
+{{{youtube(z3Isw5u8qc8)}}}
 
 ** Week 12
 :PROPERTIES:
@@ -2274,6 +2278,12 @@ Your class videos for the week
 :END:
 Your class videos for the week
 {{{more}}}
+
+*** Solutions to checkpoint 11
+[[https://nextcloud.math.wichita.edu/index.php/s/Nfcw6wWewzRGYXq][The original file is here]].
+
+The solutions are here.
+
 *** 🎥 Monday class
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation
