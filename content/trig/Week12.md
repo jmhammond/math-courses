@@ -25,7 +25,9 @@ Your class videos for the week
 
 ## 🎥 Wednesday class {#thursday-recitation}
 
-**TO BE POSTED**
+No recorded video today (in-person evaluations + I'm sick...)
+
+my sub covered complex solutions to quadratic equations. We'll talk about general solutions to polynomials and more on Friday.
 
 ---
 
