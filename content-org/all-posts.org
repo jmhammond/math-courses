@@ -2315,7 +2315,7 @@ my sub covered complex solutions to quadratic equations. We'll talk about genera
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation
 :END:
-*TO BE POSTED*
+{{{youtube(nNXUuESB1P4)}}}
 
 ** Week 13
 :PROPERTIES:

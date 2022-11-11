@@ -34,4 +34,4 @@ my sub covered complex solutions to quadratic equations. We'll talk about genera
 
 ## 🎥 Friday recitation {#thursday-recitation}
 
-**TO BE POSTED**
+{{< youtube id="nNXUuESB1P4" >}}
