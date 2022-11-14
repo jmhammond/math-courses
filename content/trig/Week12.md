@@ -13,7 +13,7 @@ Your class videos for the week
 
 [The original file is here](https://nextcloud.math.wichita.edu/index.php/s/Nfcw6wWewzRGYXq).
 
-[The solutions are here.](https://nextcloud.math.wichita.edu/index.php/s/N6ZBnJYfGn96Kdo)
+[The solutions are here.](https://nextcloud.math.wichita.edu/index.php/s/kZi3EKeKYpLxKJ3)
 
 
 ## 🎥 Monday class {#tuesday-recitation}

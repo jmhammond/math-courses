@@ -13,7 +13,7 @@ Your todo list for the week
 
 [Here's the original file.](https://nextcloud.math.wichita.edu/index.php/s/mfseBRNKZxK8Pym)
 
-[and here are the solutions](https://nextcloud.math.wichita.edu/index.php/s/egHE2fsi9fDpo9z).
+[and here are the solutions](https://nextcloud.math.wichita.edu/index.php/s/8LRWkMGNnBKps5b).
 
 
 ## Before class on Tuesday {#before-class-on-tuesday-2}

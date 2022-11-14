@@ -455,7 +455,7 @@ Your todo list for the week
 *** Solutions to checkpoint 4
 [[https://nextcloud.math.wichita.edu/index.php/s/eSDZN4fMdM7H7JA][Here's the original file]]
 
-[[https://nextcloud.math.wichita.edu/index.php/s/QkKD3kNiW95MzzX][and here are the solutions.]]
+[[https://nextcloud.math.wichita.edu/index.php/s/FJYcyqjGrTSdmcQ][and here are the solutions.]]
 *** Before class on Tuesday
 :PROPERTIES:
 :CUSTOM_ID: before-class-on-tuesday-11
@@ -546,7 +546,7 @@ Your todo list for the week
 *** Solutions to checkpoint 5
 [[https://nextcloud.math.wichita.edu/index.php/s/JnEGAx6cZodtssq][Here's the solutions.]]
 
-[[https://nextcloud.math.wichita.edu/index.php/s/wFqaBKkDbW4YWbB][Here's the original file]]
+[[https://nextcloud.math.wichita.edu/index.php/s/CxSxeswtCsZGJAE][Here's the original file]]
 
 *** Before class on Tuesday
 :PROPERTIES:
@@ -639,7 +639,7 @@ Your todo list for the week
 *** Solutions to Checkpoint 6
 [[https://nextcloud.math.wichita.edu/index.php/s/wwWoxNxqwg7KeHK][Here's the original checkpoint file]]
 
-[[https://nextcloud.math.wichita.edu/index.php/s/fzQCqMMDX7oKfo8][and here are the solutions]]
+[[https://nextcloud.math.wichita.edu/index.php/s/wW8ZA9niM2ceLkr][and here are the solutions]]
 
 *** Before class on Tuesday
 :PROPERTIES:
@@ -733,7 +733,7 @@ Your todo list for the week
 *** Solutions to checkpoint 7
 [[https://nextcloud.math.wichita.edu/index.php/s/zFqC3Dxj3bPNnBr][Here's the original file]]
 
-[[https://nextcloud.math.wichita.edu/index.php/s/dAEFtr6GKkgPC8P][ here are the solutions]].
+[[https://nextcloud.math.wichita.edu/index.php/s/bpKFWoRbFFJqDmr][here are the solutions]].
 *** Before class on Tuesday
 :PROPERTIES:
 :CUSTOM_ID: before-class-on-tuesday-14
@@ -820,7 +820,10 @@ Ask it on Discourse, and let's get it answered!
 Your todo list for the week
 {{{more}}}
 
+*** Solutions to checkpoint 8
 
+
+[[https://nextcloud.math.wichita.edu/index.php/s/FKrNymKceybXciM][Solutions are here]]
 *** No class on Tuesday (Fall Break)
 :PROPERTIES:
 :CUSTOM_ID: no-class-on-tuesday-fall-break
@@ -877,7 +880,7 @@ Your todo list for the week
 *** Solutions to checkpoint 9
 [[https://nextcloud.math.wichita.edu/index.php/s/Z4HNLgFHcYEgHTY][Here is the original file]]
 
-[[https://nextcloud.math.wichita.edu/index.php/s/5iL5pSSfNCPoCF7][and here are the solutions]].
+[[https://nextcloud.math.wichita.edu/index.php/s/FEkDJqoiJf7aFDj][and here are the solutions]].
 
 *** Before class on Tuesday
 :PROPERTIES:
@@ -971,7 +974,7 @@ Your todo list for the week
 *** Solutions to checkpoint 10
 [[https://nextcloud.math.wichita.edu/index.php/s/mfseBRNKZxK8Pym][Here's the original file.]]
 
-[[https://nextcloud.math.wichita.edu/index.php/s/egHE2fsi9fDpo9z][and here are the solutions]].
+[[https://nextcloud.math.wichita.edu/index.php/s/8LRWkMGNnBKps5b][and here are the solutions]].
 *** Before class on Tuesday
 :PROPERTIES:
 :CUSTOM_ID: before-class-on-tuesday-2
@@ -1158,6 +1161,11 @@ as a result, I'm including my video from last Fall over this section that might 
 
 Your todo list for the week
 {{{more}}}
+
+*** solutions to checkpoint 12
+[[https://nextcloud.math.wichita.edu/index.php/s/EtaKkWmZ6Lr4Jjm][The original file is here]]
+
+[[https://nextcloud.math.wichita.edu/index.php/s/p9Po7b6d4xtZT89][and solutions are here]]
 
 *** Before class on Tuesday
 :PROPERTIES:
@@ -2324,15 +2332,20 @@ my sub covered complex solutions to quadratic equations. We'll talk about genera
 :END:
 Your class videos for the week
 {{{more}}}
+*** Solutions to checkpoint 12
+[[https://nextcloud.math.wichita.edu/index.php/s/2zKc57odaK9wFrB][The original file is here]]
+
+[[https://nextcloud.math.wichita.edu/index.php/s/ArZJMdfSg8amnwJ][the solutions are here.]]
+
 *** 🎥 Monday class
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation
 :END:
-*TO BE POSTED*
+{{{youtube(uoKXIKJMadk)}}}
 
 --------------
 
-*** 🎥 Wednesday class
+*** 🎥 Wednesday class***
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation
 :END:
