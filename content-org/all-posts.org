@@ -1197,7 +1197,7 @@ Your todo list for the week
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation-4
 :END:
-*TO BE POSTED*
+{{{youtube(5YfrcH-diEc)}}}
 
 --------------
 

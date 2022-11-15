@@ -41,7 +41,7 @@ Your todo list for the week
 
 ## 🎥 Tuesday recitation {#tuesday-recitation-4}
 
-**TO BE POSTED**
+{{< youtube id="5YfrcH-diEc" >}}
 
 ---
 
