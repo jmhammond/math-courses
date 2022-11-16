@@ -23,9 +23,9 @@ Your class videos for the week
 ---
 
 
-## 🎥 Wednesday class\*\*\* {#thursday-recitation}
+## 🎥 Wednesday class {#thursday-recitation}
 
-**TO BE POSTED**
+{{< youtube id="cIv3zmPCOtU" >}}
 
 ---
 

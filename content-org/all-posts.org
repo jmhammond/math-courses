@@ -2345,11 +2345,11 @@ Your class videos for the week
 
 --------------
 
-*** 🎥 Wednesday class***
+*** 🎥 Wednesday class
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation
 :END:
-*TO BE POSTED*
+{{{youtube(cIv3zmPCOtU)}}}
 
 --------------
 
