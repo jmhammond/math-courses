@@ -70,4 +70,4 @@ Your todo list for the week
 
 ## 🎥 Thursday recitation {#thursday-recitation-4}
 
-**TO BE POSTED**
+{{< youtube id="HGjwJznvec8" >}}
