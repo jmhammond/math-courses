@@ -1241,6 +1241,10 @@ Your todo list for the week
 Your todo list for the week
 {{{more}}}
 
+*** Solutions to checkpoint 13
+[[https://nextcloud.math.wichita.edu/index.php/s/jazJk3S6q3omS43][Here's the original checkpoint]]
+
+and here are the solutions.
 
 *** Before class on Tuesday
 :PROPERTIES:
@@ -2357,7 +2361,7 @@ Your class videos for the week
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation
 :END:
-*TO BE POSTED*
+{{{youtube(sWyxX-bK8xE)}}}
 
 
 ** Week 14
@@ -2368,6 +2372,12 @@ Your class videos for the week
 
 Your class videos for the week
 {{{more}}}
+
+*** Solutions to checkpoint 13
+[[https://nextcloud.math.wichita.edu/index.php/s/MRcZJcZxiXqQFPg][Here is the original file]]
+
+and here are the solutions.
+
 *** 🎥 Monday class
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation
