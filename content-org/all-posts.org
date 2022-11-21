@@ -1244,7 +1244,7 @@ Your todo list for the week
 *** Solutions to checkpoint 13
 [[https://nextcloud.math.wichita.edu/index.php/s/jazJk3S6q3omS43][Here's the original checkpoint]]
 
-and here are the solutions.
+[[https://nextcloud.math.wichita.edu/index.php/s/79KLzbL7gdYS2QA][and here are the solutions]].
 
 *** Before class on Tuesday
 :PROPERTIES:
@@ -2376,13 +2376,13 @@ Your class videos for the week
 *** Solutions to checkpoint 13
 [[https://nextcloud.math.wichita.edu/index.php/s/MRcZJcZxiXqQFPg][Here is the original file]]
 
-and here are the solutions.
+[[https://nextcloud.math.wichita.edu/index.php/s/KzS4WAtBaDfXPTS][and here are the solutions.]]
 
 *** 🎥 Monday class
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation
 :END:
-*TO BE POSTED*
+No video posted today.  We just discussed individual questions for particular students. If you have any questions, let me know! (Send me an email)  Have a great break!
 
 --------------
 

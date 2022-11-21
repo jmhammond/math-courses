@@ -13,12 +13,12 @@ Your class videos for the week
 
 [Here is the original file](https://nextcloud.math.wichita.edu/index.php/s/MRcZJcZxiXqQFPg)
 
-and here are the solutions.
+[and here are the solutions.](https://nextcloud.math.wichita.edu/index.php/s/KzS4WAtBaDfXPTS)
 
 
 ## 🎥 Monday class {#tuesday-recitation}
 
-**TO BE POSTED**
+No video posted today.  We just discussed individual questions for particular students. If you have any questions, let me know! (Send me an email)  Have a great break!
 
 ---
 
