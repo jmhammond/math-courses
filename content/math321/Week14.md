@@ -26,7 +26,7 @@ questions.
 
 ## 🎥 Tuesday recitation {#tuesday-recitation-5}
 
-**TO BE POSTED**
+{{< youtube id="Z37KnqWMLt0" >}}
 
 ---
 
