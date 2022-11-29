@@ -39,7 +39,7 @@ Ask it on Discourse, and let's get it answered!
 
 ## 🎥 Tuesday recitation {#tuesday-recitation-6}
 
-**TO BE POSTED**
+{{< youtube id="99ZX7TCDh9U" >}}
 
 ---
 
