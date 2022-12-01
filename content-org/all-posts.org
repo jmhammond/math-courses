@@ -2412,7 +2412,7 @@ Your class videos for the week
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation
 :END:
-*TO BE POSTED*
+{{{youtube(AmCM1yatOzo)}}}
 
 --------------
 
