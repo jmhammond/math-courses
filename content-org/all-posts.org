@@ -271,9 +271,9 @@ Ask it on Discourse, and let's get it answered!
 {{{more}}}
 
 *** Checkpoint 2 Solutions
-[[https://cloud.math.wichita.edu/s/StA9wGorgFpCfAq][here are solutions to the checkpoint]]
+[[https://nextcloud.math.wichita.edu/index.php/s/Pd2i2cf8mJWrFsq][here are solutions to the checkpoint]]
 
-and [[https://cloud.math.wichita.edu/s/3WJ9dGYSynFkbz2][here is the original file]].
+and [[https://nextcloud.math.wichita.edu/index.php/s/jb4k66W2FzdS7gi][here is the original file]].
 *** Before class on Tuesday
 :PROPERTIES:
 :CUSTOM_ID: before-class-on-tuesday-9
@@ -453,9 +453,9 @@ Your todo list for the week
 {{{more}}}
 
 *** Solutions to checkpoint 4
-[[https://nextcloud.math.wichita.edu/index.php/s/eSDZN4fMdM7H7JA][Here's the original file]]
+[[https://nextcloud.math.wichita.edu/index.php/s/2a4TYasH35ECjtC][Here's the original file]]
 
-[[https://nextcloud.math.wichita.edu/index.php/s/FJYcyqjGrTSdmcQ][and here are the solutions.]]
+[[https://nextcloud.math.wichita.edu/index.php/s/mdkkjGGt7R6kE5w][and here are the solutions.]]
 *** Before class on Tuesday
 :PROPERTIES:
 :CUSTOM_ID: before-class-on-tuesday-11
@@ -544,9 +544,9 @@ Your todo list for the week
 {{{more}}}
 
 *** Solutions to checkpoint 5
-[[https://nextcloud.math.wichita.edu/index.php/s/JnEGAx6cZodtssq][Here's the solutions.]]
+[[https://nextcloud.math.wichita.edu/index.php/s/YEqHHKcCGHsKwG3][Here's the solutions.]]
 
-[[https://nextcloud.math.wichita.edu/index.php/s/CxSxeswtCsZGJAE][Here's the original file]]
+[[https://nextcloud.math.wichita.edu/index.php/s/aFXtNNd9Heb2tQC][Here's the original file]]
 
 *** Before class on Tuesday
 :PROPERTIES:
@@ -637,9 +637,9 @@ Your todo list for the week
 {{{more}}}
 
 *** Solutions to Checkpoint 6
-[[https://nextcloud.math.wichita.edu/index.php/s/wwWoxNxqwg7KeHK][Here's the original checkpoint file]]
+[[https://nextcloud.math.wichita.edu/index.php/s/Qn25teKK9Tpz8Ao][Here's the original checkpoint file]]
 
-[[https://nextcloud.math.wichita.edu/index.php/s/wW8ZA9niM2ceLkr][and here are the solutions]]
+[[https://nextcloud.math.wichita.edu/index.php/s/dK4ENbnsqGeWaMF][and here are the solutions]]
 
 *** Before class on Tuesday
 :PROPERTIES:
@@ -731,9 +731,9 @@ Your todo list for the week
 {{{more}}}
 
 *** Solutions to checkpoint 7
-[[https://nextcloud.math.wichita.edu/index.php/s/zFqC3Dxj3bPNnBr][Here's the original file]]
+[[https://nextcloud.math.wichita.edu/index.php/s/R3yPfWN8PDrtax9][Here's the original file]]
 
-[[https://nextcloud.math.wichita.edu/index.php/s/bpKFWoRbFFJqDmr][here are the solutions]].
+[[https://nextcloud.math.wichita.edu/index.php/s/EFiGpQFpbtPdBW8][here are the solutions]].
 *** Before class on Tuesday
 :PROPERTIES:
 :CUSTOM_ID: before-class-on-tuesday-14
@@ -821,9 +821,9 @@ Your todo list for the week
 {{{more}}}
 
 *** Solutions to checkpoint 8
+[[https://nextcloud.math.wichita.edu/index.php/s/DyADtcnkLZ6ode6][original is here]]
 
-
-[[https://nextcloud.math.wichita.edu/index.php/s/FKrNymKceybXciM][Solutions are here]]
+[[https://nextcloud.math.wichita.edu/index.php/s/iGLSo5PfD7fX3My][Solutions are here]]
 *** No class on Tuesday (Fall Break)
 :PROPERTIES:
 :CUSTOM_ID: no-class-on-tuesday-fall-break
@@ -878,9 +878,9 @@ Ask it on Discourse, and let's get it answered!
 Your todo list for the week
 {{{more}}}
 *** Solutions to checkpoint 9
-[[https://nextcloud.math.wichita.edu/index.php/s/Z4HNLgFHcYEgHTY][Here is the original file]]
+[[https://nextcloud.math.wichita.edu/index.php/s/d3A95Lw6cApnkmA][Here is the original file]]
 
-[[https://nextcloud.math.wichita.edu/index.php/s/FEkDJqoiJf7aFDj][and here are the solutions]].
+[[https://nextcloud.math.wichita.edu/index.php/s/Dywb2PcNKP2CApy][and here are the solutions]].
 
 *** Before class on Tuesday
 :PROPERTIES:
@@ -972,9 +972,9 @@ Your todo list for the week
 {{{more}}}
 
 *** Solutions to checkpoint 10
-[[https://nextcloud.math.wichita.edu/index.php/s/mfseBRNKZxK8Pym][Here's the original file.]]
+[[https://nextcloud.math.wichita.edu/index.php/s/KHcDyTryCQgqzHP][Here's the original file.]]
 
-[[https://nextcloud.math.wichita.edu/index.php/s/8LRWkMGNnBKps5b][and here are the solutions]].
+[[https://nextcloud.math.wichita.edu/index.php/s/TtFsrXebbEEwRG2][and here are the solutions]].
 *** Before class on Tuesday
 :PROPERTIES:
 :CUSTOM_ID: before-class-on-tuesday-2
@@ -1063,9 +1063,9 @@ Your todo list for the week
 {{{more}}}
 
 *** Solutions to checkpoint 11
-[[https://nextcloud.math.wichita.edu/index.php/s/CWbJ7RXdBCEeqDM][The original file is found here]].
+[[https://nextcloud.math.wichita.edu/index.php/s/aPpjYZrM44aFm5E][The original file is found here]].
 
-[[https://nextcloud.math.wichita.edu/index.php/s/8sRDedcJPJ9qnJB][The solutions are here]].
+[[https://nextcloud.math.wichita.edu/index.php/s/ttwPQ8iKZCC49B8][The solutions are here]].
 
 *** Before class on Tuesday
 :PROPERTIES:
@@ -1163,9 +1163,9 @@ Your todo list for the week
 {{{more}}}
 
 *** solutions to checkpoint 12
-[[https://nextcloud.math.wichita.edu/index.php/s/EtaKkWmZ6Lr4Jjm][The original file is here]]
+[[https://nextcloud.math.wichita.edu/index.php/s/QyAGeeCbbjcgGEt][The original file is here]]
 
-[[https://nextcloud.math.wichita.edu/index.php/s/p9Po7b6d4xtZT89][and solutions are here]]
+[[https://nextcloud.math.wichita.edu/index.php/s/iJZMScsDGyzKqaE][and solutions are here]]
 
 *** Before class on Tuesday
 :PROPERTIES:
@@ -1242,9 +1242,9 @@ Your todo list for the week
 {{{more}}}
 
 *** Solutions to checkpoint 13
-[[https://nextcloud.math.wichita.edu/index.php/s/jazJk3S6q3omS43][Here's the original checkpoint]]
+[[https://nextcloud.math.wichita.edu/index.php/s/YErerDG45DPsTx7][Here's the original checkpoint]]
 
-[[https://nextcloud.math.wichita.edu/index.php/s/79KLzbL7gdYS2QA][and here are the solutions]].
+[[https://nextcloud.math.wichita.edu/index.php/s/Y3fPwyjPci7oLNS][and here are the solutions]].
 
 *** Before class on Tuesday
 :PROPERTIES:
@@ -1278,6 +1278,11 @@ Happy Thanksgiving! 🦃
 Your todo list for the week
 {{{more}}}
 
+
+*** Solutions to checkpoint 14
+[[https://nextcloud.math.wichita.edu/index.php/s/QYtKMgzQS2oyy7E][Original file is here]]
+
+Solutions are here (eventually)
 
 *** Before class on Tuesday
 :PROPERTIES:
@@ -1354,8 +1359,7 @@ Ask it on Discourse, and let's get it answered!
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation-5
 :END:
-*TO BE POSTED*
-
+{{{youtube(gQFAbIrQ0jU)}}}
 
 ** Week 16
 :PROPERTIES:

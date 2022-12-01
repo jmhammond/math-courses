@@ -11,9 +11,9 @@ Your todo list for the week
 
 ## Solutions to checkpoint 5 {#solutions-to-checkpoint-5}
 
-[Here's the solutions.](https://nextcloud.math.wichita.edu/index.php/s/JnEGAx6cZodtssq)
+[Here's the solutions.](https://nextcloud.math.wichita.edu/index.php/s/YEqHHKcCGHsKwG3)
 
-[Here's the original file](https://nextcloud.math.wichita.edu/index.php/s/CxSxeswtCsZGJAE)
+[Here's the original file](https://nextcloud.math.wichita.edu/index.php/s/aFXtNNd9Heb2tQC)
 
 
 ## Before class on Tuesday {#before-class-on-tuesday-12}

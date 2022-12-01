@@ -11,7 +11,9 @@ Your todo list for the week
 
 ## Solutions to checkpoint 8 {#solutions-to-checkpoint-8}
 
-[Solutions are here](https://nextcloud.math.wichita.edu/index.php/s/FKrNymKceybXciM)
+[original is here](https://nextcloud.math.wichita.edu/index.php/s/DyADtcnkLZ6ode6)
+
+[Solutions are here](https://nextcloud.math.wichita.edu/index.php/s/iGLSo5PfD7fX3My)
 
 
 ## No class on Tuesday (Fall Break) {#no-class-on-tuesday-fall-break}
