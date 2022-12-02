@@ -25,4 +25,4 @@ Your class videos for the week
 
 ## 🎥 Friday recitation {#thursday-recitation}
 
-**TO BE POSTED**
+{{< youtube id="fAJvNH8ZKhU" >}}
