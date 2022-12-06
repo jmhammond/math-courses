@@ -1278,12 +1278,6 @@ Happy Thanksgiving! 🦃
 Your todo list for the week
 {{{more}}}
 
-
-*** Solutions to checkpoint 14
-[[https://nextcloud.math.wichita.edu/index.php/s/QYtKMgzQS2oyy7E][Original file is here]]
-
-Solutions are here (eventually)
-
 *** Before class on Tuesday
 :PROPERTIES:
 :CUSTOM_ID: before-class-on-tuesday-6
@@ -1370,6 +1364,10 @@ Ask it on Discourse, and let's get it answered!
 Your todo list for the week
 {{{more}}}
 
+*** Solutions to checkpoint 14
+[[https://nextcloud.math.wichita.edu/index.php/s/QYtKMgzQS2oyy7E][Original file is here]]
+
+[[https://nextcloud.math.wichita.edu/index.php/s/X3CwEpzcWHXocKy][and here are the solutions]]
 
 *** Before class on Tuesday
 :PROPERTIES:
@@ -1385,7 +1383,7 @@ are both fully comprehensive - every learning target is available.
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation-7
 :END:
-*TO BE POSTED*
+{{{youtube(WjF_XrvVZw0)}}}
 
 --------------
 
@@ -2435,6 +2433,12 @@ Your class videos for the week
 :END:
 Your class videos for the week
 {{{more}}}
+
+*** Solutions to Checkpoint 14
+[[https://nextcloud.math.wichita.edu/index.php/s/EDoC6LtFzLSknn6][Here's the original file]]
+
+[[https://nextcloud.math.wichita.edu/index.php/s/PNwMFSqxCp8yCei][and here are the solutions.]]
+
 *** 🎥 Monday class
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation
