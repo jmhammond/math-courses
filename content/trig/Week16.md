@@ -25,11 +25,6 @@ Your class videos for the week
 
 ## 🎥 Wednesday class {#thursday-recitation}
 
-**TO BE POSTED**
+LAST CLASS!!!
 
----
-
-
-## 🎥 Friday recitation {#thursday-recitation}
-
-**TO BE POSTED**
+{{< youtube id="3j4ql7lrnEo" >}}
