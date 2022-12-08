@@ -1400,7 +1400,7 @@ whole-semester review!
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation-6
 :END:
-*TO BE POSTED*
+{{{youtube(pRhCdBoY0WU)}}}
 
 * History - Math 300
 :PROPERTIES:

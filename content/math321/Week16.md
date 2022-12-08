@@ -42,4 +42,4 @@ whole-semester review!
 
 ## 🎥 Thursday recitation {#thursday-recitation-6}
 
-**TO BE POSTED**
+{{< youtube id="pRhCdBoY0WU" >}}
