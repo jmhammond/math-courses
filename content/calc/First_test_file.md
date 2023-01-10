@@ -22,7 +22,7 @@ This is section 3.3  (and 3.4 below)
 
 There should be a video here
 {{< youtube id="J2h_bCkhmwM" >}}
-
+{{< youtube J2h_bCkhmwM >}}
 
 ## Spoiler test: {#spoiler-test}
 
