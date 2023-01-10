@@ -9,6 +9,9 @@ showtoc: true
 tocopen: false
 ---
 
+Some Review and What is Calculus
+<!--more-->
+
 # Sections 1.1 - 1.3
 
 That sounds like a lot! These sections of Stewart's text a review of functions. You should be familiar with the basic concepts (what is a function, domain, range, increasing, decreasing, polynomials, trig functions, rational functions, +, - , *, /, and function composition). 
@@ -31,7 +34,7 @@ If you do need help, that's great, too. [Head over to the Functions Review secti
 
 Tangent comes from the Latin word meaning "touching."  The idea is that given a particular curve and a point, we want to find a line which touching that curve at only that point. We call this the **tangent line**. 
 
-![Tangent Lines|226x328](
+![Tangent Lines|226x328](/calc/1.4.tangent.png)
 
 In this picture, part (a), the line $t$ is tangent to the circle.  In part (b), the line $t$ is tangent to the curve at point $P$ *near that point* because *near that point*, it's touching the curve at exactly one point. 
 Looking outside the small interval around $P$, though, $t$ does pass through the curve in another place (making it a **secant** line), so thinking of "tangent" means thinking in a small neighborhood of a point!
@@ -42,7 +45,7 @@ Find an equation of the tangent line to the parabola $y=x^2$ at the point $P(1,1
 
 This example is from the textbook, and it looks at computing the slopes of **secant lines** (thought lines that pass through two points) near point $P(1,1)$.  Here's an excellent Geogebra exploration by WSU faculty Justin Mears which illustrates how the slopes get closer and closer to a particular value (what we'll call a **limit**).  
 
-Please click this link and and explore the activity: 
+[Please click this link and and explore the activity](https://www.geogebra.org/m/c5479ucc): 
 - You can grab point $Q$ and move it. 
 - Watch as the secant lines $PQ$ (red) get closer and closer to the tangent line (green), the slope $m_{PQ}$ gets closer and closer to a particular number.
 - What is that number? 
@@ -68,7 +71,7 @@ We can compute the area of a rectangle really easily. Triangles are basically th
 
 It gets a little weirder when shapes are curved. How do we find the area of the bottom picture below? 
 
-![3048-2456-max|620x500, 75%](upload://t5LjqMcPLK06etsivScjdP0oPAw.jpeg) 
+![Areas|620x500, 75%](/calc/1.4.areas.jpg) 
 
 ... the idea is that we'll break it up into smaller shapes (rectangles / triangles) and add those up. But to be accurate, they need to be really, *really* small rectangles / triangles.  
 
@@ -83,12 +86,12 @@ In this situation, we know exactly *how fast* something is going. For example, o
 How far did you travel after 1 hour?  75 miles.  After 2 hours? 150 hours. After 90 minutes?  112.5 miles.  
 
 What if your velocity varies (e.g. city traffic?). Sometimes you're accelerating. Sometimes you're cruising, sometimes you're stopped at a stop light. 
-![1024-1365|690x363, 75%](upload://tZVRE6pEhaOhs2qXVNuJpii5zTW.jpeg) 
+![Distances](/calc/1.4.distances.jpg) 
 
 How can we determine how far you traveled? We can break up the time interval into smaller intervals and compute the velocity * time for each interval and then add them up. 
 ... this is actually the area problem! 
 
 Calculus is so cool!
 
-Have a question? A comment? Want to clarify something above or on your homework set? Click Reply below and let's talk about it!
+Have a question? A comment? Want to clarify something above or on your homework set? Send me an email and let's talk about it!
 
