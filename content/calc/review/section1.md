@@ -1,3 +1,10 @@
+---
+author: John Hammond
+title: Section 1.1
+mathjax: true
+ShowBreadCrumbs: true
+---
+
 **Section 1.1 - Four Ways of Representing a Function**
 
 Full disclosure: these videos are produced my another professor, and I'm including them here for review. 
@@ -12,19 +19,20 @@ The following video covers the fundamentals of functions including the basic def
 
 
 There are four basic ways to represent functions and each have their own uses, benefits, and shortcomings.  
-https://youtu.be/pzzVpEW08TE
+
+{{< youtube pzzVpEW08TE >}}
 
 Next, you are introduced to some basic properties of functions.  
 
-https://youtu.be/8eQkLh5GZP0
+{{< youtube 8eQkLh5GZP0 >}}
 
 Some functions have a property known as **symmetry.** In the context of functions, you have two main types of symmetry, but later in your mathematical careers you will see that other types of symmetry are possible. In any case, symmetry greatly reduces the complexity of a problem and simplifies our calculations.  
 
-https://youtu.be/qO9YNEeYRj4
+{{< youtube qO9YNEeYRj4 >}}
 
 Finally, we address some left over properties of functions.  
 
-https://youtu.be/Hv3EWjW2ey8
+{{< youtube Hv3EWjW2ey8 >}}
 
 ---
 
@@ -33,24 +41,41 @@ https://youtu.be/Hv3EWjW2ey8
 
 Exercise 1.1.3: Answering questions based on a given graph.   
 
-https://youtu.be/EfDkmOh58W8
+{{< youtube EfDkmOh58W8 >}}
 
 Exercises 1.1.7 & 1.1.8:  Determining if a curve is a function
 
-https://youtu.be/jahWWE2u4Zo
+{{< youtube jahWWE2u4Zo >}}
 
 Exercise 1.1.25:  Evaluating a function
 
-https://youtu.be/wMx8NxGe188
+{{< youtube wMx8NxGe188 >}}
 
 Exercise 1.1.28:  Simplifying the Difference Quotient
 
-https://youtu.be/7vDApiEY2oI
+{{< youtube 7vDApiEY2oI >}}
 
 Exercise 1.1.32:  Finding the Domain of a Function
 
-https://youtu.be/a3eOVJGxuNI
+{{< youtube a3eOVJGxuNI >}}
 
 ---
 
-If you have any questions hit Reply below and let's talk about it!
+## Working out a question from WebAssign:
+
+Working out the following question from WebAssign: 
+
+![WebAssign Question|538x81](/calc/1.1.webassign.png)
+
+The function is $f(x) = \frac1x$, so we begin by writing the difference quotient (the expression at the right - differences and division (quotient)) and then plug everything into the function:
+
+$$
+\begin{align*}
+\dfrac{f(x) - f(a)}{x- a} &= \dfrac{\dfrac1x - \dfrac1a}{x-a} & \\\\ 
+&= \dfrac{\dfrac{a}{ax} -  \dfrac{x}{ax}}{x-a} & \text{getting common denominator up top} \\\\
+&= \dfrac{\dfrac{a-x}{ax}}{x-a} & \\\\
+&= \dfrac{a-x}{ax} \cdot \dfrac{1}{x-a} & \text{reciprocate and multiply} \\\\
+&= \dfrac{-(x-a)}{ax} \cdot\dfrac{1}{x-a} & \text{factor out the negative one} \\\\
+&= \dfrac{-1}{ax} & \text{simplify}
+\end{align*}
+$$
