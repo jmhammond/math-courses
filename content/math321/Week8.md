@@ -9,13 +9,6 @@ Your todo list for the week
 <!--more-->
 
 
-## Solutions to checkpoint 7 {#solutions-to-checkpoint-7}
-
-[Here's the original file](https://nextcloud.math.wichita.edu/index.php/s/R3yPfWN8PDrtax9)
-
-[here are the solutions](https://nextcloud.math.wichita.edu/index.php/s/EFiGpQFpbtPdBW8).
-
-
 ## Before class on Tuesday {#before-class-on-tuesday-14}
 
 
@@ -46,7 +39,7 @@ Ask it on Discourse, and let's get it answered!
 
 ## 🎥 Tuesday recitation {#tuesday-recitation-14}
 
-{{< youtube id="WQ_CrHKWzxA" >}}
+****to be posted****
 
 ---
 
@@ -80,4 +73,4 @@ Ask it on Discourse, and let's get it answered!
 
 ## 🎥 Thursday recitation {#thursday-recitation-13}
 
-{{< youtube id="_628TA7zxyA" >}}
+****to be posted****

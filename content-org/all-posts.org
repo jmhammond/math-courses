@@ -10,60 +10,6 @@
 #      You need to click to see this, my friend.
 #     #+end_spoiler
 
-* Calculus 1 - Math 242
-:PROPERTIES:
-:EXPORT_HUGO_SECTION: calc
-:END:
-
-** Index page for calculus
-:PROPERTIES:
-:EXPORT_TITLE: Math 242: Calculus 1
-:EXPORT_FILE_NAME: _index.html
-:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :ShowBreadCrumbs true
-:END:
-In which we learn about rates of change and areas, and applications to various contexts.
-
-{{{more}}}
-
-This content may or may not be updated.  I've copy-pasted some content from the Spring 2022 course, and I'm putting this together while I'm building the site.
-
-... basically I need practice building the hugo blog.
-
-... I'll update it eventually.
-
-** Chapter 1
-:PROPERTIES:
-:EXPORT_HUGO_SECTION_FRAG: chapter1
-:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :ShowBreadCrumbs true
-:END:
-***  First test sample post :hugo:
-:PROPERTIES:
-:EXPORT_FILE_NAME: First_test_file
-:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :mathjax true :ShowBreadCrumbs true
-:END:
-
-This is what you can do with calc
-{{{more}}}
-This is section 3.3  (and 3.4 below)
-
-**** Increasing / Decreasing Test
-
-- If $f'(x) > 0$ on an interval, then $f$ is increasing on that interval.
-- If $f'(x) < 0$ on an interval, then $f$ is decreasing on that interval.
-- If $f'(x) = 0$ on an interval, then $f$ is constant on that interval.
-
-
-**** Youtube test:
-There should be a video here
-{{{youtube(J2h_bCkhmwM)}}}
-
-
-**** Spoiler test:
-
-#+begin_spoiler
-You need to click to see this, my friend.
-#+end_spoiler
-
 * Discrete Structures - Math 321
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: math321
@@ -102,10 +48,7 @@ is this class and how does it work?"
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation
 :END:
-
-So... the projector wasn't working for the first fifteen-twenty minutes of the class, but it got fixed. I trimmed out the uncomfortable "this isn't working" part of the class.
-
-{{{youtube(XXDdNG0lnLk)}}}
+**to be posted**
 
 --------------
 
@@ -135,27 +78,13 @@ page and ask! I'll be quick to answer!
   your answers and check your understanding - please ask questions if
   you're unsure!
 - (optional): Practice additional exercises in the supplemental textbooks if you need/want: [[http://discrete.openmathbooks.org/dmoi3/][DMOI]] and [[http://faculty.uml.edu/klevasseur/ads/index-ads.html][Applied Discrete Structures]].
-
-**** Assessments this week
-:PROPERTIES:
-:CUSTOM_ID: assessments-this-week
-:END:
-- The weekly Checkpoint Quiz will be available Thursday - Sunday. It
-  assesses standards O1, O2, and O3.
-- *REMEMBER* ! [[https://discourse.math.wichita.edu/t/sample-checkpoint-1-and-solutions/1108][A sample checkpoint is available]]!
-  I highly recommend you practice it as you're studying to get some experience.
-- For more information about uploading, [[https://discourse.math.wichita.edu/t/uploading-weekly-checkpoints-to-nextcloud/1113][see here]].
-
-*An announcement will be posted on Blackboard with a link when it's
-available* !
-
 --------------
 
 *** 🎥 Thursday recitation
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation
 :END:
-{{{youtube(jtwVx9UCR4o)}}}
+**to be posted**
 
 
 ** Week 2
@@ -166,9 +95,6 @@ available* !
 
 Your todo list for the week
 {{{more}}}
-
-*** Solutions to checkpoint 1
-You can [[https://discourse.math.wichita.edu/t/checkpoint-1-solutions/1338][find the original checkpoint file and solutions on Discourse here]].  If you have any questions about it, you can post them there and we'll discuss it!
 
 *** Be on the lookout for checkpoints feedback!
 :PROPERTIES:
@@ -218,7 +144,7 @@ Ask it on Discourse, and let's get it answered!
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation-8
 :END:
-{{{youtube(ILZvEE3dc3g)}}}
+**to be posted**
 
 --------------
 
@@ -259,7 +185,7 @@ Ask it on Discourse, and let's get it answered!
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation-7
 :END:
-{{{youtube(kZQ8TMlJbRg)}}}
+**to be posted**
 
 ** Week 3
 :PROPERTIES:
@@ -270,10 +196,6 @@ Ask it on Discourse, and let's get it answered!
     Your todo list for the week
 {{{more}}}
 
-*** Checkpoint 2 Solutions
-[[https://nextcloud.math.wichita.edu/index.php/s/Pd2i2cf8mJWrFsq][here are solutions to the checkpoint]]
-
-and [[https://nextcloud.math.wichita.edu/index.php/s/jb4k66W2FzdS7gi][here is the original file]].
 *** Before class on Tuesday
 :PROPERTIES:
 :CUSTOM_ID: before-class-on-tuesday-9
@@ -310,7 +232,7 @@ Ask it on Discourse, and let's get it answered!
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation-9
 :END:
-{{{youtube(7tkvE9kmC1k)}}}
+**to be posted**
 
 --------------
 
@@ -351,7 +273,7 @@ Ask it on Discourse, and let's get it answered!
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation-8
 :END:
-{{{youtube(orsnj5MNvL0)}}}
+**to be posted**
 
 ** Week 4
 :PROPERTIES:
@@ -361,9 +283,6 @@ Ask it on Discourse, and let's get it answered!
 
 Your todo list for the week
 {{{more}}}
-
-*** Checkpoint 3 Solutions
-[[https://discourse.math.wichita.edu/t/checkpoint-3-solutions/1344][Here's a link to the solutions on Discourse (you need to login to see them)]]
 
 *** Before class on Tuesday
 :PROPERTIES:
@@ -401,7 +320,7 @@ Ask it on Discourse, and let's get it answered!
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation-10
 :END:
-{{{youtube(Wwn6IN82Jqw)}}}
+**to be posted**
 
 --------------
 
@@ -441,7 +360,7 @@ Ask it on Discourse, and let's get it answered!
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation-9
 :END:
-{{{youtube(PVgMzokHSB8)}}}
+**to be posted**
 
 ** Week 5
 :PROPERTIES:
@@ -452,10 +371,6 @@ Ask it on Discourse, and let's get it answered!
 Your todo list for the week
 {{{more}}}
 
-*** Solutions to checkpoint 4
-[[https://nextcloud.math.wichita.edu/index.php/s/2a4TYasH35ECjtC][Here's the original file]]
-
-[[https://nextcloud.math.wichita.edu/index.php/s/mdkkjGGt7R6kE5w][and here are the solutions.]]
 *** Before class on Tuesday
 :PROPERTIES:
 :CUSTOM_ID: before-class-on-tuesday-11
@@ -492,7 +407,7 @@ Ask it on Discourse, and let's get it answered!
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation-11
 :END:
-{{{youtube(INerZrgt1AA)}}}
+**to be posted**
 
 --------------
 
@@ -532,7 +447,7 @@ Ask it on Discourse, and let's get it answered!
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation-10
 :END:
-{{{youtube(osICGu2_j2M)}}}
+**to be posted**
 
 ** Week 6
 :PROPERTIES:
@@ -542,11 +457,6 @@ Ask it on Discourse, and let's get it answered!
 
 Your todo list for the week
 {{{more}}}
-
-*** Solutions to checkpoint 5
-[[https://nextcloud.math.wichita.edu/index.php/s/YEqHHKcCGHsKwG3][Here's the solutions.]]
-
-[[https://nextcloud.math.wichita.edu/index.php/s/aFXtNNd9Heb2tQC][Here's the original file]]
 
 *** Before class on Tuesday
 :PROPERTIES:
@@ -585,7 +495,7 @@ Ask it on Discourse, and let's get it answered!
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation-12
 :END:
-{{{youtube(zYH5QNNymTY)}}}
+**to be posted**
 
 --------------
 
@@ -625,7 +535,7 @@ Ask it on Discourse, and let's get it answered!
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation-11
 :END:
-{{{youtube(oRijFjqgyrU)}}}
+**to be posted**
 
 ** Week 7
 :PROPERTIES:
@@ -635,11 +545,6 @@ Ask it on Discourse, and let's get it answered!
 
 Your todo list for the week
 {{{more}}}
-
-*** Solutions to Checkpoint 6
-[[https://nextcloud.math.wichita.edu/index.php/s/Qn25teKK9Tpz8Ao][Here's the original checkpoint file]]
-
-[[https://nextcloud.math.wichita.edu/index.php/s/dK4ENbnsqGeWaMF][and here are the solutions]]
 
 *** Before class on Tuesday
 :PROPERTIES:
@@ -679,7 +584,7 @@ Ask it on Discourse, and let's get it answered!
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation-13
 :END:
-{{{youtube(uRzfjfPErJc)}}}
+**to be posted**
 
 --------------
 
@@ -719,7 +624,7 @@ Ask it on Discourse, and let's get it answered!
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation-12
 :END:
-{{{youtube(T0igEQ5GSA0)}}}
+**to be posted**
 
 ** Week 8
 :PROPERTIES:
@@ -730,10 +635,6 @@ Ask it on Discourse, and let's get it answered!
 Your todo list for the week
 {{{more}}}
 
-*** Solutions to checkpoint 7
-[[https://nextcloud.math.wichita.edu/index.php/s/R3yPfWN8PDrtax9][Here's the original file]]
-
-[[https://nextcloud.math.wichita.edu/index.php/s/EFiGpQFpbtPdBW8][here are the solutions]].
 *** Before class on Tuesday
 :PROPERTIES:
 :CUSTOM_ID: before-class-on-tuesday-14
@@ -770,7 +671,7 @@ Ask it on Discourse, and let's get it answered!
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation-14
 :END:
-{{{youtube(WQ_CrHKWzxA)}}}
+**to be posted**
 
 --------------
 
@@ -809,7 +710,7 @@ Ask it on Discourse, and let's get it answered!
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation-13
 :END:
-{{{youtube(_628TA7zxyA)}}}
+**to be posted**
 
 ** Week 9
 :PROPERTIES:
@@ -820,54 +721,8 @@ Ask it on Discourse, and let's get it answered!
 Your todo list for the week
 {{{more}}}
 
-*** Solutions to checkpoint 8
-[[https://nextcloud.math.wichita.edu/index.php/s/DyADtcnkLZ6ode6][original is here]]
 
-[[https://nextcloud.math.wichita.edu/index.php/s/iGLSo5PfD7fX3My][Solutions are here]]
-*** No class on Tuesday (Fall Break)
-:PROPERTIES:
-:CUSTOM_ID: no-class-on-tuesday-fall-break
-:END:
-
---------------
-
-*** Before Class on Thursday
-:PROPERTIES:
-:CUSTOM_ID: before-class-on-thursday-14
-:END:
-**** 📚 Readings / Videos
-:PROPERTIES:
-:CUSTOM_ID: readings-videos-13
-:END:
-[[https://www.math.wichita.edu/discrete-book/section-objects-seqseries.html][Sequences
-and Series]]
-
-**** 📝 Homework
-:PROPERTIES:
-:CUSTOM_ID: homework-25
-:END:
-- Required: Do all the exercises at the bottom of each section, check
-  your answers and check your understanding - please as questions if
-  you're unsure!
-- (optional): Practice additional exercises in the supplemental
-  textbooks if you need/want:
-  [[http://discrete.openmathbooks.org/dmoi3/][DMOI]] and
-  [[http://faculty.uml.edu/klevasseur/ads/index-ads.html][Applied
-  Discrete Structures]].
-
-**** Questions?
-:PROPERTIES:
-:CUSTOM_ID: questions-22
-:END:
-Ask it on Discourse, and let's get it answered!
-
---------------
-
-*** 🎥 Thursday recitation
-:PROPERTIES:
-:CUSTOM_ID: thursday-recitation-14
-:END:
-{{{youtube(G77lRJG7RHQ)}}}
+No Class this week. It's spring break!
 
 ** Week 10
 :PROPERTIES:
@@ -877,11 +732,6 @@ Ask it on Discourse, and let's get it answered!
 
 Your todo list for the week
 {{{more}}}
-*** Solutions to checkpoint 9
-[[https://nextcloud.math.wichita.edu/index.php/s/d3A95Lw6cApnkmA][Here is the original file]]
-
-[[https://nextcloud.math.wichita.edu/index.php/s/Dywb2PcNKP2CApy][and here are the solutions]].
-
 *** Before class on Tuesday
 :PROPERTIES:
 :CUSTOM_ID: before-class-on-tuesday-1
@@ -918,9 +768,8 @@ Ask it on Discourse, and let's get it answered!
 :CUSTOM_ID: tuesday-recitation-1
 :END:
 
-During class today the university network went out. Zoom went down and eventually came back. The interruption in the video is there, but I stitched the files together so class content is all together, complete with tech "oh noes!"
 
-{{{youtube(SlFMaMjMfNM)}}}
+**to be posted**
 
 --------------
 
@@ -960,7 +809,7 @@ Ask it on Discourse, and let's get it answered!
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation-1
 :END:
-{{{youtube(wV7tUt4uPqg)}}}
+**to be posted**
 
 ** Week 11
 :PROPERTIES:
@@ -971,10 +820,6 @@ Ask it on Discourse, and let's get it answered!
 Your todo list for the week
 {{{more}}}
 
-*** Solutions to checkpoint 10
-[[https://nextcloud.math.wichita.edu/index.php/s/KHcDyTryCQgqzHP][Here's the original file.]]
-
-[[https://nextcloud.math.wichita.edu/index.php/s/TtFsrXebbEEwRG2][and here are the solutions]].
 *** Before class on Tuesday
 :PROPERTIES:
 :CUSTOM_ID: before-class-on-tuesday-2
@@ -1012,7 +857,7 @@ Ask it on Discourse, and let's get it answered!
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation-2
 :END:
-{{{youtube(3uSc5SAeDcE)}}}
+**to be posted**
 
 --------------
 
@@ -1051,7 +896,7 @@ Ask it on Discourse, and let's get it answered!
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation-2
 :END:
-{{{youtube(vgiE5Cg97ls)}}}
+**to be posted**
 
 ** Week 12
 :PROPERTIES:
@@ -1061,11 +906,6 @@ Ask it on Discourse, and let's get it answered!
 
 Your todo list for the week
 {{{more}}}
-
-*** Solutions to checkpoint 11
-[[https://nextcloud.math.wichita.edu/index.php/s/aPpjYZrM44aFm5E][The original file is found here]].
-
-[[https://nextcloud.math.wichita.edu/index.php/s/ttwPQ8iKZCC49B8][The solutions are here]].
 
 *** Before class on Tuesday
 :PROPERTIES:
@@ -1103,7 +943,7 @@ Ask it on Discourse, and let's get it answered!
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation-3
 :END:
-{{{youtube(H6YXRp-67gY)}}}
+**to be posted**
 
 --------------
 
@@ -1145,12 +985,12 @@ Ask it on Discourse, and let's get it answered!
 
 **** A little complicated
 Here's the class video that I recorded live... but... a guy was outside with a boom lift that was beeping and he was hammering and caulking. I complain in this video a lot, and canceled class because I couldn't concentrate.
-{{{youtube(akV17B4L4ww)}}}
+**to be posted**
 
 as a result, I'm including my video from last Fall over this section that might be helpful.
 
 **** Here's my video from Fall 2021 (trimmed for the relevant parts)
-{{{youtube(XhK3A-yPKmw)}}}
+**to be posted**
 
 
 ** Week 13
@@ -1161,11 +1001,6 @@ as a result, I'm including my video from last Fall over this section that might 
 
 Your todo list for the week
 {{{more}}}
-
-*** solutions to checkpoint 12
-[[https://nextcloud.math.wichita.edu/index.php/s/QyAGeeCbbjcgGEt][The original file is here]]
-
-[[https://nextcloud.math.wichita.edu/index.php/s/iJZMScsDGyzKqaE][and solutions are here]]
 
 *** Before class on Tuesday
 :PROPERTIES:
@@ -1197,7 +1032,7 @@ Your todo list for the week
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation-4
 :END:
-{{{youtube(5YfrcH-diEc)}}}
+**to be posted**
 
 --------------
 
@@ -1230,7 +1065,7 @@ Your todo list for the week
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation-4
 :END:
-{{{youtube(HGjwJznvec8)}}}
+**to be posted**
 
 ** Week 14
 :PROPERTIES:
@@ -1240,11 +1075,6 @@ Your todo list for the week
 
 Your todo list for the week
 {{{more}}}
-
-*** Solutions to checkpoint 13
-[[https://nextcloud.math.wichita.edu/index.php/s/YErerDG45DPsTx7][Here's the original checkpoint]]
-
-[[https://nextcloud.math.wichita.edu/index.php/s/Y3fPwyjPci7oLNS][and here are the solutions]].
 
 *** Before class on Tuesday
 :PROPERTIES:
@@ -1259,7 +1089,7 @@ questions.
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation-5
 :END:
-{{{youtube(Z37KnqWMLt0)}}}
+**to be posted**
 
 --------------
 
@@ -1314,7 +1144,7 @@ Ask it on Discourse, and let's get it answered!
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation-6
 :END:
-{{{youtube(99ZX7TCDh9U)}}}
+**to be posted**
 
 --------------
 
@@ -1353,7 +1183,7 @@ Ask it on Discourse, and let's get it answered!
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation-5
 :END:
-{{{youtube(gQFAbIrQ0jU)}}}
+**to be posted**
 
 ** Week 16
 :PROPERTIES:
@@ -1363,11 +1193,6 @@ Ask it on Discourse, and let's get it answered!
 
 Your todo list for the week
 {{{more}}}
-
-*** Solutions to checkpoint 14
-[[https://nextcloud.math.wichita.edu/index.php/s/QYtKMgzQS2oyy7E][Original file is here]]
-
-[[https://nextcloud.math.wichita.edu/index.php/s/X3CwEpzcWHXocKy][and here are the solutions]]
 
 *** Before class on Tuesday
 :PROPERTIES:
@@ -1383,7 +1208,7 @@ are both fully comprehensive - every learning target is available.
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation-7
 :END:
-{{{youtube(WjF_XrvVZw0)}}}
+**to be posted**
 
 --------------
 
@@ -1400,7 +1225,7 @@ whole-semester review!
 :PROPERTIES:
 :CUSTOM_ID: thursday-recitation-6
 :END:
-{{{youtube(pRhCdBoY0WU)}}}
+**to be posted**
 
 * History - Math 300
 :PROPERTIES:

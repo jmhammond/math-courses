@@ -9,13 +9,6 @@ Your todo list for the week
 <!--more-->
 
 
-## Solutions to checkpoint 13 {#solutions-to-checkpoint-13}
-
-[Here's the original checkpoint](https://nextcloud.math.wichita.edu/index.php/s/YErerDG45DPsTx7)
-
-[and here are the solutions](https://nextcloud.math.wichita.edu/index.php/s/Y3fPwyjPci7oLNS).
-
-
 ## Before class on Tuesday {#before-class-on-tuesday-5}
 
 No new topics; continue discussing combinatorial proof and discussing
@@ -26,7 +19,7 @@ questions.
 
 ## 🎥 Tuesday recitation {#tuesday-recitation-5}
 
-{{< youtube id="Z37KnqWMLt0" >}}
+****to be posted****
 
 ---
 

@@ -39,7 +39,7 @@ Ask it on Discourse, and let's get it answered!
 
 ## 🎥 Tuesday recitation {#tuesday-recitation-6}
 
-{{< youtube id="99ZX7TCDh9U" >}}
+****to be posted****
 
 ---
 
@@ -73,4 +73,4 @@ Ask it on Discourse, and let's get it answered!
 
 ## 🎥 Thursday recitation {#thursday-recitation-5}
 
-{{< youtube id="gQFAbIrQ0jU" >}}
+****to be posted****

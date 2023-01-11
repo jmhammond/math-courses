@@ -9,13 +9,6 @@ Your todo list for the week
 <!--more-->
 
 
-## Solutions to checkpoint 11 {#solutions-to-checkpoint-11}
-
-[The original file is found here](https://nextcloud.math.wichita.edu/index.php/s/aPpjYZrM44aFm5E).
-
-[The solutions are here](https://nextcloud.math.wichita.edu/index.php/s/ttwPQ8iKZCC49B8).
-
-
 ## Before class on Tuesday {#before-class-on-tuesday-3}
 
 
@@ -46,7 +39,7 @@ Ask it on Discourse, and let's get it answered!
 
 ## 🎥 Tuesday recitation {#tuesday-recitation-3}
 
-{{< youtube id="H6YXRp-67gY" >}}
+****to be posted****
 
 ---
 
@@ -84,11 +77,11 @@ Ask it on Discourse, and let's get it answered!
 ### A little complicated {#a-little-complicated}
 
 Here's the class video that I recorded live... but... a guy was outside with a boom lift that was beeping and he was hammering and caulking. I complain in this video a lot, and canceled class because I couldn't concentrate.
-{{< youtube id="akV17B4L4ww" >}}
+****to be posted****
 
 as a result, I'm including my video from last Fall over this section that might be helpful.
 
 
 ### Here's my video from Fall 2021 (trimmed for the relevant parts) {#here-s-my-video-from-fall-2021--trimmed-for-the-relevant-parts}
 
-{{< youtube id="XhK3A-yPKmw" >}}
+****to be posted****
