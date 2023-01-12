@@ -18,7 +18,7 @@ Some curves are defined *implicitly* as equations. They're not necessarily funct
 
 The equation $x^2 + y^2 = 4$ defines a curve - a circle! 
 
-It consists of two *implicit$ functions $y = \sqrt{4-x^2}$ and $y = - \sqrt{4-x^2}$, the upper and lower arcs of the circle, respectively. 
+It consists of two *implicit* functions $y = \sqrt{4-x^2}$ and $y = - \sqrt{4-x^2}$, the upper and lower arcs of the circle, respectively. 
 
 # Implicit differentiate
 
