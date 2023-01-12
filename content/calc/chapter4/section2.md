@@ -130,3 +130,12 @@ Evaluate the following integrals by using properties above and interpreting the 
 1. $\displaystyle \int_{-4}^8 f(x)\, dx$
 
 {{< youtube UCaEC_YXW5Q >}}
+
+## Numerical Approximations of Integration:
+
+### Approximation Spreadsheet
+[Here's a link to the spreadsheet I will be using during class.](https://cloud.math.wichita.edu/s/GGDAwENKSzFQgr5)
+
+
+###NOAA Weather Data
+[Here's a link to NOAA Weather Data](https://www.nohrsc.noaa.gov/interactive/html/graph.html?station=WIFK1&w=600&h=400&o=a&uc=0&by=2022&bm=2&bd=16&bh=6&ey=2022&em=2&ed=18&eh=6&data=0&units=0&region=us) for the Little Arkansas River floodway (closest weather station I could find to Wichita State)
