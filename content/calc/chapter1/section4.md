@@ -1,34 +1,15 @@
 ---
 author: John Hammond
-title: Sections 1.1-1.4
-date: Fall 2022
-description: Some Review and What is Calculus
+title: Section 1.4
+description: What is calculus about?
 mathjax: true
 ShowBreadCrumbs: true
 showtoc: true
 tocopen: false
 ---
 
-Some Review and What is Calculus
+Section 1.4, What is Calculus all about?
 <!--more-->
-
-# Sections 1.1 - 1.3
-
-That sounds like a lot! These sections of Stewart's text a review of functions. You should be familiar with the basic concepts (what is a function, domain, range, increasing, decreasing, polynomials, trig functions, rational functions, +, - , *, /, and function composition). 
-
-Here's my expectation:
-
-0. You are already familiar with this.
-1. You will be assessed on this on the first checkpoint quiz. 
-2. You also want a refresher.
-
-Good! I have homework for sections 1.1 through 1.3 setup on WebAssign ready for you to attempt them at your pace (due Sunday at 11:59pm) 
-
-If you get at least 80% on the assignments without using help, great! You're ready.
-
-If you do need help, that's great, too. [Head over to the Functions Review section](calc/review) to watch some videos to help clear the cobwebs. 
-
-# What is Calculus all about?  (Section 1.4)
 
 ## The Tangent Problem
 

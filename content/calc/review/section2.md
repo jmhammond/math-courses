@@ -15,7 +15,7 @@ This first video discusses linear models and their associated linear functions.
 
 {{< youtube -tBDTWxXhPA >}}
 
-The next video discusses polynomial functions, which are some of the nicest functions (in my personal opinion @jmears). The domain of any polynomial function is **always** all real numbers.  
+The next video discusses polynomial functions, which are some of the nicest functions. The domain of any polynomial function is **always** all real numbers.  
  
 {{< youtube roCbaNnjfL0 >}}
 
