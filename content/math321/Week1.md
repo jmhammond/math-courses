@@ -17,9 +17,11 @@ is this class and how does it work?"
 ---
 
 
-## 🎥 Tuesday recitation {#tuesday-recitation}
+## 🎥 Tuesday recitation (Welcome / About This Class) {#tuesday-recitation}
 
-****to be posted****
+If you watched the video linked through the Blackboard announcement, you've already seen this.  This is an overview about the course, the book, blackboard, the grading system. [If you have questions, please let me know!](https://discourse.math.wichita.edu/t/questions-about-the-course-grading-system-anything/1361) (link is over to Discourse; remember you have to login to view it).
+
+{{< youtube id="aFqMsrm98vY" >}}
 
 ---
 
