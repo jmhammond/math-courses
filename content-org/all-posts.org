@@ -48,7 +48,8 @@ is this class and how does it work?"
 :PROPERTIES:
 :CUSTOM_ID: tuesday-recitation
 :END:
-If you watched the video linked through the Blackboard announcement, you've already seen this.  This is an overview about the course, the book, blackboard, the grading system. If you have questions, please let me know!
+If you watched the video linked through the Blackboard announcement, you've already seen this.  This is an overview about the course, the book, blackboard, the grading system. [[https://discourse.math.wichita.edu/t/questions-about-the-course-grading-system-anything/1361][If you have questions, please let me know!]] (link is over to Discourse; remember you have to login to view it).
+
 
 {{{youtube(aFqMsrm98vY)}}}
 
