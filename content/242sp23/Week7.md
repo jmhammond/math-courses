@@ -15,19 +15,17 @@ Your class content for the week
 ## 📅 Before class on Monday
 
 Read / watch before class:
-- [Section 3.4](/calc/chapter3/section4)
+- [Section 3.3](/calc/chapter3/section3)
 
 Do: 
 - Practice homework on WebAssign
 
 ---
 
-## 📅 Before class on Tuesday
-
-We'll spend time on 3.4 and 3.5 today. 
+## 📅 Before class on Tueday
 
 Read / watch before class:
-- [Section 3.5](/calc/chapter3/section5)
+- [Section 3.4](/calc/chapter3/section4)
 
 Do: 
 - Practice homework on WebAssign
@@ -36,7 +34,8 @@ Do:
 
 ## 📅 Before class on Wednesday
 
-We'll spend more time on 3.5 today.
+Read / watch before class:
+- [Section 3.5](/calc/chapter3/section5)
 
 Do: 
 - Practice homework on WebAssign
@@ -47,3 +46,4 @@ Do:
 
 Today is a topics/workday. Bring questions from anything that's come up this week. We'll practice all the sections.
 
+-->

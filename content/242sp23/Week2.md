@@ -15,7 +15,8 @@ Your class content for the week
 ## 📅 Before class on Monday
 
 Read / watch before class:
-- [Section 1.5](/calc/chapter1/section5)
+- [Representing a function](/calc/review/section1)
+- [Essential functions](/calc/review/section2)
 
 Do: 
 - Practice homework on WebAssign
@@ -25,7 +26,8 @@ Do:
 ## 📅 Before class on Tuesday
 
 Read / watch before class:
-- [Section 1.6](/calc/chapter1/section6)
+- [Essential functions](/calc/review/section2)
+- [New functions from old](/calc/review/section3)
 
 Do: 
 - Practice homework on WebAssign
@@ -35,7 +37,7 @@ Do:
 ## 📅 Before class on Wednesday
 
 Read / watch before class:
-- [Section 1.7](/calc/chapter1/section7)
+- [What is calculus about?](/calc/chapter1/section4)
 
 Do: 
 - Practice homework on WebAssign
@@ -45,8 +47,18 @@ Do:
 ## 📅 Before class on Thursday
 
 Read / watch before class:
-- [Section 1.8](/calc/chapter1/section8)
+- [Section 1.5](/calc/chapter1/section5)
 
 Do: 
 - Practice homework on WebAssign
+
+<!-- 
+
+
+---
+
+
+
+
+-->
 

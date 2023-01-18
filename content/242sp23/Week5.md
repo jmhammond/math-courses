@@ -12,10 +12,11 @@ Your class content for the week
 
 **will be posted soon**
 
+
 ## 📅 Before class on Monday
 
 Read / watch before class:
-- [Section 2.8](/calc/chapter2/section8)
+- [Section 2.5](/calc/chapter2/section5)
 
 Do: 
 - Practice homework on WebAssign
@@ -25,7 +26,7 @@ Do:
 ## 📅 Before class on Tuesday
 
 Read / watch before class:
-- [Section 2.9](/calc/chapter2/section9)
+- [Section 2.6](/calc/chapter2/section6)
 
 Do: 
 - Practice homework on WebAssign
@@ -35,7 +36,7 @@ Do:
 ## 📅 Before class on Wednesday
 
 Read / watch before class:
-- [Section 3.1](/calc/chapter3/section1)
+- [Section 2.8](/calc/chapter2/section8)
 
 Do: 
 - Practice homework on WebAssign
@@ -46,3 +47,11 @@ Do:
 
 Today is a topics/workday. Bring questions from anything that's come up this week. We'll practice all the sections.
 
+<!--
+
+
+
+
+
+
+-->
