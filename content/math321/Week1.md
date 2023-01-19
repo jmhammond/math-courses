@@ -55,4 +55,4 @@ page and ask! I'll be quick to answer!
 
 ## 🎥 Thursday recitation {#thursday-recitation}
 
-****to be posted****
+{{< youtube id="mRtrd-OZiEg" >}}
