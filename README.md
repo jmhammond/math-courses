@@ -1,4 +1,4 @@
-# Hammond's Math Classes
+# Hammond's Math Classes 
 
 This is a Hugo static site for my class pre-class content. Starting with trig class.
 
@@ -10,7 +10,7 @@ This will also serve as a base for any other hugo projects I explore for my clas
 - `ox-hugo` to generate posts from `org-mode` 
   - Posts written in `./content-org/all-posts.org`; 
   - content is exported via org
-  - the generated markdown files (and org source) are versioned to Github 
+  - the generated markdown files (and org source) are versioned to Github. 
   - Github Actions CI/CD deploys the hugo (markdown) blog to Github pages.
 - 🐿
 
@@ -20,5 +20,5 @@ I'm using the [PaperMod theme](https://github.com/adityatelange/hugo-PaperMod). 
 
 
 
-
 ![Creative Commons - Share Alike License Logo](https://i.creativecommons.org/l/by-sa/4.0/88x31.png) These notes are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+
