@@ -20,6 +20,13 @@ learning target columns on Blackboard's gradebook.
 ---
 
 
+## Checkpoint 1 solutions {#checkpoint-1-solutions}
+
+[Here is the original file](https://nextcloud.math.wichita.edu/index.php/s/nbTNeedxHfxqCXA)
+
+[and here are the solutions.](https://nextcloud.math.wichita.edu/index.php/s/kwN3Nz664zBsSeR)
+
+
 ## Before class on Tuesday {#before-class-on-tuesday-8}
 
 

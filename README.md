@@ -1,6 +1,6 @@
 # Hammond's Math Classes 
 
-This is a Hugo static site for my class pre-class content. Starting with trig class.
+This is a Hugo static site for my class pre-class content. 
 
 This will also serve as a base for any other hugo projects I explore for my classes. I'm currently using: 
 - MathJax 3

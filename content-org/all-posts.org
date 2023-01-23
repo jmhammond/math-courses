@@ -111,6 +111,11 @@ learning target columns on Blackboard's gradebook.
 
 --------------
 
+*** Checkpoint 1 solutions
+[[https://nextcloud.math.wichita.edu/index.php/s/nbTNeedxHfxqCXA][Here is the original file]]
+
+[[https://nextcloud.math.wichita.edu/index.php/s/kwN3Nz664zBsSeR][and here are the solutions.]]
+
 *** Before class on Tuesday
 :PROPERTIES:
 :CUSTOM_ID: before-class-on-tuesday-8
