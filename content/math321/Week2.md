@@ -92,4 +92,4 @@ Ask it on Discourse, and let's get it answered!
 
 ## 🎥 Thursday recitation {#thursday-recitation-7}
 
-****to be posted****
+{{< youtube id="FmvYaC54B3Q" >}}
