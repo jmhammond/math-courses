@@ -7,7 +7,11 @@ ShowBreadCrumbs = true
 
 Your todo list for the week
 <!--more-->
+## Checkpoint 2 solutions {#checkpoint-1-solutions}
 
+[Here is the original file](https://nextcloud.math.wichita.edu/index.php/s/y4G4PGmCnsFZqpZ)
+
+[and here are the solutions.](https://nextcloud.math.wichita.edu/index.php/s/yntG9EY7DfizYMG)
 
 ## Before class on Tuesday {#before-class-on-tuesday-9}
 
