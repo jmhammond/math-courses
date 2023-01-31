@@ -1,5 +1,5 @@
 +++
-title = "Some Non-traditional Grading Methods"
+title = "Non-traditional Grading: Mastery-based testing"
 author = ["John Hammond"]
 tags = ["hugo"]
 draft = false
