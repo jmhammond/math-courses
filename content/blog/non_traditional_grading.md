@@ -19,7 +19,7 @@ I haven't gotten that question in a couple years, and it's been wonderful.  How?
 
 Let's start off with a motivating example to get you thinking about this.  Consider this example, solving a linear equation: 
 
-$$\begin{align*} 2x + 3 &= 7 \\ 2x &= 2 \\ x &= 1 \end{align*}$$
+$$\begin{align*} 2x + 3 &= 7 \\\\ 2x &= 2 \\\\ x &= 1 \end{align*}$$
 
 Let's pretend that this question is worth 10 points.  How many points will you give? 
 

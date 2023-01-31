@@ -24,15 +24,10 @@ hidemeta = true
 
   [params.profileMode]
   enabled = true
-  subtitle = "Select your course below:"
 
     [[params.profileMode.buttons]]
-    name = "Math 300: Evolution of Math"
-    url = "/math300"
-
-    [[params.profileMode.buttons]]
-    name = "Math 123: Trig"
-    url = "/trig"
+    name = "Blog Posts"
+    url = "/blog"
 
     [[params.profileMode.buttons]]
     name = "Math 242: Calc 1"
@@ -41,7 +36,3 @@ hidemeta = true
     [[params.profileMode.buttons]]
     name = "Math 321: Discrete 1"
     url = "http://www.wichita.edu/discretebook"
-
-    [[params.profileMode.buttons]]
-    name = "Math 531: History"
-    url = "/history"

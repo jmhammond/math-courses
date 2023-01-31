@@ -5,8 +5,7 @@ draft = false
 ShowBreadCrumbs = true
 +++
 
-I ramble about grading, teaching, and/or tech.
+In which I ramble about grading, teaching, and/or tech.
 
 <!--more-->
 
-... I'll update it eventually.
