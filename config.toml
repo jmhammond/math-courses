@@ -1,6 +1,6 @@
 baseURL = "http://jmhammond.github.io"
 languageCode = "en-us"
-title = "Hammond's Course Notes"
+title = "Hammond's Notes"
 theme = "PaperMod"
 
 [markup]
@@ -18,7 +18,7 @@ hidemeta = true
   theme_color = "#ffc217"
 
   [params.label]
-  text = "Course Notes"
+  text = "Some Notes"
   icon = "/wsu-logo.png"
   iconHeight = 48.0
 
