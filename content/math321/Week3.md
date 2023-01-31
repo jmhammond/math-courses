@@ -43,7 +43,7 @@ Ask it on Discourse, and let's get it answered!
 
 ## 🎥 Tuesday recitation {#tuesday-recitation-9}
 
-****to be posted****
+{{< youtube id="zDzw9G5N6V4" >}}
 
 ---
 
