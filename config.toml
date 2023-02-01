@@ -18,7 +18,7 @@ hidemeta = true
   theme_color = "#ffc217"
 
   [params.label]
-  text = "Some Notes"
+  text = "Hammond's Notes"
   icon = "/wsu-logo.png"
   iconHeight = 48.0
 
