@@ -1,7 +1,7 @@
 +++
 title = "Non-traditional Grading: Mastery-based testing"
 author = ["John Hammond"]
-tags = ["hugo"]
+tags = ["teaching", "grading"]
 draft = false
 mathjax = true
 ShowCodeCopyButtons = true
