@@ -28,6 +28,10 @@ hidemeta = true
     [[params.profileMode.buttons]]
     name = "Blog Posts"
     url = "/blog"
+    
+    [[params.profileMode.buttons]]
+    name = "Math Teaching Seminar"
+    url = "/teaching_seminar"
 
     [[params.profileMode.buttons]]
     name = "Math 242: Calc 1"
