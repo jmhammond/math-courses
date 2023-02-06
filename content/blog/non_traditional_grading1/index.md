@@ -68,19 +68,19 @@ I write new questions for the learning targets that will be assessed in the week
 
 Here's a specific student example from my discrete mathematics class. The question looks like this: 
 
-![](/grading-post/LT_N3.png)
+{{< img src="CP7_LT_N3.png" >}}
 
 The student's work on checkpoint number 7 looks like this: 
-![](/grading-post/cp7.png)
+{{< img src="cp7.png" >}}
 
 They were totally wrong, but they had good structure.  The next week, here is their work:
-![](/grading-post/cp8.png)
+{{< img src="cp8.png" >}}
 
 Here some of it is good, but it's wrong in new ways. Next week, they present this solution:
-![](/grading-post/cp9.png)
+{{< img src="cp9.png" >}}
 
 ... this is so close!  And then the next week:
-![](/grading-post/cp10.png)
+{{< img src="cp10.png" >}}
 
 Great job, student! You got it!
 

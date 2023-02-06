@@ -61,7 +61,7 @@ Since ungrading, I just give the students the framework that "these are my basic
 I've had several phenominal presentations. Here's some samples aren't "favorites" so much as just really unique that stand out when I'm typing this:
 - A student created a sextant and used it to calculate his position when he was on a dark field at night in rural Kansas.  (His handmade creation of cardboard and string was obviously inaccurate, but it was closer than you'd expect!)
 - In a related topic, another student gave a history navigation but told as a voiceover while he was playing *Sea of Thieves*
-   ![](/grading-post/ColtonMTAproject.png)
+{{<img src="ColtonMTAproject.png">}}
 - Another student dug into the history of probability as a means to get ahead in games of chance, discovered a method of card counting and gave a presentation on these topics.  She also practiced the method and reported that she won money at a local casino the weekend before her presentation. 
 - ... there's so many more. I just love this class.
 
