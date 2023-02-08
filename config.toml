@@ -13,7 +13,7 @@ hideFooter = true
 defaultTheme = "auto"
 disableSpecial1stPost = true
 hidemeta = true
-
+  
   [params.assets]
   theme_color = "#ffc217"
 

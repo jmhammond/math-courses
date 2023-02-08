@@ -101,8 +101,7 @@ Here are some of the many papers discussing the Plimpton 322 tablet:
     [Link to the PDF](/history/Dunham1991.pdf)
 
 ## Fermat's Last Theorem Resources
-- [The BBC Horizon Documentary on Fermat's Last Theorem](https://www.dailymotion.com/video/x3wrbsb) (the link is dailymotion; it hasn't been taken down yet...)
-  ![Photo of Andrew Wiles](/history/WilesPhoto.png) [^1] [^1]: Photo from [this article](https://www.ams.org/publications/journals/notices/201703/rnoti-p209.pdf)
+
  
 - Simon Singh has an excellent book on the story called Fermat's Enigma. It's available at the library.  (Singh is a very easy-to-read popular science author).
 
