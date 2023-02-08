@@ -21,6 +21,8 @@ hidemeta = true
   text = "Hammond's Notes"
   icon = "/wsu-logo.png"
   iconHeight = 48.0
+  favicon = "/favicon.ico"
+  favicon-32x32 = "/favicon-32x32.png"
 
   [params.profileMode]
   enabled = true
