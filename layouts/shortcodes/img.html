@@ -1,3 +1,5 @@
+{{/*  This renders images in a lightbox if they are Hugo page resources (in a folder's post and the post is the index.md file of the folder)  */}}
+
 {{/* get file that matches the filename as specified as src="" in shortcode */}}
 {{ $src := .Page.Resources.GetMatch (printf "*%s*" (.Get "src")) }}
 
@@ -11,9 +13,13 @@
   href="{{ $src.RelPermalink }}"
 {{ with .Get "target" }} target="{{ . }}"{{ end }}
 {{ with .Get "rel" }} rel="{{ . }}"{{ end }}>
-<img 
-  {{ $tiny := $src.Resize "500x"}}
-  src="{{ $tiny.RelPermalink }}" 
+<img
+  {{ if (lt 640 $src.Width) }}
+    {{ $smaller := $src.Resize "640x"}}
+    src="{{ $smaller.RelPermalink }}" 
+  {{ else }}
+    src="{{ $src.RelPermalink }}" 
+  {{ end }}
   {{ with .Get "alt" }}alt="{{.}}"{{ else }}alt=""{{ end }}>
 </a>
   </center>
