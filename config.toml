@@ -1,4 +1,4 @@
-baseURL = "http://jmhammond.github.io"
+baseURL = "https://jmhammond.github.io"
 languageCode = "en-us"
 title = "Hammond's Notes"
 theme = "PaperMod"
