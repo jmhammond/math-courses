@@ -3,7 +3,6 @@
 {{/* get file that matches the filename as specified as src="" in shortcode */}}
 {{ $src := .Page.Resources.GetMatch (printf "*%s*" (.Get "src")) }}
 
-<center> 
   <a
 {{ if .Get "lightbox" }}
   data-lightbox="{{ .Get "lightbox" | markdownify | plainify }}"
@@ -13,7 +12,7 @@
   href="{{ $src.RelPermalink }}"
 {{ with .Get "target" }} target="{{ . }}"{{ end }}
 {{ with .Get "rel" }} rel="{{ . }}"{{ end }}>
-<img
+<img style="display: block;margin-left: auto;margin-right: auto;"
   {{ if (lt 640 $src.Width) }}
     {{ $smaller := $src.Resize "640x"}}
     src="{{ $smaller.RelPermalink }}" 
@@ -22,4 +21,3 @@
   {{ end }}
   {{ with .Get "alt" }}alt="{{.}}"{{ else }}alt=""{{ end }}>
 </a>
-  </center>
