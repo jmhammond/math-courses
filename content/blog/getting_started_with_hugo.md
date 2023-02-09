@@ -51,7 +51,7 @@ There's really three things that need to happen to use Mathjax on a page:
     ```
 
 2.  and then in the `site-name/layouts/extend_head.html` file, add the following:
-    ```nil
+    ```go
        {{ if .Params.mathjax }}{{ partial "mathjax_support.html" . }}{{ end }}
     ```
     The conditional means that mathjax won't load on every page (since it does add overhead). It will only be on pages that request it.
