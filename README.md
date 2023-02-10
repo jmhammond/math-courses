@@ -1,17 +1,14 @@
-# Hammond's Math Classes 
+# Hammond's Notes
 
-This is a Hugo static site for my class pre-class content. 
+This is a Hugo static site for my class pre-class content and blog posts. 
 
 This will also serve as a base for any other hugo projects I explore for my classes. I'm currently using: 
 - MathJax 3
-- Support {{% spoiler %}} tags for hiding answers to questions
-- Embedding youtube videos via the {{% youtube %}} shortcode
+- Support {{< spoiler >}} tags for hiding answers to questions
+- Embedding youtube videos via the {{< youtube >}} shortcode
 - Includes WSU default fonts, colors, and logos. 
-- `ox-hugo` to generate posts from `org-mode` 
-  - Posts written in `./content-org/all-posts.org`; 
-  - content is exported via org
-  - the generated markdown files (and org source) are versioned to Github. 
-  - Github Actions CI/CD deploys the hugo (markdown) blog to Github pages.
+- the markdown files are versioned to Github. 
+- Github Actions CI/CD deploys the hugo (markdown) blog to Github pages.
 - 🐿
 
 

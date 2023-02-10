@@ -15,7 +15,7 @@ So I added `lightbox2` javascript library, I used Hugo's automatic generation of
 
 So I shared this with my calc class today, letting them know about the changes and how I hope it's a better user experience. I then asked, "is there anything about the site that is interfering with your learning?" 
 
-"Yes! The videos don't allow me to load them in full screen." 
+"Yes! The videos don't allow me to load them in full screen."  😲
 
 ... but it worked on my iPad in the classroom, and it worked on my laptop. But other students said the same thing. Everyone was using a chromium-based browser, so I said I'd install Chrome and test it out.  
 
@@ -39,10 +39,10 @@ What you see there is a page that is *wildly unoptimized* for mobile. It is awfu
 
 The offending code used fixed dimensions that I hacked together because Blackboard is terrible, and this allowed it to look good on my laptop: 
 ```html
-<iframe width="1024" height="1200"   ...etc... >
+<iframe width="1024" height="1200"   ... >
 ```
 
-I just needed to change the width to `100%` and earlier I'd add `allowfullscreen`, and now I've solved both problems. Blackboard is appropriately responsive:
+I just needed to change the width to `100%` and earlier I'd added `allowfullscreen`, and now I've solved both problems. Blackboard is appropriately responsive:
 
 {{<img src="100-percent-width.PNG" alt="appropriate, responsive display" style="height:480px">}}
 
@@ -50,6 +50,6 @@ and everything renders nicely!
 
 --- 
 
-And a bonus was that in exploring this, I found the default Hugo youtube shortcode had additional calls to Youtube to fetch information about the video that I didn't need, so I've created my own shortcode that loads everything using the `www.youtube-nocookie.com` url for privacy and appends the `?rel=0` parameter that seems to (miraculously!?) be working again.  
+And a bonus was that in exploring this, I found the default Hugo youtube shortcode had additional calls to Youtube to fetch information about the video that I didn't need, so [I've created my own shortcode](https://github.com/jmhammond/math-courses/blob/main/layouts/shortcodes/youtube.html) that loads everything using the `www.youtube-nocookie.com` url for privacy and appends the `?rel=0` parameter that seems to (miraculously!?) be working again.  
 
 I'm happy with how everything is working and behaving. Removing extra calls means the quickly loading pages is even faster. This is a win for everyone!
