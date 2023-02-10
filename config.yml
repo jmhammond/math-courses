@@ -1,0 +1,53 @@
+baseURL: 'https://jmhammond.github.io'
+languageCode: en-us
+title: Hammond's Notes
+theme: PaperMod
+enableRobotsTXT: true
+menu:
+    main:
+        - name: Search
+          url: search/
+          weight: 10
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # for search
+params:
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 4
+    keys: ["title", "permalink", "summary", "content"]
+
+params:
+  hideFooter: true
+  defaultTheme: auto
+  disableSpecial1stPost: true
+  hidemeta: true
+  assets:
+    theme_color: '#ffc217'
+  label:
+    text: Hammond's Notes
+    icon: /wsu-logo.png
+    iconHeight: 48
+    favicon: /favicon.ico
+    favicon-32x32: /favicon-32x32.png
+  profileMode:
+    enabled: true
+    buttons:
+      - name: Blog Posts
+        url: /blog
+      - name: Math Teaching Seminar
+        url: /teaching_seminar
+      - name: 'Math 242: Calc 1'
+        url: /calc
+      - name: 'Math 321: Discrete 1'
+        url: 'http://www.wichita.edu/discretebook'
