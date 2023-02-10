@@ -33,7 +33,7 @@ The a-ha moment is that if an `iframe` is inside another `iframe`, the outer fra
 
 But I wasn't done there. Since the students are accessing Blackboard on their phones, I realized that I'd never done that.  I've only tested my content outside blackboard. So I installed the Blackboard Learn app, log in, open my course, and find this:
 
-{{<img src="1024px-width.PNG" alt="phone screen showing really width left/right scrolling" style="height:480px">}}
+{{<img src="1024px-width.PNG" alt="phone screen showing really width left/right scrolling" class="tall-image">}}
 
 What you see there is a page that is *wildly unoptimized* for mobile. It is awful, and students have to scroll left/right just to read anything on that page.  And I've been recycling this same iframe code over the last three semesters. No one told me it looked like garbage! 
 
@@ -44,7 +44,7 @@ The offending code used fixed dimensions that I hacked together because Blackboa
 
 I just needed to change the width to `100%` and earlier I'd added `allowfullscreen`, and now I've solved both problems. Blackboard is appropriately responsive:
 
-{{<img src="100-percent-width.PNG" alt="appropriate, responsive display" style="height:480px">}}
+{{<img src="100-percent-width.PNG" alt="appropriate, responsive display" class="tall-image">}}
 
 and everything renders nicely! 
 

@@ -5,16 +5,18 @@
 
   <a
 {{ if .Get "lightbox" }}
-  data-lightbox="{{ .Get "lightbox" | markdownify | plainify }}"
+  data-lightbox='{{ .Get "lightbox" | markdownify | plainify }}'
 {{ else }}
   data-lightbox="image-{{ $src }}"
 {{ end }}
   href="{{ $src.RelPermalink }}"
 {{ with .Get "target" }} target="{{ . }}"{{ end }}
 {{ with .Get "rel" }} rel="{{ . }}"{{ end }}>
-<img style="display: block;margin-left: auto;margin-right: auto; {{ with .Get "style" }} {{ . }} {{ end }}"
+<img 
+  {{ with .Get "class" }} class='{{ . }}' {{ end }}
+  style="display: block;margin-left: auto;margin-right: auto;"
   {{ if (lt 640 $src.Width) }}
-    {{ $smaller := $src.Resize "640x"}}
+    {{ $smaller := $src.Resize "640x" }}
     src="{{ $smaller.RelPermalink }}" 
   {{ else }}
     src="{{ $src.RelPermalink }}" 

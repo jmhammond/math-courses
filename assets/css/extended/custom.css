@@ -112,7 +112,12 @@ aside > p {
   weight: bold;
 }
 
-
+.tall-image {
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
+    height: 480px;
+}
 /* copy pasted from WSU*/
 
 /*
