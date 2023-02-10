@@ -7,9 +7,7 @@ ShowCodeCopyButtons = true
 ShowBreadCrumbs = true
 +++
 
-I've spent the last week trying to improve my site's presentation of material for my calculus students.  What really irked me was how unprofessional my images looked when I'd go in the classroom and see my site rendered on their phones.
-
-They weren't responsive.
+I've spent the last week trying to improve my site's presentation of material for my calculus students.  What really irked me was how unprofessional my non-responsive images looked when I'd go in the classroom and see my site rendered on their phones.
 
 So I added `lightbox2` javascript library, I used Hugo's automatic generation of smaller images (for faster load times), and changed the positioning CSS.  I felt really proud because it looked great on the laptop (Safari and Firefox) and on mobile. Hooray!
 
@@ -28,6 +26,8 @@ I've been accessing the page via `jmhammond.github.io`, whereas my students are 
 The a-ha moment is that if an `iframe` is inside another `iframe`, the outer frame *must* have the `allowfullscreen` property enabled for full screen to work.  So I fixed it and now they can do full screen: 
 
 {{<img src="yes-fullscreen.png" alt="fullscreen is now available">}}
+
+The lesson: ask your students if there's any technological sticking points that interfere with their learning. You might be surprised what you missed!
 
 ---
 

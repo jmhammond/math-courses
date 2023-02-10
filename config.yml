@@ -3,12 +3,13 @@ languageCode: en-us
 title: Hammond's Notes
 theme: PaperMod
 enableRobotsTXT: true
+
 Author:   #for the RSS feed in papermod.
   name: "John Hammond"
   email: "jmhammond@gmail.com"
 menu:
     main:
-        - name: Search
+        - name: 🔎 Search
           url: search/
           weight: 10
 markup:
@@ -21,6 +22,7 @@ outputs:
     - RSS
     - JSON # for search
 params:
+  env: production
   fuseOpts:
     isCaseSensitive: false
     shouldSort: true
@@ -38,8 +40,8 @@ params:
     theme_color: '#ffc217'
   label:
     text: Hammond's Notes
-    icon: /wsu-logo.png
-    iconHeight: 48
+    icon: /SquirrelIcon.png
+    iconHeight: 24
     favicon: /favicon.ico
     favicon-32x32: /favicon-32x32.png
   profileMode:
