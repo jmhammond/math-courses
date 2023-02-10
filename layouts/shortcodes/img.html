@@ -12,7 +12,7 @@
   href="{{ $src.RelPermalink }}"
 {{ with .Get "target" }} target="{{ . }}"{{ end }}
 {{ with .Get "rel" }} rel="{{ . }}"{{ end }}>
-<img style="display: block;margin-left: auto;margin-right: auto;"
+<img style="display: block;margin-left: auto;margin-right: auto; {{ with .Get "style" }} {{ . }} {{ end }}"
   {{ if (lt 640 $src.Width) }}
     {{ $smaller := $src.Resize "640x"}}
     src="{{ $smaller.RelPermalink }}" 
