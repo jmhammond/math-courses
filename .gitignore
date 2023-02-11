@@ -2,6 +2,10 @@
 *.log
 tmp/
 *.lock
+
+## node 
+/node_modules
+
 ### Emacs ###
 # generates by emacs
 /static/ltximg
