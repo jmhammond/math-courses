@@ -1,12 +1,12 @@
 ---
 author: John Hammond
 title: Chapter 3
-description: Basics of Differentiation
+description: Applications of Differentiation
 mathjax: false
 ShowBreadCrumbs: true
 ---
 
-In which we learn about derivatives.
+In which we learn to apply derivatives.
 <!--more-->
 
 
