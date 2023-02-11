@@ -1,9 +1,10 @@
 +++
 title = "Getting started with Hugo for course content."
-author = ["John Hammond"]
 tags = ["hugo"]
 draft = false
 mathjax = true
+hideMeta = false
+date = 2022-08-05
 ShowCodeCopyButtons = true
 ShowBreadCrumbs = true
 +++

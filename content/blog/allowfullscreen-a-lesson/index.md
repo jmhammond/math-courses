@@ -1,11 +1,15 @@
-+++
-title = "Allowfullscreen: A lesson learned about asking students"
-author = ["John Hammond"]
-tags = ["teaching", "design", "udl"]
-draft = false
-ShowCodeCopyButtons = true
-ShowBreadCrumbs = true
-+++
+---
+title: 'Allowfullscreen: A lesson learned about asking students'
+tags:
+  - teaching
+  - design
+  - udl
+date: 2023-02-09
+draft: false
+hideMeta: false
+ShowCodeCopyButtons: true
+ShowBreadCrumbs: true
+---
 
 I've spent the last week trying to improve my site's presentation of material for my calculus students.  What really irked me was how unprofessional my non-responsive images looked when I'd go in the classroom and see my site rendered on their phones.
 

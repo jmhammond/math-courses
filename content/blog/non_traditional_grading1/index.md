@@ -1,9 +1,10 @@
 +++
 title = "Non-traditional Grading: Mastery-based grading"
-author = ["John Hammond"]
 tags = ["teaching", "grading"]
+date = 2023-01-31
 draft = false
 mathjax = true
+hideMeta = false
 ShowCodeCopyButtons = true
 ShowBreadCrumbs = true
 +++

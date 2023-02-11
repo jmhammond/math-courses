@@ -1,9 +1,10 @@
 +++
 title = "Non-traditional Grading: Ungrading"
-author = ["John Hammond"]
 tags = ["teaching", "grading"]
 draft = false
 mathjax = true
+hideMeta = false
+date = 2023-02-01
 ShowCodeCopyButtons = true
 ShowBreadCrumbs = true
 +++

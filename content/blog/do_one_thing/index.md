@@ -1,11 +1,15 @@
-+++
-title = "Try One Thing"
-author = ["John Hammond"]
-tags = ["teaching"]
-draft = true
-ShowCodeCopyButtons = true
-ShowBreadCrumbs = true
-+++
+---
+title: "Try One Thing"
+tags:
+  - teaching
+  - design
+  - udl
+date: 2023-02-11
+draft: true
+hideMeta: false
+ShowCodeCopyButtons: true
+ShowBreadCrumbs: true
+---
 
 Try one thing
 
