@@ -8,8 +8,14 @@ ShowBreadCrumbs = true
 Your todo list for the week
 <!--more-->
 
+## Solutions to Checkpoint 4
+
+[Here's the original file](https://nextcloud.math.wichita.edu/index.php/s/fMWk96PnPg8NxiT)
+
+[Here are the solutions](https://nextcloud.math.wichita.edu/index.php/s/CSrSGRHXYf5ckin)
 
 ## Before class on Tuesday {#before-class-on-tuesday-11}
+
 
 
 ### 📚 Read / Watch {#read-watch-8}

@@ -10,8 +10,9 @@ Your class content for the week
 
 ## 📖 Solutions to Checkpoint 4
 
-**will be posted soon**
+[Here's the original file](https://nextcloud.math.wichita.edu/index.php/s/6XRn7D9Dc8AmAnB)
 
+[Here are the solutions](https://nextcloud.math.wichita.edu/index.php/s/fTsRiZmnqC8KnkK)
 
 ## 📅 Before class on Monday
 
