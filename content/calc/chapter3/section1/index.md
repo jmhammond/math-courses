@@ -75,7 +75,7 @@ There can be more than one local extreme value.
 
 ### Some examples
 
-Here's an example graph showing a function which has multiple local minimum values: one at $x=4$ with output value 5, one at $x=12$ with output value 3$. 
+Here's an example graph showing a function which has multiple local minimum values: one at $x=4$ with output value 5, one at $x=12$ with output value 3. 
 It has one local maximum at $x=8$ with output value $x=6$. 
 It has no absolute maximum, but it does have an absolute minimum at $x=12$ with minimum value $3$.
 {{< img src="3.1.localmaxmin.png" alt="">}}

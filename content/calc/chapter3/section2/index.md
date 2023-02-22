@@ -12,7 +12,7 @@ Section 3.2, The Mean Value Theorem
 
 In this section we're going to explore the concept of a location where a function attains *the **average*** or or *mean value*. 
 
-It's not mean :angry: , but mean :abacus:.
+It's not mean 😡 , but mean 🧮.
 
 We'll start with Rolle's theorem that tells us if something went up and came back down, there had to be a time when its derivative is 0. 
 
@@ -82,7 +82,8 @@ Suppose that we know that $f(x)$ is continuous and differentiable on the interva
 
 You enter the I35 turnpike at 4:15pm at mile marker 57 (the 21st street entrance)  You take exit 127 for Emporia at 5:00pm.  No highway patrol officers caught you speeding. But was there a time when you *should* have been pulled over?
 
-[spoiler]
+{{ < spoiler > }}
+
 The Mean Value Theorem says that if $f$ is a continuous function on the closed interval and differentiable on the open interval $(a, b)$, then there is some $c$ in $(a, b)$ such that 
 $$
 f'(c) = \dfrac{f(b)-f(a)}{b - a}
@@ -96,9 +97,9 @@ $$
 f'(c) = \dfrac{f(3/4) - f(0)}{3/4 - 0} = \dfrac{70 - 0}{3/4 - 0} \approx 93.33 \text{mph}
 $$ 
 
-So although your didn't get caught (maybe, say, Waze told you about a speed trap), your average speed was over 90mph, and there was some time between 4:15 and 5:00 when you were doing it, you little lawbreaker, you! :smiling_imp: 
+So although your didn't get caught (maybe, say, Waze told you about a speed trap), your average speed was over 90mph, and there was some time between 4:15 and 5:00 when you were doing it, you little lawbreaker, you! 😈
 
-[/spoiler]
+{{ </ spoiler > }}
 
 ### A real world example(?)
 
