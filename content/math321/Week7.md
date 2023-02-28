@@ -46,7 +46,7 @@ Ask it on Discourse, and let's get it answered!
 
 ## 🎥 Tuesday recitation {#tuesday-recitation-13}
 
-****to be posted****
+{{< youtube id="lQyiNEhYuMM" >}}
 
 ---
 
@@ -56,9 +56,7 @@ Ask it on Discourse, and let's get it answered!
 
 ### Readings / Videos {#readings-videos-11}
 
-[Application:
-Encryption through 3.6.6](https://www.math.wichita.edu/~hammond/class-notes/section-numtheory-encryption.html)
-
+Catch up / buffer day.
 
 ### 📝 Homework {#homework-22}
 
