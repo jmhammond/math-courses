@@ -9,6 +9,12 @@ Your todo list for the week
 <!--more-->
 
 
+## 📖 Solutions to Checkpoint 7
+
+[Here's the original file](https://nextcloud.math.wichita.edu/index.php/s/naGYMgzRZGsSB9A)
+
+[Here's the solutions](Not posted yet)
+
 ## Before class on Tuesday {#before-class-on-tuesday-14}
 
 
