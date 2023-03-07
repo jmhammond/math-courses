@@ -13,9 +13,10 @@ Your todo list for the week
 
 
 ### 📚 Read / Watch {#read-watch-1}
+[Solving
+recurrence relations, continues](https://www.math.wichita.edu/discrete-book/section-solvingrecurrences.html)
 
--   [Math
-    Induction through 4.3.7 (and exercises)](https://www.math.wichita.edu/discrete-book/sec_logic_induction.html)
+
 
 
 ### 📝 Homework {#homework-3}
@@ -48,9 +49,9 @@ Ask it on Discourse, and let's get it answered!
 
 
 ### 📚 Readings / Videos {#readings-videos-2}
-
--   [Math Induction (the rest)](https://www.math.wichita.edu/discrete-book/sec_logic_induction.html)
-
+-   [Math
+    Induction through 4.3.7 (and exercises)](https://www.math.wichita.edu/discrete-book/sec_logic_induction.html)
+-
 
 ### 📝 Homework {#homework-4}
 

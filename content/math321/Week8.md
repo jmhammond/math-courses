@@ -13,7 +13,7 @@ Your todo list for the week
 
 [Here's the original file](https://nextcloud.math.wichita.edu/index.php/s/naGYMgzRZGsSB9A)
 
-[Here's the solutions](Not posted yet)
+[Here's the solutions](https://nextcloud.math.wichita.edu/index.php/s/gd8GrDpcDjJw9WE)
 
 ## Before class on Tuesday {#before-class-on-tuesday-14}
 
@@ -45,8 +45,7 @@ Ask it on Discourse, and let's get it answered!
 
 ## 🎥 Tuesday recitation {#tuesday-recitation-14}
 
-****to be posted****
-
+{{< youtube id="_7pR1zAeIGA" >}}
 ---
 
 
@@ -54,8 +53,6 @@ Ask it on Discourse, and let's get it answered!
 
 
 ### 📚 Readings / Videos {#readings-videos-12}
-
-[Sections and series](https://www.math.wichita.edu/discrete-book/section-objects-seqseries.html)
 
 
 ### 📝 Homework {#homework-24}

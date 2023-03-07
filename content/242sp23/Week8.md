@@ -12,7 +12,7 @@ Your class content for the week
 
 [Here's the original file](https://nextcloud.math.wichita.edu/index.php/s/i4yiQyj3eyJsJDL)
 
-[Here's the solutions](Not posted yet)
+[Here's the solutions](https://nextcloud.math.wichita.edu/index.php/s/2zz7r9rcNmkLejR)
 
 ## 📅 Before class on Monday
 
