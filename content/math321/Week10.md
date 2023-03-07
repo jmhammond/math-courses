@@ -14,7 +14,9 @@ Your todo list for the week
 
 ### 📚 Read / Watch {#read-watch}
 
--   [Solving Recurrence Relations](https://www.math.wichita.edu/discrete-book/section-solvingrecurrences.html)
+
+[Sequences and series](https://www.math.wichita.edu/discrete-book/section-objects-seqseries.html)
+
 
 
 ### 📝 Homework {#homework-1}
@@ -49,7 +51,7 @@ Ask it on Discourse, and let's get it answered!
 ### 📚 Readings / Videos {#readings-videos-1}
 
 [Solving
-recurrence relations, continued](https://www.math.wichita.edu/discrete-book/section-solvingrecurrences.html)
+recurrence relations](https://www.math.wichita.edu/discrete-book/section-solvingrecurrences.html)
 
 
 ### 📝 Homework {#homework-2}
