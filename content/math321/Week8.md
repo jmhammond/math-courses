@@ -76,4 +76,8 @@ Ask it on Discourse, and let's get it answered!
 
 ## 🎥 Thursday recitation {#thursday-recitation-13}
 
-****to be posted****
+Today we didn't have a recorded video. We chatted about the class, but since we've already covered the first half the material and no one had any questions, I don't have anything to upload.
+
+If you haven't yet, please take a few minutes to complete the anonymous [Mid-semester check in](https://wichitastate.co1.qualtrics.com/jfe/form/SV_001FIH8q11QqHBk) that will help me learn what's working and what isn't with this course, so I can make changes for the second half.
+
+Have a great spring break!
