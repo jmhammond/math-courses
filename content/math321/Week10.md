@@ -45,7 +45,10 @@ Ask it on Discourse, and let's get it answered!
 
 ## 🎥 Tuesday recitation {#tuesday-recitation-1}
 
-****to be posted****
+Starting at time stamp about 10:34.  
+{{< youtube id="G77lRJG7RHQ?t=634" >}}
+
+(at the beginning of the video, I mention nominations for a teaching award... I won it!)
 
 ---
 
