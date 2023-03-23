@@ -83,4 +83,5 @@ Ask it on Discourse, and let's get it answered!
 
 ## 🎥 Thursday recitation {#thursday-recitation-1}
 
-****to be posted****
+Still ill today, so here's a re-broadcast from last Fall.  I'll be back to normal next week! 
+{{< youtube id="SlFMaMjMfNM" >}}
