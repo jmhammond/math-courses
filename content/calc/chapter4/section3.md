@@ -91,10 +91,13 @@ If $F$ is an antiderivative of $f$, then we write:
 $$
 \int_a^b f(x) \, dx =  F(x) \Big|_{x = a}^b
 $$
+
 where the 
+
 $$
- F(x)\Big|_{x = a}^{b} 
+F(x)\Big|_{x = a}^{b} 
 $$
+
 means $F(b) - F(a)$.  Plug in upper value, plug in lower value, and subtract them.
 
 Our textbook omits the $x=\dots$ part on the lower bound, but I do it and encourage you as well. Later it will be very beneficial when we're trying to keep track of what the actual variable of integration is.
@@ -123,6 +126,6 @@ $$
 Because the integrand is positive, the integral should also be positive! Since it's negative, that suggests a problem. 
 
 Notice that at $x=0$, the integrand is discontinuous. The fundamental theorem of calculus only applies to continuous functions, so this work is totally incorrect! [^1] 
-{{</spoiler>}}
 
 [^1]: We'll learn about how to deal with 'improper integrals' in calculus 2.
+{{</spoiler>}}
