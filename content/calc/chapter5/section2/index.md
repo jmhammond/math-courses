@@ -83,14 +83,14 @@ Just as we found the area between two curves by finding the difference between t
 Our strategy is the following, if $R(x)$ is the upper radius and $r(x)$ is the inner radius:
 $$
 \begin{align*}
-\text{total volume} &= \text{outer volume} - \text{ inner volume} \\ &= \int_a^b \pi (R(x))^2 \, dx - \int_a^b \pi (r(x))^2 \, dx 
+\text{total volume} &= \text{outer volume} - \text{ inner volume} \\ &= \int_a^b \pi (R(x))^2 \\, dx - \int_a^b \pi (r(x))^2 \\, dx 
 \end{align*}
 $$
 
 Putting it all together, we have the following formula, if $R(x)$ is the outer radius and $r(x)$ is the inner radius of the region bounded between $[a, b]$:
 
 $$
-\text{volume} = \int_a^b \pi \left( (R(x))^2 - (r(x))^2 \right) \, dx
+\text{volume} = \int_a^b \pi \left( (R(x))^2 - (r(x))^2 \right) \\, dx
 $$
 
 ### Example
@@ -121,7 +121,7 @@ Set up an integral to find the volume of the solid obtained by rotating the regi
 
 Here because the axis line is $x=1$, we'll be integrating over the $y$ variables, up and down the region from $y=0$ to $y=1$. 
 
-$\displaystyle V = \int_0^1 \pi ((1-y^2)^2 - (1-\sqrt{y})^2) \, dy$
+$\displaystyle V = \int_0^1 \pi ((1-y^2)^2 - (1-\sqrt{y})^2) \\, dy$
 {{</spoiler>}}
 
 ## Summary on axes
@@ -132,7 +132,7 @@ If we're rotating over the $y$ axis or any line $x=k$ where $k$ is any number, t
 
 ... and one more thing, distances are "bigger thing minus smaller thing," so if the axis of rotation is to the right of the function, it'll be (axis) - (function); if the axis is to the left, it'll be (function) - (axis).
 
-$V = \int_a^b \pi(R(x) - \text{axis})^2\, dx$ if we're revolving over the line $y=\text{axis}$. 
+$V = \int_a^b \pi(R(x) - \text{axis})^2\\, dx$ if we're revolving over the line $y=\text{axis}$. 
 
 ... it just happens to be that if it's the $x$ axis, $\text{axis} = 0$, so $(R(x)-0)^2 = (R(x))^2$, so it all comes out in the wash(er).
 

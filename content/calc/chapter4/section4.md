@@ -11,11 +11,11 @@ Section 4.4 Indefinite Integrals
 <!--more-->
 
 If $f$ is continuous on $[a, b]$ and $F$ is an antiderivative of $f$, 
-- the  **definite integral** $\displaystyle \int_a^b f(x) \, dx = F(b) - F(a)$ 
+- the  **definite integral** $\displaystyle \int_a^b f(x) \\, dx = F(b) - F(a)$ 
    is a *number*. We find the *definite* exactly value.
 - the **indefinite integral** is a *function* or a family of functions. 
    $$
-\int f(x) \, dx = F(x) + C
+\int f(x) \\, dx = F(x) + C
    $$
    where $C$ is some constant. 
 
@@ -33,14 +33,14 @@ since the derivative of that family of functions is always $x^2$, any of them is
 
 ### Many, many integrals
 
-- $\displaystyle\int cf(x)\,dx=c \int f(x)\, dx$                     
-- $\displaystyle\int(f(x) + g(x))\, dx=\int f(x)\, dx + \int g(x)\, dx $            
-- $\displaystyle\int k \,dx=kx + C$ 
-- $\displaystyle\int x^n \, dx  =\dfrac{x^{n+1}}{n+1} + C$      if $n \ne -1$  
-- $\displaystyle\int \cos x \, dx  =\sin x     +C         $      
-- $\displaystyle\int \sin x  \,dx =-\cos x      +C       $      
-- $\displaystyle\int \sec^2 x \, dx=\tan x       +C       $      
-- $\displaystyle\int \sec x \tan x\, dx=\sec x     +C         $      
+- $\displaystyle\int cf(x)\\,dx=c \int f(x)\\, dx$                     
+- $\displaystyle\int(f(x) + g(x))\\, dx=\int f(x)\\, dx + \int g(x)\\, dx $            
+- $\displaystyle\int k \\,dx=kx + C$ 
+- $\displaystyle\int x^n \\, dx  =\dfrac{x^{n+1}}{n+1} + C$      if $n \ne -1$  
+- $\displaystyle\int \cos x \\, dx  =\sin x     +C         $      
+- $\displaystyle\int \sin x  \\,dx =-\cos x      +C       $      
+- $\displaystyle\int \sec^2 x \\, dx=\tan x       +C       $      
+- $\displaystyle\int \sec x \tan x\\, dx=\sec x     +C         $      
 
 Any time you integrate, you can always check your answer by differentiating! 
 
@@ -48,7 +48,7 @@ Any time you integrate, you can always check your answer by differentiating!
 
 Evaluate the integral
 $$
-\int 15x^4 - \cos x \, dx
+\int 15x^4 - \cos x \\, dx
 $$
 
 {{< youtube rsiD9WOTO4A >}}
@@ -57,7 +57,7 @@ $$
 
 Evaluate the integral
 $$
-\int_0^2 x^3 - 5x  \, dx
+\int_0^2 x^3 - 5x  \\, dx
 $$
 
 {{< youtube YskwLedoL2k >}}
@@ -72,7 +72,7 @@ Find the area under the $y=\sin x$ between $-\pi/2$ and $\pi/2$
 
 Evaluate the integral
 $$
-\int \sec t (\sec t + \tan t) \, dt
+\int \sec t (\sec t + \tan t) \\, dt
 $$
 
 {{< youtube EjzkOZZXQn0 >}}

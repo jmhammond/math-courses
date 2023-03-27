@@ -143,7 +143,7 @@ $$
 Integration is usually framed as "area" under a curve, but as we saw above, it's really always "adding together something times something else."
 
 ### Example 
- $f(x)$ is the slope of the trail at a distance of $x$ miles from the start of the trail, what does $\int_3^5 f(x)\, dx$ represent? 
+ $f(x)$ is the slope of the trail at a distance of $x$ miles from the start of the trail, what does $\int_3^5 f(x)\\, dx$ represent? 
 
 **Hint** The 'rectangles' we're multiplying are slope by distance.
 {{<spoiler>}}
@@ -157,7 +157,7 @@ The integral will represent the total change in elevation between 3 and 5 miles.
 {{</spoiler>}}
 
 ### Example
- A honeybee population starts with 100  bees and increases at a rate of $n'(t)$ bees per week. What does $100+\int_0^{15} n'(t)\, dt$ represent?
+ A honeybee population starts with 100  bees and increases at a rate of $n'(t)$ bees per week. What does $100+\int_0^{15} n'(t)\\, dt$ represent?
 
 **Hint**: The 'rectangles' are rate of population increase per week multiplied by weeks.
 {{<spoiler>}}
@@ -167,7 +167,7 @@ The integral is the total change in population, but since we're adding 100, the 
 {{</spoiler>}}
 
 ### Example
- If $w'(t)$ is the rate of growth of a child in pounds per year, what does $\int_5^{10} w'(t)\, dt$ represent?
+ If $w'(t)$ is the rate of growth of a child in pounds per year, what does $\int_5^{10} w'(t)\\, dt$ represent?
 
 {{<spoiler>}}
 The change in the child's weight (in pounds) between the ages of 5 and 10. 

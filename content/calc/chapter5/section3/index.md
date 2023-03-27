@@ -54,7 +54,7 @@ Find the volume of the solid obtained by revolving the region bounded by $y=x^2$
    If rotating over a horizontal line, integrate with respect to $x$. 
 5. Area function is $A(x) = \pi (\text{outer radius})^2 - \pi(\text{inner radius})^2$ 
     (using $x$ or $y$ depending on what we'll integrate with respect to.
-6. Volume is $\int_a^b A(x)\,dx$ or (or $y$'s). 
+6. Volume is $\int_a^b A(x)\\,dx$ or (or $y$'s). 
 
 
 **Cylindrical Shell** Method
@@ -65,7 +65,7 @@ Find the volume of the solid obtained by revolving the region bounded by $y=x^2$
    If rotating over a horizontal line, integrate with respect to $y$
 5. The area function is $A(x) = 2\pi (\text{radius})(\text{height})$   
    using whatever variable we integrate with respect to.
-6. **Same**. Volume is $\int_a^b A(x)\,dx$ or (or $y$'s). 
+6. **Same**. Volume is $\int_a^b A(x)\\,dx$ or (or $y$'s). 
 
 ### Example
 

@@ -29,7 +29,7 @@ $$
 ### Average Value of a Function
 If $f$ is a continuous function on an interval $[a, b]$, we define the average value of $f$ on that interval to be:
 $$
-f_{\text{ave}} = \dfrac{1}{b-a} \int_a^b f(x)\, dx
+f_{\text{ave}} = \dfrac{1}{b-a} \int_a^b f(x)\\, dx
 $$
 
 **Notation note** The text uses $f_{\text{ave}}$ but I like to abbreviate average by "avg," so if you see me write $f_{\text{avg}}$, I mean the exact same thing. It's my fave way of writing it. 
@@ -41,8 +41,8 @@ Find the average value of $\cos x$ on the interval $[0, \pi/2]$.
 Solution:
 {{<spoiler>}}
 $\begin{align*}
-f_\text{ave} &= \dfrac{1}{b-a} \int_a^b f(x) \, dx \\
-&= \dfrac{1}{\frac\pi2 - 0} \int_0^{\pi/2} \cos x\, dx \\
+f_\text{ave} &= \dfrac{1}{b-a} \int_a^b f(x) \\, dx \\
+&= \dfrac{1}{\frac\pi2 - 0} \int_0^{\pi/2} \cos x\\, dx \\
 &= \frac2\pi (\sin x) \Big|_{x=0}^{\pi/2} \\
 &= \frac2\pi (\sin (\pi/2) - \sin 0) \\
 &= \frac2\pi 
@@ -58,8 +58,8 @@ Find the average value of the function $\sin x$ between $0$ and $\pi$.
 Solution:
 {{<spoiler>}}
 $\begin{align*}
-f_\text{ave} &= \dfrac{1}{b-a} \int_a^b f(x) \, dx \\
-&= \dfrac{1}{\frac\pi - 0} \int_0^{\pi} \sin x\, dx \\
+f_\text{ave} &= \dfrac{1}{b-a} \int_a^b f(x) \\, dx \\
+&= \dfrac{1}{\frac\pi - 0} \int_0^{\pi} \sin x\\, dx \\
 &= \frac1\pi (-\cos x) \Big|_{x=0}^{\pi} \\
 &= \frac1\pi (-\cos (\pi) - -\cos 0) \\
 &= \frac1\pi (-(-1) + 1)\\
@@ -73,8 +73,8 @@ Find the average value of $f(x) = x^2$ between -2 and 2.
 Solution:
 {{<spoiler>}}
 $\begin{align*}
-f_\text{ave} &= \dfrac{1}{b-a} \int_a^b f(x) \, dx \\
-&= \dfrac{1}{2 - (-2)} \int_{-2}^2 x^2 \, dx \\
+f_\text{ave} &= \dfrac{1}{b-a} \int_a^b f(x) \\, dx \\
+&= \dfrac{1}{2 - (-2)} \int_{-2}^2 x^2 \\, dx \\
 &= \dots\\
 &= \frac43
 \end{align*}$
@@ -87,12 +87,12 @@ We had a Mean Value Theorem for derivatives which told us that *there is a point
 
 If $f$ is continuous on $[a,b]$ then there exists a number $c$ in $[a, b]$ so that
 $$
-f(c) = \dfrac{1}{b-a} \int_a^b f(x)\, dx
+f(c) = \dfrac{1}{b-a} \int_a^b f(x)\\, dx
 $$
 
 or equivalently,
 $$
-\int_a^b f(x) \, dx = f(c) (b-a)
+\int_a^b f(x) \\, dx = f(c) (b-a)
 $$
 
 ### Example 

@@ -62,7 +62,7 @@ Let's graph with force along the $y$ axis and distance along the $x$ axis.
 
 Since our time ranges from $x=0m$ and $x=5m$, we could compute the integral with the function $f(x) = 2\text{N}$
 
-$\begin{align*} W = \int_{0\text{m}}^{5\text{m}} 2 \text{N} \, dx &= (2\text{N}) x \Big|_{x=0m}^{5m} \\  &= (2\text{N})(5 \text{m})- (2\text{N})(0\text{m}) \\ &= 10 \text{N} \end{align*}$
+$\begin{align*} W = \int_{0\text{m}}^{5\text{m}} 2 \text{N} \\, dx &= (2\text{N}) x \Big|_{x=0m}^{5m} \\  &= (2\text{N})(5 \text{m})- (2\text{N})(0\text{m}) \\ &= 10 \text{N} \end{align*}$
 
   
 ## Force varying across distance
@@ -73,7 +73,7 @@ What if the force changes at different points through the distance? In this exam
 
 Let's find the work using integrals!
 
-$\begin{align*} W &= \int_1^5 f(x) \, dx \\ &= \int_1^2 f(x) \, dx + \int_2^3 f(x) \, dx \\ &= \int_3^4 f(x)\, dx \\ &= \int_4^5 f(x) \, dx \\ &= 2 + 3 + 1.5 + 1 \\ &= 7.5 \text{Nm}   \\ &= 7.5 \text{J} \end{align*}$
+$\begin{align*} W &= \int_1^5 f(x) \\, dx \\ &= \int_1^2 f(x) \\, dx + \int_2^3 f(x) \\, dx \\ &= \int_3^4 f(x)\\, dx \\ &= \int_4^5 f(x) \\, dx \\ &= 2 + 3 + 1.5 + 1 \\ &= 7.5 \text{Nm}   \\ &= 7.5 \text{J} \end{align*}$
 
 ## Example 
 
@@ -82,7 +82,7 @@ A particle moves along the $x$ axis at a force of $\dfrac{10}{(1+x)^2}$ pounds a
 Solution:
 Here the force is $f(x) = \dfrac{10}{(1+x)^2} \text{lb}$. 
 So 
-$\begin{align*} W = \int_a^b f(x) \, dx &= \int_{0}^{9\text{ft}} \dfrac{10}{(1+x)^2} \text{lb} \, dx  \end{align*}$
+$\begin{align*} W = \int_a^b f(x) \\, dx &= \int_{0}^{9\text{ft}} \dfrac{10}{(1+x)^2} \text{lb} \\, dx  \end{align*}$
 ... integrate (hint: $u$-substitution $u=1+x$)
 ...
 and so the force is $9 \text{ft-lb}$. 

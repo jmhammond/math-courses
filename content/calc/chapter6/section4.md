@@ -12,11 +12,11 @@ Section 6.4 - Calculus of Logarithms
 
 ## Derivative of the Logarithm
 
-Remember that we said the previous post that $\displaystyle \ln(x) = \int_1^x \frac1t \, dt$?
+Remember that we said the previous post that $\displaystyle \ln(x) = \int_1^x \frac1t \\, dt$?
 Use the Fundamental Theorem of Calculus do see that 
 $
 \begin{align*}
-\dfrac{d}{dx} \ln x &= \dfrac{d}{dx} \int_1^{x} \frac1t \, dt \\
+\dfrac{d}{dx} \ln x &= \dfrac{d}{dx} \int_1^{x} \frac1t \\, dt \\
 &= \frac1x
 \end{align*} $
 
@@ -36,14 +36,14 @@ Compute the derivative $\dfrac{d}{dx} \ln (\sqrt x)$.
 Our previous definition of the natural logarithm was as a definite integral, but we can also evaluate the *indefinite* integral:
 
 $$
-\int \frac1x \, dx = \ln |x| + C  \hspace{1em} \text{for } x\ne 0
+\int \frac1x \\, dx = \ln |x| + C  \hspace{1em} \text{for } x\ne 0
 $$
 
 Notice the absolute value bars on the logarithm! They are essential since the domain of the logarithm requires a positive number!
 
 ### Example
 
-Evaluate the integral $\displaystyle \int \dfrac{x}{x^2 - 1} \, dx$
+Evaluate the integral $\displaystyle \int \dfrac{x}{x^2 - 1} \\, dx$
 
 {{< youtube DIQ1FXeQxAM >}}
 
@@ -55,7 +55,7 @@ We can now find the antiderivative of more trig functions! Find the antiderivati
 
 Check your work:
 {{<spoiler>}}
-$\int \tan x \, dx = \ln | \sec x| +C$ and $\int \cot x \,dx = \ln | \sin x | + C$
+$\int \tan x \\, dx = \ln | \sec x| +C$ and $\int \cot x \\,dx = \ln | \sin x | + C$
 {{</spoiler>}}
 
 

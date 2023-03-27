@@ -82,10 +82,10 @@ Find the derivative of $y = e^{2x} \cos x$
 
 Since $\dfrac{d}{dx} e^x = e^x$, that gives rise to its integral: 
 $$
-\int e^x \, dx = e^x + C
+\int e^x \\, dx = e^x + C
 $$
 
 ### Example
-Evaluate $\int x^2 e^{x^3} \, dx$
+Evaluate $\int x^2 e^{x^3} \\, dx$
 
 {{< youtube o1gzIXCOY8E >}}

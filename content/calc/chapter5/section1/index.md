@@ -22,17 +22,17 @@ We'll do this two ways.
 
 1. Method 1:
    a. Find the area under the red curve:
-   $\int_1^2 x+1 \,dx$ 
+   $\int_1^2 x+1 \\,dx$ 
    b. Find the area under the blue curve:
-   $\int_1^2 -x + 3 \,dx$
+   $\int_1^2 -x + 3 \\,dx$
    c. Subtract those two areas in order to remove the region of overlap and leave us with the yellow shaded area pictured above. 
     $$
-\left(\int_1^2 x+1 \,dx \right) - \left( \int_1^2 -x + 3 \, dx \right)
+\left(\int_1^2 x+1 \\,dx \right) - \left( \int_1^2 -x + 3 \\, dx \right)
     $$
 2. Method two:
    Use properties of integrals to compute a single integral: 
   $$
-\int_1^2 (x+1) - (-x + 3) \, dx
+\int_1^2 (x+1) - (-x + 3) \\, dx
 $$
 
 Method two gives rise to the following generalization: 
@@ -41,13 +41,13 @@ Method two gives rise to the following generalization:
 
 If $f(x)$ and $g(x)$ are continuous functions on an interval $[a, b]$ and $f(x) \ge g(x)$, then the area between the two functions is given by:
 $$
-\text{Area} = \int_a^b f(x) - g(x) \, dx
+\text{Area} = \int_a^b f(x) - g(x) \\, dx
 $$
 
 It is always 
 
 $$
-\text{Area} = \int_a^b \text{upper function}  - \text{lower function} \, dx
+\text{Area} = \int_a^b \text{upper function}  - \text{lower function} \\, dx
 $$
 ### Example 
 Find the area above $y=x^2$ and below $y=x$ between $x=0$ and $x=1$. 
@@ -57,7 +57,7 @@ Find the area above $y=x^2$ and below $y=x$ between $x=0$ and $x=1$.
 Solution by thinking about $x$ variables: 
 {{<spoiler>}}
 $$
-\int_0^1 x - x^2 \, dx  = \frac16
+\int_0^1 x - x^2 \\, dx  = \frac16
 $$
 where we use the power rule and fundamental theorem of calculus. If you have questions, ask them below!
 {{</spoiler>}}
@@ -76,7 +76,7 @@ For this region, notice how the upper/lower function change roles:
 On the interval $[0, \pi/4]$ cosine is the larger function, while on the interval $[\pi/4, \pi/2]$ it is the sine function that is the upper function. For this reason, we need to split the area integral at $x=\pi/4$: 
 
 $\begin{align*}
-\text{Area} &= \int_0^{\pi/4} \cos x - \sin x \,dx + \int_{\pi/4}^{\pi/2} \sin x - \cos x \, dx \\
+\text{Area} &= \int_0^{\pi/4} \cos x - \sin x \\,dx + \int_{\pi/4}^{\pi/2} \sin x - \cos x \\, dx \\
 &= \left(\sin x - (-\cos x) \right) \Big|_{x=0}^{\pi/4} + \left((-\cos x) - \sin x \right)  \Big|_{x=\pi/4}^{\pi/2} \\
 &= \left[ \left(\sin(\pi/4) + \cos(\pi/4) \right) - \left( \sin(0) + \cos(0) \right)\right] + \left[\left(-\cos(\pi/2) - \sin(\pi/2) \right) - \left(-\cos(\pi/4) - \sin(\pi/4)\right)\right] \\
 &= \left[\frac{\sqrt{2}}{2} + \frac{\sqrt2}{2} - 0 - 1 \right] + \left[0 - 1 + \frac{\sqrt2}{2} + \frac{\sqrt{2}}{2} \right] \\

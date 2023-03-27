@@ -85,10 +85,10 @@ Note:  $\ln x = y \iff e^y = x$
 The *natural logarithm* gives the area under the hyperbola $\frac1x$. That is, we can **define** the natural logarithm by the equation
 
 $$
-\ln(x) = \int_1^x \frac1t \, dt
+\ln(x) = \int_1^x \frac1t \\, dt
 $$
 
-so that $\ln(a) = \int_1^a \frac1x \,dx$:
+so that $\ln(a) = \int_1^a \frac1x \\,dx$:
 
 {{< img src="6.3.naturallog.png" alt="">}}
 
