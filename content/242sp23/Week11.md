@@ -8,9 +8,12 @@ ShowBreadCrumbs = true
 Your class content for the week
 <!--more-->
 
-## 📖 Solutions to Checkpoint 10
+## 📖 Solutions to Checkpoint 9
 
-**will be posted soon**
+[Original file](https://nextcloud.math.wichita.edu/index.php/s/ARrkmgde4MCfF3E)
+
+[Here are the solutions](https://nextcloud.math.wichita.edu/index.php/s/FFDRTCZyP4SQNoF)
+
 
 ## 📅 Before class on Monday
 
