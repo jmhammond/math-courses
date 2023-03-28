@@ -35,9 +35,8 @@ The idea of the limiting process is that we're adding together smaller and small
 
 ### Example: Fitting the definition
 Represent the following limit as an integral:
-
 $$
-\lim_{n\to \infty} \sum_{i=1}^n \dfrac{x_i^*}{(x^*_i)^2 + 4} \\, \Delta x \text{ on } [1, 3]
+\lim_{n\to \infty} \sum_{i=1}^n \dfrac{x_i^\*}{(x^*_i)^2 + 4} \\, \Delta x \text{ on } [1, 3]
 $$
 
 Solution:
@@ -53,7 +52,7 @@ $$
 
 Solution: 
 {{<spoiler>}}
-$\displaystyle \lim_{n\to \infty} \sum_{i=1}^n (x_i^*)^2 -4x_i^* + 1 \\, \Delta x$
+$\displaystyle \lim_{n\to \infty} \sum_{i=1}^n (x_i^*)^2 -4x_i^\* + 1 \\, \Delta x$
 where $\Delta x = \dfrac{5-0}{n}$. 
 {{</spoiler>}}
 
