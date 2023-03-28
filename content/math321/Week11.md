@@ -45,7 +45,7 @@ Ask it on Discourse, and let's get it answered!
 
 ## 🎥 Tuesday recitation {#tuesday-recitation-2}
 
-****to be posted****
+{{< youtube id="UjBy-kmlJFw" >}}
 
 ---
 
@@ -79,4 +79,6 @@ Ask it on Discourse, and let's get it answered!
 
 ## 🎥 Thursday recitation {#thursday-recitation-2}
 
-****to be posted****
+As I noted in class on Tuesday, I'm unavailable for class due to a medical thing. Here's one final re-broadcast from last semester:
+
+{{< youtube id="3uSc5SAeDcE" >}}
