@@ -138,6 +138,4 @@ $V = \int_a^b \pi(R(x) - \text{axis})^2\\, dx$ if we're revolving over the line 
 
 
 
----
-
 [^1]: <a href="https://chem.libretexts.org/@go/page/4193"> " Volume by Cross-Sectional Area- Disk and Washer Methods" </a> by <a id="attr-author-link" href="http://www.apexcalculus.com/">Gregory Hartman et al.</a>, <a href="https://libretexts.org/">LibreTexts</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/"> CC BY-NC </a>.
