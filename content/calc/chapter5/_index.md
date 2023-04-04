@@ -1,6 +1,6 @@
 ---
 author: John Hammond
-title: Chapter 6
+title: Chapter 5
 description: Applications of Integration
 mathjax: false
 ShowBreadCrumbs: true
