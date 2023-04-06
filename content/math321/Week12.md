@@ -80,15 +80,4 @@ Ask it on Discourse, and let's get it answered!
 
 ## 🎥 Thursday recitation {#thursday-recitation-3}
 
-
-### A little complicated {#a-little-complicated}
-
-Here's the class video that I recorded live... but... a guy was outside with a boom lift that was beeping and he was hammering and caulking. I complain in this video a lot, and canceled class because I couldn't concentrate.
-****to be posted****
-
-as a result, I'm including my video from last Fall over this section that might be helpful.
-
-
-### Here's my video from Fall 2021 (trimmed for the relevant parts) {#here-s-my-video-from-fall-2021--trimmed-for-the-relevant-parts}
-
-****to be posted****
+{{< youtube id="K47nAfDLEtM" >}}
