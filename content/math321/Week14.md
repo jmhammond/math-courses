@@ -10,9 +10,8 @@ Your todo list for the week
 
 
 ## Before class on Tuesday {#before-class-on-tuesday-5}
+[Binomial Coefficients and combinatorial proof](https://www.math.wichita.edu/discrete-book/section-counting-binomial.html)
 
-No new topics; continue discussing combinatorial proof and discussing
-questions.
 
 ---
 
@@ -22,8 +21,8 @@ questions.
 ****to be posted****
 
 ---
+## Thursday
 
+No new topics; continue discussing combinatorial proof and discussing
+questions.
 
-## No class Thursday (Thanksgiving) {#no-class-thursday-thanksgiving}
-
-Happy Thanksgiving! 🦃

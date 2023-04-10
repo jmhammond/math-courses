@@ -14,8 +14,9 @@ Your todo list for the week
 
 ### 📚 Read / Watch {#read-watch-4}
 
--   [Combinatorial
-    proof](https://www.math.wichita.edu/discrete-book/section-counting-binomial.html)
+
+[Counting Fibonacci Numbers with combinatorial proof](https://www.math.wichita.edu/discrete-book/section-counting-fib.html)
+
 
 
 ### 📝 Homework {#homework-9}
@@ -46,10 +47,9 @@ Ask it on Discourse, and let's get it answered!
 
 ## Before Class on Thursday {#before-class-on-thursday-5}
 
+Combinatorial proof.
 
 ### 📚 Readings / Videos {#readings-videos-5}
-
-[Counting Fibonacci Numbers with combinatorial proof](https://www.math.wichita.edu/discrete-book/section-counting-fib.html)
 
 
 ### 📝 Homework {#homework-10}
