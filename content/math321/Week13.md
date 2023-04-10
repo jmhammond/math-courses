@@ -14,8 +14,7 @@ Your todo list for the week
 
 ### 📚 Read / Watch {#read-watch-3}
 
--   [Permutations
-    and Combinations](https://www.math.wichita.edu/discrete-book/section-counting-combperm.html)
+[Multiplicative and Addititive Principles](https://www.math.wichita.edu/discrete-book/section-counting-basics.html)
 
 
 ### 📝 Homework {#homework-7}
@@ -43,8 +42,9 @@ Your todo list for the week
 
 
 ### 📚 Readings / Videos {#readings-videos-4}
+-   [Permutations
+    and Combinations](https://www.math.wichita.edu/discrete-book/section-counting-combperm.html)
 
-[Binomial Coefficients and combinatorial proof](https://www.math.wichita.edu/discrete-book/section-counting-binomial.html)
 
 
 ### 📝 Homework {#homework-8}
