@@ -38,7 +38,8 @@ Your todo list for the week
 
 ## 🎥 Tuesday recitation {#tuesday-recitation-4}
 
-****to be posted****
+Nobody came to the live class, so I'm posting this video from a previous semester (and if you have any questions, please let me know -- I'll respond very quickly!)
+{{< youtube id="XhK3A-yPKmw" >}}
 
 ---
 
