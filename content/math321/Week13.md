@@ -69,4 +69,4 @@ Nobody came to the live class, so I'm posting this video from a previous semeste
 
 ## 🎥 Thursday recitation {#thursday-recitation-4}
 
-****to be posted****
+{{< youtube id="V0dCI05bp0g" >}}
