@@ -41,8 +41,8 @@ Find the average value of $\cos x$ on the interval $[0, \pi/2]$.
 Solution:
 {{<spoiler>}}
 $\begin{align*}
-f_\text{ave} &= \dfrac{1}{b-a} \int_a^b f(x) \\, dx \\
-&= \dfrac{1}{\frac\pi2 - 0} \int_0^{\pi/2} \cos x\\, dx \\
+f_\text{ave} &= \dfrac{1}{b-a} \int_a^b f(x) \, dx \\
+&= \dfrac{1}{\frac\pi2 - 0} \int_0^{\pi/2} \cos x\, dx \\
 &= \frac2\pi (\sin x) \Big|_{x=0}^{\pi/2} \\
 &= \frac2\pi (\sin (\pi/2) - \sin 0) \\
 &= \frac2\pi 
@@ -58,8 +58,8 @@ Find the average value of the function $\sin x$ between $0$ and $\pi$.
 Solution:
 {{<spoiler>}}
 $\begin{align*}
-f_\text{ave} &= \dfrac{1}{b-a} \int_a^b f(x) \\, dx \\
-&= \dfrac{1}{\frac\pi - 0} \int_0^{\pi} \sin x\\, dx \\
+f_\text{ave} &= \dfrac{1}{b-a} \int_a^b f(x) \, dx \\
+&= \dfrac{1}{\frac\pi - 0} \int_0^{\pi} \sin x\, dx \\
 &= \frac1\pi (-\cos x) \Big|_{x=0}^{\pi} \\
 &= \frac1\pi (-\cos (\pi) - -\cos 0) \\
 &= \frac1\pi (-(-1) + 1)\\
