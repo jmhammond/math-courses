@@ -23,7 +23,7 @@ Your todo list for the week
 
 ## 🎥 Tuesday recitation {#tuesday-recitation-5}
 
-****to be posted****
+{{< youtube id="pnDFeQw4fy4" >}}
 
 ---
 ## Thursday
