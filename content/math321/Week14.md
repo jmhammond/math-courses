@@ -31,3 +31,6 @@ Your todo list for the week
 No new topics; continue discussing combinatorial proof and discussing
 questions.
 
+## 🎥 Tuesday recitation {#tuesday-recitation-5}
+
+{{< youtube id="3VnNj2p4SmA" >}}
