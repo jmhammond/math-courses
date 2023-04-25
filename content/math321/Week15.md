@@ -30,8 +30,7 @@ Ask it on Discourse, and let's get it answered!
 
 ## 🎥 Tuesday recitation {#tuesday-recitation-6}
 
-****to be posted****
-
+{{< youtube id="9GShDNHUVU8" >}}
 ---
 
 
