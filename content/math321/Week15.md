@@ -49,4 +49,4 @@ Ask it on Discourse, and let's get it answered!
 
 ## 🎥 Thursday recitation {#thursday-recitation-5}
 
-****to be posted****
+{{< youtube id="UJaKJwrMvFo" >}}
