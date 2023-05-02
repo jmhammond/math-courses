@@ -20,7 +20,7 @@ are both fully comprehensive - every learning target is available.
 
 ## 🎥 Tuesday recitation {#tuesday-recitation-7}
 
-****to be posted****
+{{< youtube id="29Pq2C6-9ik" >}}
 
 ---
 
