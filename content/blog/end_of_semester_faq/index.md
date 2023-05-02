@@ -59,4 +59,4 @@ Maybe? My Fall 2023 (current) schedule is:
     - it's different than the other one.  
     - it's a new class we're running for the fall.
 * Math 531 - History of Mathematics  
-    - Yes, it is as awesome as you've heard.
+    - Yes, it is as awesome as you've heard.b
