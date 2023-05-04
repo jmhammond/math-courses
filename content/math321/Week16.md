@@ -35,4 +35,4 @@ whole-semester review!
 
 ## 🎥 Thursday recitation {#thursday-recitation-6}
 
-****to be posted****
+<iframe src="https://wichitaedu.sharepoint.com/sites/TestingAClass/_layouts/15/embed.aspx?UniqueId=c11ec518-2df3-485f-b4eb-1ed61f0ffeb6&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Meeting in _General_-20230504_153848-Meeting Recording.mp4"></iframe>
