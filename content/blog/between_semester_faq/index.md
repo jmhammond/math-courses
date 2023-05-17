@@ -1,5 +1,5 @@
 ---
-title: "End of Semester Frequently Asked Questions"
+title: "Between Semesters Frequently Asked Questions"
 tags:
   - teaching
 date: 2023-05-02

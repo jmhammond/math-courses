@@ -15,7 +15,7 @@ Below are answers to some frequently asked questions I get after the semester is
 
 I can't talk about grades over email due to [FERPA regulations.](https://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html) Your final letter grade is on [MyWSU](https://mywsu.wichita.edu). 
 
-### I got almost all of the question right on _. Can I get credit? 
+### I got almost all of the question right on ___. Can I get credit? 
 
 Sorry, no. The grading is, on the one hand, draconian because it is "all right or it's wrong." However, every individual learning target has the opportunity to be revisited six times(!) with each learning target appearing up to four weeks in a row and then again during the last week of classes and finals week. 
 
@@ -35,7 +35,7 @@ There is no extra credit - only normal credit!
 
 The semester is over and there were many, many chances to earn credit on learning targets. Your final grade is what you earned and there is no way to raise (or lower) your grade.
 
-### Can I retake learning target _? 
+### Can I retake learning target ___? 
 
 The learning targets showed up four weekends in a row and then again during the last week and finals week there are no additional retakes.
 
@@ -49,7 +49,7 @@ They've just always been my favorite animal. In fact, my wife got me a toy squir
 
 No. In exchange for hard deadlines, we had opportunities to revisit the learning targets multiple times throughout the semester. This provided the flexibility of missing a checkpoint but being able to recover the material during the semester.
 
-### Are you teaching _? 
+### Are you teaching ___? 
 
 Maybe? My Fall 2023 (current) schedule is: 
 
