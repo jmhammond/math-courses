@@ -103,7 +103,7 @@ Me: "What is proof the Al-Khwarizmi contributed to trigonometry?"
 > He developed a method for calculating tangent values.
 > He introduced the concept of the versine, which is a trigonometric function that is related to the sine function.
 
-He made a *Zij* - a table of values for astronomical purposes. but I'm not sure about this versine business.
+He made a *Zij* - a table of values for astronomical purposes. 
 
 > He wrote a book on trigonometry that was translated into Latin and became a standard reference work in Europe for centuries.
 
