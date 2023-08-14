@@ -14,17 +14,16 @@ Your todo list for the week
 They're being marked and feedback is being given. I've slow to grade (as
 I've already said many times). When it's done, you'll find your feedback
 on Blackboard &gt; Gradebook &gt; Checkpoint 1. I'll also update the relevant
-learning target columns on Blackboard's gradebook.
-[More information about where to find grades is in a video here](https://youtu.be/cjoz2SwNo70).
+learning target entries on Blackboard's gradebook.
+    - Yellow means you got it correct once. 
+    - Next week, if you get it correct again, it'll be Green (PM) and you're done!
 
 ---
 
 
 ## Checkpoint 1 solutions {#checkpoint-1-solutions}
 
-[Here is the original file](https://nextcloud.math.wichita.edu/index.php/s/nbTNeedxHfxqCXA)
-
-[and here are the solutions.](https://nextcloud.math.wichita.edu/index.php/s/kwN3Nz664zBsSeR)
+... to be posted later...
 
 
 ## Before class on Tuesday {#before-class-on-tuesday-8}
@@ -48,16 +47,10 @@ learning target columns on Blackboard's gradebook.
     Discrete Structures](http://faculty.uml.edu/klevasseur/ads/index-ads.html).
 
 
-### Questions? {#questions-8}
-
-Ask it on Discourse, and let's get it answered!
-
----
-
 
 ## 🎥 Tuesday recitation {#tuesday-recitation-8}
 
-{{< youtube id="iiOgtuyBvzI" >}}
+... to be posted after...
 
 ---
 
@@ -83,13 +76,6 @@ Ask it on Discourse, and let's get it answered!
     Discrete Structures](http://faculty.uml.edu/klevasseur/ads/index-ads.html).
 
 
-### Questions? {#questions-9}
-
-Ask it on Discourse, and let's get it answered!
-
----
-
 
 ## 🎥 Thursday recitation {#thursday-recitation-7}
-
-{{< youtube id="FmvYaC54B3Q" >}}
+... to be posted...
