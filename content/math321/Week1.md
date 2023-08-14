@@ -19,16 +19,15 @@ is this class and how does it work?"
 
 ## 🎥 Tuesday recitation (Welcome / About This Class) {#tuesday-recitation}
 
-If you watched the video linked through the Blackboard announcement, you've already seen this.  This is an overview about the course, the book, blackboard, the grading system. [If you have questions, please let me know!](https://discourse.math.wichita.edu/t/questions-about-the-course-grading-system-anything/1361) (link is over to Discourse; remember you have to login to view it).
+... to be posted after the class session...
 
-{{< youtube id="aFqMsrm98vY" >}}
 
 ---
 
 
 ## Sample checkpoint is available. {#sample-checkpoint-is-available-dot}
 
-[You can find information about the sample checkpoint along with solutions here.](https://discourse.math.wichita.edu/t/sample-checkpoint-1-and-solutions/1108)
+[You can find the sample checkpoint here.](https://nextcloud.math.wichita.edu/index.php/s/LHQ5CmJTMRgcni5) 
 
 
 ## Before Class on Thursday {#before-class-on-thursday}
@@ -39,9 +38,7 @@ If you watched the video linked through the Blackboard announcement, you've alre
 -   [Propositional Logic](https://www.math.wichita.edu/~hammond/class-notes/section-prop-logic.html)
 -   [Sets](https://www.math.wichita.edu/~hammond/class-notes/sec_objects_sets.html)
 
-If you have any questions at any time - click reply at the bottom of the
-page and ask! I'll be quick to answer!
-
+If you have any questions at any time - please let me know! Send me a an email or a message over on Teams.
 
 ### 📝 Homework {#homework}
 
@@ -55,4 +52,4 @@ page and ask! I'll be quick to answer!
 
 ## 🎥 Thursday recitation {#thursday-recitation}
 
-{{< youtube id="mRtrd-OZiEg" >}}
+... to be posted after it's done.
