@@ -22,7 +22,7 @@ Section 1.7 formal definition of the limit
   {{< img src="1.7.halfneighborhood.jpeg" alt="">}}
   Write this as an interval and try completing this inequality:
   $| x - ? | < 1/2$
-    {{<spoiler>}}$\left(-\frac12, \frac32\right)$.  We'll write this as an inequality $|x-1| < 1/2${{</spoiler>}} 
+    {{<spoiler>}}$\left(\frac12, \frac32\right)$.  We'll write this as an inequality $|x-1| < 1/2${{</spoiler>}} 
 
 
 ## The idea
